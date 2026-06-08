@@ -1,0 +1,11 @@
+section,offset,end,kind,value
+region,0x0,0x76a,binary_header,tilemap / collision / bytecode (probablement compressé)
+region,0x76a,0x7c1,entity_labels,noms d'entités (préfixe 0x01 + 4×00)
+region,0x7c1,0x800,npc_table,table NPC / pointeurs script (binaire)
+entity,0x76a,,label,野良犬
+entity,0x7b7,,label,狂犬
+script,0x55,,0x02,屏&
+script,0x46e,,0x01,棹@
+script,0x4c8,,0x01,煮
+script,0x6cb,,0x10,珊S閠琲
+script,0x777,,0x02,r$0は$nうなっている!

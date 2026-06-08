@@ -1,0 +1,12 @@
+Mesen2 decompress dump
+cpu state: table: 0x93c27e400
+cpu_nz=$C000 window: 7685/8192
+cpu_nz=$CD12 region: 253/256
+cpu_nz=$FE0C entry: 31/32
+card_ram: pceCardRam (32768 bytes)
+
+Breakpoints suggérés:
+  $FE1F — JSR $FE2A — dispatch segment (recommandé)
+  $CEC8 — JSR $CEC8 — chaîne $CDxx segment 0
+  $FE00 — prologue handler 0
+  $51BE — JSR $E0D8 stub $51BA (tôt)

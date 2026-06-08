@@ -1,0 +1,378 @@
+{
+  "ivm2h_spec": "/vector+tpseg:6000,580",
+  "note": "Entrées 32 o du disque développeur. Les fichiers .EXE listés (LZSS, ZPRESS, …) ne sont en général pas copiés dans l'image retail.",
+  "tools": [
+    {
+      "name": "HDEMUL  EXE",
+      "size": 998,
+      "catalog_offset": 56720608,
+      "meta": [
+        0,
+        0,
+        2259746816,
+        80876829,
+        998
+      ]
+    },
+    {
+      "name": "HDMUSIC EXE",
+      "size": 12928,
+      "catalog_offset": 56720640,
+      "meta": [
+        0,
+        0,
+        1659764736,
+        80942690,
+        12928
+      ]
+    },
+    {
+      "name": "HDTOC   EXE",
+      "size": 31694,
+      "catalog_offset": 56720672,
+      "meta": [
+        0,
+        0,
+        2289696768,
+        81204509,
+        31694
+      ]
+    },
+    {
+      "name": "HDWRITE EXE",
+      "size": 2274,
+      "catalog_offset": 56720704,
+      "meta": [
+        0,
+        0,
+        2259877888,
+        81728797,
+        2274
+      ]
+    },
+    {
+      "name": "HUFFTREEEXE",
+      "size": 6518,
+      "catalog_offset": 56720736,
+      "meta": [
+        0,
+        0,
+        1889861632,
+        81794810,
+        6518
+      ]
+    },
+    {
+      "name": "INFGET  EXE",
+      "size": 10340,
+      "catalog_offset": 56720768,
+      "meta": [
+        0,
+        0,
+        2255683584,
+        81925843,
+        10340
+      ]
+    },
+    {
+      "name": "INQUIRY EXE",
+      "size": 2445,
+      "catalog_offset": 56720800,
+      "meta": [
+        0,
+        0,
+        2259091456,
+        82122013,
+        2445
+      ]
+    },
+    {
+      "name": "IVCOM   EXE",
+      "size": 1586,
+      "catalog_offset": 56720832,
+      "meta": [
+        0,
+        0,
+        2260729856,
+        82187549,
+        1586
+      ]
+    },
+    {
+      "name": "IVCOM705EXE",
+      "size": 45172,
+      "catalog_offset": 56720864,
+      "meta": [
+        0,
+        0,
+        1578106880,
+        82253656,
+        45172
+      ]
+    },
+    {
+      "name": "IVCOM731EXE",
+      "size": 44950,
+      "catalog_offset": 56720896,
+      "meta": [
+        0,
+        0,
+        1834549248,
+        83039973,
+        44950
+      ]
+    },
+    {
+      "name": "JGAWK   EXE",
+      "size": 45090,
+      "catalog_offset": 56720928,
+      "meta": [
+        0,
+        0,
+        2295005184,
+        83760895,
+        45090
+      ]
+    },
+    {
+      "name": "LHA     EXE",
+      "size": 138916,
+      "catalog_offset": 56720960,
+      "meta": [
+        0,
+        0,
+        2639855616,
+        84547128,
+        138916
+      ]
+    },
+    {
+      "name": "LHARC   EXE",
+      "size": 34445,
+      "catalog_offset": 56720992,
+      "meta": [
+        0,
+        0,
+        295698432,
+        86775540,
+        34445
+      ]
+    },
+    {
+      "name": "LIMITER EXE",
+      "size": 31256,
+      "catalog_offset": 56721024,
+      "meta": [
+        0,
+        0,
+        2848260096,
+        87364277,
+        31256
+      ]
+    },
+    {
+      "name": "LIMITER2EXE",
+      "size": 2154,
+      "catalog_offset": 56721056,
+      "meta": [
+        0,
+        0,
+        2260860928,
+        87889181,
+        2154
+      ]
+    },
+    {
+      "name": "LISTEX  EXE",
+      "size": 2324,
+      "catalog_offset": 56721088,
+      "meta": [
+        0,
+        0,
+        2260926464,
+        87954717,
+        2324
+      ]
+    },
+    {
+      "name": "LK      EXE",
+      "size": 2861,
+      "catalog_offset": 56721120,
+      "meta": [
+        0,
+        0,
+        2259419136,
+        88020253,
+        2861
+      ]
+    },
+    {
+      "name": "LZSS    EXE",
+      "size": 24096,
+      "catalog_offset": 56721152,
+      "meta": [
+        0,
+        0,
+        1730215936,
+        88086259,
+        24096
+      ]
+    },
+    {
+      "name": "MAPCV   EXE",
+      "size": 14074,
+      "catalog_offset": 56721184,
+      "meta": [
+        0,
+        0,
+        2803564544,
+        88479513,
+        14074
+      ]
+    },
+    {
+      "name": "MESCOM  EXE",
+      "size": 18528,
+      "catalog_offset": 56721216,
+      "meta": [
+        0,
+        0,
+        2985951232,
+        88741611,
+        18528
+      ]
+    },
+    {
+      "name": "MIFIND  EXE",
+      "size": 43970,
+      "catalog_offset": 56721248,
+      "meta": [
+        0,
+        0,
+        1882718208,
+        89069378,
+        43970
+      ]
+    },
+    {
+      "name": "MKATR   EXE",
+      "size": 15328,
+      "catalog_offset": 56721280,
+      "meta": [
+        0,
+        0,
+        547356672,
+        925438001,
+        15328
+      ]
+    },
+    {
+      "name": "MKBACK  EXE",
+      "size": 13526,
+      "catalog_offset": 56721312,
+      "meta": [
+        0,
+        0,
+        2255093760,
+        925701843,
+        13526
+      ]
+    },
+    {
+      "name": "MKCELL  EXE",
+      "size": 13316,
+      "catalog_offset": 56721344,
+      "meta": [
+        0,
+        0,
+        2299723776,
+        998381385,
+        13316
+      ]
+    },
+    {
+      "name": "MKDOC   EXE",
+      "size": 13108,
+      "catalog_offset": 56721376,
+      "meta": [
+        0,
+        0,
+        2255355904,
+        998643411,
+        13108
+      ]
+    },
+    {
+      "name": "MKENE   EXE",
+      "size": 13120,
+      "catalog_offset": 56721408,
+      "meta": [
+        0,
+        0,
+        2254569472,
+        31987411,
+        13120
+      ]
+    },
+    {
+      "name": "MSBACKUPEXE",
+      "size": 24376,
+      "catalog_offset": 56721440,
+      "meta": [
+        0,
+        0,
+        2190278656,
+        32249682,
+        24376
+      ]
+    },
+    {
+      "name": "MSEXA   EXE",
+      "size": 5422,
+      "catalog_offset": 56721472,
+      "meta": [
+        0,
+        0,
+        2240217088,
+        94705349,
+        5422
+      ]
+    },
+    {
+      "name": "MV      EXE",
+      "size": 18612,
+      "catalog_offset": 56721504,
+      "meta": [
+        0,
+        0,
+        2605187072,
+        845682520,
+        18612
+      ]
+    },
+    {
+      "name": "NULCUT  EXE",
+      "size": 17766,
+      "catalog_offset": 56721536,
+      "meta": [
+        0,
+        0,
+        2504065024,
+        115609473,
+        17766
+      ]
+    },
+    {
+      "name": "OVERCHK EXE",
+      "size": 13378,
+      "catalog_offset": 56721568,
+      "meta": [
+        0,
+        0,
+        2254831616,
+        295311059,
+        13378
+      ]
+    }
+  ]
+}

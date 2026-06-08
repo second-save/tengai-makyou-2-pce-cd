@@ -1,0 +1,1642 @@
+type,id,offset,sector,msg_type,original,translation,notes
+plain,plain-0x73000,0x73000,0xE6,,このプログラムの著作権は株式会社,,Null-terminated Shift-JIS
+plain,plain-0x73021,0x73021,0xE6,,ハドソンが所有しております。この,,Null-terminated Shift-JIS
+plain,plain-0x73042,0x73042,0xE6,,プログラムの一部または全部を株式,,Null-terminated Shift-JIS
+plain,plain-0x73063,0x73063,0xE6,,会社ハドソンの書面による許可なく,,Null-terminated Shift-JIS
+plain,plain-0x73084,0x73084,0xE6,,複写・複製・転用することは著作権,,Null-terminated Shift-JIS
+plain,plain-0x730A5,0x730A5,0xE6,,法により禁じられております。,,Null-terminated Shift-JIS
+plain,plain-0x730CC,0x730CC,0xE6,,中本伸一,,Null-terminated Shift-JIS
+plain,plain-0x730DE,0x730DE,0xE6,,野沢勝広,,Null-terminated Shift-JIS
+plain,plain-0x730F8,0x730F8,0xE6,,本迫芳夫,,Null-terminated Shift-JIS
+plain,plain-0x7311B,0x7311B,0xE6,,小林敬樹,,Null-terminated Shift-JIS
+plain,plain-0x73145,0x73145,0xE6,,飛田雅宏,,Null-terminated Shift-JIS
+plain,plain-0x73168,0x73168,0xE6,,金田孝司,,Null-terminated Shift-JIS
+plain,plain-0x7317F,0x7317F,0xE6,,三上　哲,,Null-terminated Shift-JIS
+plain,plain-0x73193,0x73193,0xE6,,岩淵貴幸,,Null-terminated Shift-JIS
+plain,plain-0x731AB,0x731AB,0xE6,,岩崎啓真,,Null-terminated Shift-JIS
+plain,plain-0x731C7,0x731C7,0xE6,,及川克之,,Null-terminated Shift-JIS
+plain,plain-0x731DD,0x731DD,0xE6,,松浦浩司,,Null-terminated Shift-JIS
+plain,plain-0x731F7,0x731F7,0xE6,,伊藤真樹,,Null-terminated Shift-JIS
+plain,plain-0x7320D,0x7320D,0xE6,,武田真理,,Null-terminated Shift-JIS
+plain,plain-0x73227,0x73227,0xE6,,角谷　篤,,Null-terminated Shift-JIS
+plain,plain-0x73241,0x73241,0xE6,,山口もと,,Null-terminated Shift-JIS
+plain,plain-0x7325B,0x7325B,0xE6,,岡田寿夫,,Null-terminated Shift-JIS
+plain,plain-0x7327A,0x7327A,0xE6,,鈴木孝治,,Null-terminated Shift-JIS
+plain,plain-0x73299,0x73299,0xE6,,牧野　孝,,Null-terminated Shift-JIS
+plain,plain-0x732B8,0x732B8,0xE6,,益子泰尚,,Null-terminated Shift-JIS
+plain,plain-0x732D7,0x732D7,0xE6,,野坂和彦,,Null-terminated Shift-JIS
+plain,plain-0x732F6,0x732F6,0xE6,,新井宏昭,,Null-terminated Shift-JIS
+plain,plain-0x7DB3C,0x7DB3C,0xFB,,院恭,,Null-terminated Shift-JIS
+plain,plain-0xB8A50,0xB8A50,0x171,,移動防御,,Null-terminated Shift-JIS
+plain,plain-0xB8A59,0xB8A59,0x171,,炎系攻撃,,Null-terminated Shift-JIS
+plain,plain-0xB8A62,0xB8A62,0x171,,",外移動",,Null-terminated Shift-JIS
+plain,plain-0xB8A6A,0xB8A6A,0x171,,",内移動",,Null-terminated Shift-JIS
+plain,plain-0xB8A72,0xB8A72,0x171,,状態回復,,Null-terminated Shift-JIS
+plain,plain-0xB8A7B,0xB8A7B,0x171,,戦闘防御,,Null-terminated Shift-JIS
+plain,plain-0xB8A84,0xB8A84,0x171,,戦闘離脱,,Null-terminated Shift-JIS
+plain,plain-0xB8A94,0xB8A94,0x171,,敵弱I化,,Null-terminated Shift-JIS
+plain,plain-0xB8A9C,0xB8A9C,0x171,,氷系攻撃,,Null-terminated Shift-JIS
+plain,plain-0xB8AA5,0xB8AA5,0x171,,F系攻撃,,Null-terminated Shift-JIS
+plain,plain-0xB8AAD,0xB8AAD,0x171,,変身召喚,,Null-terminated Shift-JIS
+plain,plain-0xB8AB6,0xB8AB6,0x171,,味方強化,,Null-terminated Shift-JIS
+plain,plain-0xB8AC7,0xB8AC7,0x171,,雷系攻撃,,Null-terminated Shift-JIS
+plain,plain-0xB8AE5,0xB8AE5,0x171,,攻撃  ,,Null-terminated Shift-JIS
+plain,plain-0xB8B05,0xB8B05,0x171,,I技回復,,Null-terminated Shift-JIS
+plain,plain-0xB8B1C,0xB8B1C,0x171,,不明  ,,Null-terminated Shift-JIS
+plain,plain-0xB8B23,0xB8B23,0x171,,魔N召喚,,Null-terminated Shift-JIS
+plain,plain-0xB8B42,0xB8B42,0x171,,攻撃誘導,,Null-terminated Shift-JIS
+plain,plain-0xB8B4B,0xB8B4B,0x171,,瞬間移動,,Null-terminated Shift-JIS
+plain,plain-0xB8B54,0xB8B54,0x171,,I技R与,,Null-terminated Shift-JIS
+plain,plain-0xB8B5B,0xB8B5B,0x171,,単I攻撃,,Null-terminated Shift-JIS
+plain,plain-0xB8B63,0xB8B63,0x171,,段照合 ,,Null-terminated Shift-JIS
+plain,plain-0xB8B6B,0xB8B6B,0x171,,偵察  ,,Null-terminated Shift-JIS
+plain,plain-0xB8B81,0xB8B81,0x171,,複数攻撃,,Null-terminated Shift-JIS
+plain,plain-0xB8B93,0xB8B93,0x171,,武具,,Null-terminated Shift-JIS
+plain,plain-0xB8B98,0xB8B98,0x171,,道具,,Null-terminated Shift-JIS
+plain,plain-0xB8BA1,0xB8BA1,0x171,,奥義,,Null-terminated Shift-JIS
+plain,plain-0xB8BA6,0xB8BA6,0x171,,剣法,,Null-terminated Shift-JIS
+plain,plain-0xB8BAB,0xB8BAB,0x171,,秘芸,,Null-terminated Shift-JIS
+plain,plain-0xB8BB8,0xB8BB8,0x171,,武具屋,,Null-terminated Shift-JIS
+plain,plain-0xB8BBF,0xB8BBF,0x171,,道具屋,,Null-terminated Shift-JIS
+plain,plain-0xB8BCC,0xB8BCC,0x171,,呉服屋,,Null-terminated Shift-JIS
+plain,plain-0xB8BD9,0xB8BD9,0x171,,茶屋,,Null-terminated Shift-JIS
+plain,plain-0xB8BE4,0xB8BE4,0x171,,小間N屋,,Null-terminated Shift-JIS
+plain,plain-0xB8BF1,0xB8BF1,0x171,,青空市,,Null-terminated Shift-JIS
+plain,plain-0xB8BFD,0xB8BFD,0x171,,#形屋,,Null-terminated Shift-JIS
+string,msg-0xB8C03,0xB8C03,0x171,0x02,嵩木 ok？,,Type 0x02 message
+plain,plain-0xB8C2D,0xB8C2D,0x171,,砲撃,,Null-terminated Shift-JIS
+plain,plain-0xB8C32,0xB8C32,0x171,,瞬移,,Null-terminated Shift-JIS
+plain,plain-0xB8C3B,0xB8C3B,0x171,,カブキ,,Null-terminated Shift-JIS
+plain,plain-0xB8C42,0xB8C42,0x171,,極楽,,Null-terminated Shift-JIS
+plain,plain-0xB8C4A,0xB8C4A,0x171,,シロ,,Null-terminated Shift-JIS
+plain,plain-0xB8C4F,0xB8C4F,0x171,,卍丸,,Null-terminated Shift-JIS
+plain,plain-0xBE009,0xBE009,0x17C,,状態,,Null-terminated Shift-JIS
+plain,plain-0xBE021,0xBE021,0x17C,,装備,,Null-terminated Shift-JIS
+plain,plain-0xC3AC1,0xC3AC1,0x187,,名無し,,Null-terminated Shift-JIS
+plain,plain-0xC3AD3,0xC3AD3,0x187,,式神,,Null-terminated Shift-JIS
+plain,plain-0xC3AD8,0xC3AD8,0x187,,三角,,Null-terminated Shift-JIS
+string,msg-0xCA7D5,0xCA7D5,0x194,0x02,З番記録写？,,Type 0x02 message
+plain,plain-0xCB139,0xCB139,0x196,,尾張,,Null-terminated Shift-JIS
+plain,plain-0xCB13E,0xCB13E,0x196,,伊勢,,Null-terminated Shift-JIS
+plain,plain-0xCB143,0xCB143,0x196,,紀伊,,Null-terminated Shift-JIS
+plain,plain-0xCB148,0xCB148,0x196,,　京,,Null-terminated Shift-JIS
+plain,plain-0xCB14D,0xCB14D,0x196,,近江,,Null-terminated Shift-JIS
+plain,plain-0xCB152,0xCB152,0x196,,越前,,Null-terminated Shift-JIS
+plain,plain-0xCB157,0xCB157,0x196,,越中,,Null-terminated Shift-JIS
+plain,plain-0xCB15C,0xCB15C,0x196,,越後,,Null-terminated Shift-JIS
+plain,plain-0xCB161,0xCB161,0x196,,因幡,,Null-terminated Shift-JIS
+plain,plain-0xCB166,0xCB166,0x196,,出雲,,Null-terminated Shift-JIS
+plain,plain-0xCB16B,0xCB16B,0x196,,石見,,Null-terminated Shift-JIS
+plain,plain-0xCB170,0xCB170,0x196,,丹波,,Null-terminated Shift-JIS
+plain,plain-0xCB175,0xCB175,0x196,,浪華,,Null-terminated Shift-JIS
+plain,plain-0xCB17A,0xCB17A,0x196,,吉備,,Null-terminated Shift-JIS
+plain,plain-0xCB17F,0xCB17F,0x196,,安芸,,Null-terminated Shift-JIS
+plain,plain-0xCB184,0xCB184,0x196,,長門,,Null-terminated Shift-JIS
+plain,plain-0xCC2D9,0xCC2D9,0x198,,羽織,,Null-terminated Shift-JIS
+plain,plain-0xCC2E1,0xCC2E1,0x198,,回復,,Null-terminated Shift-JIS
+plain,plain-0xCC2F0,0xCC2F0,0x198,,効果,,Null-terminated Shift-JIS
+plain,plain-0xCC2F9,0xCC2F9,0x198,,攻撃,,Null-terminated Shift-JIS
+plain,plain-0xCC2FE,0xCC2FE,0x198,,骨壷,,Null-terminated Shift-JIS
+plain,plain-0xCC32D,0xCC32D,0x198,,精霊機,,Null-terminated Shift-JIS
+plain,plain-0xCC334,0xCC334,0x198,,千代,,Null-terminated Shift-JIS
+plain,plain-0xCC339,0xCC339,0x198,,千年,,Null-terminated Shift-JIS
+plain,plain-0xCC33E,0xCC33E,0x198,,草鞋,,Null-terminated Shift-JIS
+plain,plain-0xCC351,0xCC351,0x198,,銅鐸,,Null-terminated Shift-JIS
+plain,plain-0xCC356,0xCC356,0x198,,反魂丹,,Null-terminated Shift-JIS
+plain,plain-0xCC366,0xCC366,0x198,,勇者,,Null-terminated Shift-JIS
+plain,plain-0xCC377,0xCC377,0x198,,霊薬,,Null-terminated Shift-JIS
+plain,plain-0xCC4A9,0xCC4A9,0x198,,下駄,,Null-terminated Shift-JIS
+plain,plain-0xCD551,0xCD551,0x19A,,雷電,,Null-terminated Shift-JIS
+plain,plain-0xCD5A2,0xCD5A2,0x19A,,冬枯kO,,Null-terminated Shift-JIS
+plain,plain-0xCD5FA,0xCD5FA,0x19A,,息吹,,Null-terminated Shift-JIS
+plain,plain-0x164F4B,0x164F4B,0x2C9,,首切り包丁,,Null-terminated Shift-JIS
+label,label-0x164F6A,0x164F6A,0x2C9,0x01,野良犬,,Type 0x01 area/entity label
+plain,plain-0x164F6F,0x164F6F,0x2C9,,野良犬,,Null-terminated Shift-JIS
+string,msg-0x164F77,0x164F77,0x2C9,0x02,\nは$nうなっている!,,Type 0x02 message
+label,label-0x164FB7,0x164FB7,0x2C9,0x01,狂犬,,Type 0x01 area/entity label
+plain,plain-0x164FBC,0x164FBC,0x2C9,,狂犬,,Null-terminated Shift-JIS
+plain,plain-0x19354C,0x19354C,0x326,,片沌,,Null-terminated Shift-JIS
+plain,plain-0x1B2595,0x1B2595,0x364,,禾蟋,,Null-terminated Shift-JIS
+plain,plain-0x1C6FCD,0x1C6FCD,0x38D,,殫沿,,Null-terminated Shift-JIS
+plain,plain-0x1E7B35,0x1E7B35,0x3CF,,ウロコの貴婦人,,Null-terminated Shift-JIS
+string,msg-0x1E7B44,0x1E7B44,0x3CF,0x02,\nは　$nウロコをふるわせた!!,,Type 0x02 message
+plain,plain-0x1E7B98,0x1E7B98,0x3CF,,人面オコゼ,,Null-terminated Shift-JIS
+plain,plain-0x1E7BD8,0x1E7BD8,0x3CF,,金魚おとこ,,Null-terminated Shift-JIS
+plain,plain-0x1E7BFD,0x1E7BFD,0x3CF,,ツタおとこ,,Null-terminated Shift-JIS
+plain,plain-0x1E7C39,0x1E7C39,0x3CF,,斬り裂き虫,,Null-terminated Shift-JIS
+string,msg-0x1E7C48,0x1E7C48,0x3CF,0x10,\nは$n粘液をはいた!!,,Type 0x10 message (arg=0x26)
+label,label-0x1E7C98,0x1E7C98,0x3CF,0x01,骨ゼミ,,Type 0x01 area/entity label
+plain,plain-0x1E7C9D,0x1E7C9D,0x3CF,,骨ゼミ,,Null-terminated Shift-JIS
+string,msg-0x1E7CA4,0x1E7CA4,0x3CF,0x02,\nは$n奇妙な声でないた!,,Type 0x02 message
+string,msg-0x1E7CBF,0x1E7CBF,0x3CF,0x02,[\nは$nすきを　うかがっている!,,Type 0x02 message
+plain,plain-0x28C17B,0x28C17B,0x518,,?濛燒,,Null-terminated Shift-JIS
+plain,plain-0x28E7AD,0x28E7AD,0x51C,,沼髓,,Null-terminated Shift-JIS
+plain,plain-0x2927CF,0x2927CF,0x524,,M獣糖,,Null-terminated Shift-JIS
+label,label-0x2943CD,0x2943CD,0x528,0x01,瓊皚,,Type 0x01 area/entity label
+string,msg-0x2E7B21,0x2E7B21,0x5CF,0x02,\nは、$nウロコをふるわせた!!,,Type 0x02 message
+string,msg-0x2E7C25,0x2E7C25,0x5CF,0x10,\nは、$n粘液をはいた!!,,Type 0x10 message (arg=0x26)
+string,msg-0x2E7C80,0x2E7C80,0x5CF,0x02,?\nは、$n奇妙な声でないた!,,Type 0x02 message
+string,msg-0x2E7C9D,0x2E7C9D,0x5CF,0x02,[\nは、$nジーっとしている!,,Type 0x02 message
+string,msg-0x2E7CD7,0x2E7CD7,0x5CF,0x02,\nは、$nうなっている!,,Type 0x02 message
+plain,plain-0x2FF7E1,0x2FF7E1,0x5FE,,滬峽,,Null-terminated Shift-JIS
+plain,plain-0x313CCF,0x313CCF,0x627,,銀官,,Null-terminated Shift-JIS
+plain,plain-0x350A5C,0x350A5C,0x6A1,,駐升,,Null-terminated Shift-JIS
+label,label-0x484E01,0x484E01,0x909,0x01,蹇,,Type 0x01 area/entity label
+plain,plain-0x4CA5BF,0x4CA5BF,0x994,,屓辨,,Null-terminated Shift-JIS
+label,label-0x4E71B9,0x4E71B9,0x9CE,0x01,赤玉,,Type 0x01 area/entity label
+plain,plain-0x4E71BE,0x4E71BE,0x9CE,,赤玉,,Null-terminated Shift-JIS
+plain,plain-0x4E7200,0x4E7200,0x9CE,,マシャリ,,Null-terminated Shift-JIS
+plain,plain-0x4E7222,0x4E7222,0x9CE,,小鬼,,Null-terminated Shift-JIS
+label,label-0x4E723B,0x4E723B,0x9CE,0x01,化け根,,Type 0x01 area/entity label
+plain,plain-0x4E7240,0x4E7240,0x9CE,,化け根,,Null-terminated Shift-JIS
+label,label-0x4E725B,0x4E725B,0x9CE,0x01,鬼の華,,Type 0x01 area/entity label
+plain,plain-0x4E7260,0x4E7260,0x9CE,,鬼の華,,Null-terminated Shift-JIS
+string,msg-0x4E72CC,0x4E72CC,0x9CE,0x02,[\nは$nスキをうかがっている!,,Type 0x02 message
+plain,plain-0x4E7303,0x4E7303,0x9CE,,ヤト,,Null-terminated Shift-JIS
+plain,plain-0x4F85A6,0x4F85A6,0x9F0,,馬瀬+,,Null-terminated Shift-JIS
+plain,plain-0x4F8908,0x4F8908,0x9F1,,実勝,,Null-terminated Shift-JIS
+plain,plain-0x51A6FF,0x51A6FF,0xA34,,湘納,,Null-terminated Shift-JIS
+plain,plain-0x53BBA9,0x53BBA9,0xA77,,相.軋悪 &,,Null-terminated Shift-JIS
+plain,plain-0x54E883,0x54E883,0xA9D,,蓮食,,Null-terminated Shift-JIS
+plain,plain-0x57DDA0,0x57DDA0,0xAFB,,準酎,,Null-terminated Shift-JIS
+plain,plain-0x581739,0x581739,0xB02,,x塁p書,,Null-terminated Shift-JIS
+plain,plain-0x584DD1,0x584DD1,0xB09,,/侑捍,,Null-terminated Shift-JIS
+plain,plain-0x586DA4,0x586DA4,0xB0D,,蔭惺,,Null-terminated Shift-JIS
+plain,plain-0x5A6CC9,0x5A6CC9,0xB4D,,双頭,,Null-terminated Shift-JIS
+plain,plain-0x5A6D03,0x5A6D03,0xB4D,,ガラガラ,,Null-terminated Shift-JIS
+plain,plain-0x5A6D23,0x5A6D23,0xB4D,,どくろ兵,,Null-terminated Shift-JIS
+plain,plain-0x5A6D43,0x5A6D43,0xB4D,,墓場の掃除屋,,Null-terminated Shift-JIS
+plain,plain-0x5A6D67,0x5A6D67,0xB4D,,白骨武者,,Null-terminated Shift-JIS
+plain,plain-0x5CE3AB,0x5CE3AB,0xB9C,,屐3鬱,,Null-terminated Shift-JIS
+plain,plain-0x5E51A0,0x5E51A0,0xBCA,,惨憎法師,,Null-terminated Shift-JIS
+plain,plain-0x5E51DE,0x5E51DE,0xBCA,,夜の右手,,Null-terminated Shift-JIS
+plain,plain-0x5E51FE,0x5E51FE,0xBCA,,一つ目ボサツ,,Null-terminated Shift-JIS
+label,label-0x6136CB,0x6136CB,0xC26,0x01,按,,Type 0x01 area/entity label
+plain,plain-0x61923A,0x61923A,0xC32,,汾愕,,Null-terminated Shift-JIS
+plain,plain-0x62684B,0x62684B,0xC4D,,鬼骨兵,,Null-terminated Shift-JIS
+plain,plain-0x626869,0x626869,0xC4D,,魔の爪跡,,Null-terminated Shift-JIS
+plain,plain-0x626889,0x626889,0xC4D,,妖虎,,Null-terminated Shift-JIS
+plain,plain-0x6268A5,0x6268A5,0xC4D,,邪骨剣士,,Null-terminated Shift-JIS
+plain,plain-0x64537B,0x64537B,0xC8A,,紗矮,,Null-terminated Shift-JIS
+string,msg-0x66FBFF,0x66FBFF,0xCDF,0x10,b 0炎期遂s2D!,,Type 0x10 message (arg=0x98)
+plain,plain-0x67AF1D,0x67AF1D,0xCF5,,抱7聞潘,,Null-terminated Shift-JIS
+plain,plain-0x68F261,0x68F261,0xD1E,,屆撼-,,Null-terminated Shift-JIS
+plain,plain-0x6A6C6E,0x6A6C6E,0xD4D,,p矗 玻,,Null-terminated Shift-JIS
+label,label-0x6A8837,0x6A8837,0xD51,0x01,双頭,,Type 0x01 area/entity label
+plain,plain-0x6AF85C,0x6AF85C,0xD5F,,偸傚,,Null-terminated Shift-JIS
+plain,plain-0x6C971E,0x6C971E,0xD92,,封Q搗,,Null-terminated Shift-JIS
+plain,plain-0x6CC8B4,0x6CC8B4,0xD99,,s嬢緒,,Null-terminated Shift-JIS
+plain,plain-0x6DB2A4,0x6DB2A4,0xDB6,, 剔ザR,,Null-terminated Shift-JIS
+label,label-0x7264B7,0x7264B7,0xE4C,0x01,赤い爪跡,,Type 0x01 area/entity label
+plain,plain-0x7264BC,0x7264BC,0xE4C,,赤い爪跡,,Null-terminated Shift-JIS
+plain,plain-0x7650E7,0x7650E7,0xECA,,怦黻,,Null-terminated Shift-JIS
+plain,plain-0x78AD8A,0x78AD8A,0xF15,,鱇獸,,Null-terminated Shift-JIS
+plain,plain-0x78BC0A,0x78BC0A,0xF17,,痺笄,,Null-terminated Shift-JIS
+plain,plain-0x792F41,0x792F41,0xF25,,珥珥,,Null-terminated Shift-JIS
+plain,plain-0x7AB2BE,0x7AB2BE,0xF56,,ぬら顔,,Null-terminated Shift-JIS
+plain,plain-0x7AB2DC,0x7AB2DC,0xF56,,緑の牙,,Null-terminated Shift-JIS
+plain,plain-0x7AB2FA,0x7AB2FA,0xF56,,ぬめる黒首,,Null-terminated Shift-JIS
+plain,plain-0x7AB322,0x7AB322,0xF56,,土の忍軍,,Null-terminated Shift-JIS
+plain,plain-0x7AB37F,0x7AB37F,0xF56,,森の処刑人,,Null-terminated Shift-JIS
+plain,plain-0x7AB3EB,0x7AB3EB,0xF56,,血みどろサンゴ,,Null-terminated Shift-JIS
+plain,plain-0x7AB44F,0x7AB44F,0xF56,,血を吸う花弁,,Null-terminated Shift-JIS
+plain,plain-0x7AB473,0x7AB473,0xF56,,夏の巨人,,Null-terminated Shift-JIS
+plain,plain-0x7AB493,0x7AB493,0xF56,,装骨兵,,Null-terminated Shift-JIS
+string,msg-0x7AB49A,0x7AB49A,0xF56,0x02,\nの、$n腕が火を吹いた!!,,Type 0x02 message
+plain,plain-0x7AB4CC,0x7AB4CC,0xF56,,はねのね,,Null-terminated Shift-JIS
+plain,plain-0x7AB4EC,0x7AB4EC,0xF56,,果肉の面,,Null-terminated Shift-JIS
+plain,plain-0x7AB50C,0x7AB50C,0xF56,,青葉の兵隊,,Null-terminated Shift-JIS
+plain,plain-0x7AB52E,0x7AB52E,0xF56,,巻貝忍者,,Null-terminated Shift-JIS
+plain,plain-0x7AF1D1,0x7AF1D1,0xF5E,,娘2卅,,Null-terminated Shift-JIS
+label,label-0x80363F,0x80363F,0x1006,0x01,菌,,Type 0x01 area/entity label
+plain,plain-0x80FC1B,0x80FC1B,0x101F,,韋溪竝,,Null-terminated Shift-JIS
+plain,plain-0x81191E,0x81191E,0x1023,,換T亘,,Null-terminated Shift-JIS
+plain,plain-0x8252D2,0x8252D2,0x104A,,あぶらぼう,,Null-terminated Shift-JIS
+plain,plain-0x87B80C,0x87B80C,0x10F7,,志摩+,,Null-terminated Shift-JIS
+plain,plain-0x894A0C,0x894A0C,0x1129,,'瑩珥瀾,,Null-terminated Shift-JIS
+plain,plain-0x8A8402,0x8A8402,0x1150,,濡れ髪,,Null-terminated Shift-JIS
+plain,plain-0x8A845C,0x8A845C,0x1150,,頭突き部隊,,Null-terminated Shift-JIS
+plain,plain-0x8A84FE,0x8A84FE,0x1150,,緑の絞首台,,Null-terminated Shift-JIS
+plain,plain-0x8A8525,0x8A8525,0x1150,,灼熱の視線,,Null-terminated Shift-JIS
+plain,plain-0x8A855B,0x8A855B,0x1150,,花のくちづけ,,Null-terminated Shift-JIS
+plain,plain-0x8A8581,0x8A8581,0x1150,,緑の魔王,,Null-terminated Shift-JIS
+plain,plain-0x8A85A6,0x8A85A6,0x1150,,松葉の貴公子,,Null-terminated Shift-JIS
+plain,plain-0x8A85E4,0x8A85E4,0x1150,,水狼,,Null-terminated Shift-JIS
+plain,plain-0x8A8605,0x8A8605,0x1150,,クグツ兵,,Null-terminated Shift-JIS
+plain,plain-0x8C564A,0x8C564A,0x118A,,巒昊,,Null-terminated Shift-JIS
+plain,plain-0x8E569C,0x8E569C,0x11CA,,地獄の女教師,,Null-terminated Shift-JIS
+plain,plain-0x8F9080,0x8F9080,0x11F2,,甘露],,Null-terminated Shift-JIS
+plain,plain-0x902EB6,0x902EB6,0x1205,,p竅с蒼漫,,Null-terminated Shift-JIS
+plain,plain-0x90DBB4,0x90DBB4,0x121B,,沼讓,,Null-terminated Shift-JIS
+plain,plain-0x9275FA,0x9275FA,0x124E,,針の尺八,,Null-terminated Shift-JIS
+plain,plain-0x927636,0x927636,0x124E,,花畜,,Null-terminated Shift-JIS
+plain,plain-0x927690,0x927690,0x124E,,カラミコ,,Null-terminated Shift-JIS
+plain,plain-0x9276D4,0x9276D4,0x124E,,マダラ女王,,Null-terminated Shift-JIS
+plain,plain-0x9276FE,0x9276FE,0x124E,,男の大木,,Null-terminated Shift-JIS
+plain,plain-0x98A6FC,0x98A6FC,0x1314,,淬パ,,Null-terminated Shift-JIS
+plain,plain-0x9A4A86,0x9A4A86,0x1349,,湘S爿,,Null-terminated Shift-JIS
+plain,plain-0x9A86A2,0x9A86A2,0x1350,,菁滉/,,Null-terminated Shift-JIS
+plain,plain-0x9A920F,0x9A920F,0x1352,,カゲロウ,,Null-terminated Shift-JIS
+plain,plain-0x9A922F,0x9A922F,0x1352,,死死舞い,,Null-terminated Shift-JIS
+plain,plain-0x9A924F,0x9A924F,0x1352,,しらぬい,,Null-terminated Shift-JIS
+plain,plain-0x9A926F,0x9A926F,0x1352,,赤い絞殺魔,,Null-terminated Shift-JIS
+plain,plain-0x9A9294,0x9A9294,0x1352,,ちょっきり,,Null-terminated Shift-JIS
+plain,plain-0x9A92BF,0x9A92BF,0x1352,,ナジャラ,,Null-terminated Shift-JIS
+plain,plain-0x9A9320,0x9A9320,0x1352,,火炎の舞い,,Null-terminated Shift-JIS
+plain,plain-0x9A9359,0x9A9359,0x1352,,冥府の黒子,,Null-terminated Shift-JIS
+plain,plain-0x9A937E,0x9A937E,0x1352,,血染め屋,,Null-terminated Shift-JIS
+plain,plain-0x9A939E,0x9A939E,0x1352,,ヒダネ,,Null-terminated Shift-JIS
+plain,plain-0x9A93BC,0x9A93BC,0x1352,,鎧グモ,,Null-terminated Shift-JIS
+string,msg-0x9A93C3,0x9A93C3,0x1352,0x02,&\nは、$nイトをはいた!,,Type 0x02 message
+plain,plain-0x9C9776,0x9C9776,0x1392,,杷咢,,Null-terminated Shift-JIS
+plain,plain-0x9E565B,0x9E565B,0x13CA,,イケボ,,Null-terminated Shift-JIS
+plain,plain-0x9E5699,0x9E5699,0x13CA,,火炎武者,,Null-terminated Shift-JIS
+plain,plain-0xA06A36,0xA06A36,0x140D,,y蔚於,,Null-terminated Shift-JIS
+label,label-0xA24F3C,0xA24F3C,0x1449,0x01,迸,,Type 0x01 area/entity label
+label,label-0xA24F62,0xA24F62,0x1449,0x01,裸,,Type 0x01 area/entity label
+plain,plain-0xA257E0,0xA257E0,0x144A,,冥府の猟犬,,Null-terminated Shift-JIS
+plain,plain-0xA25819,0xA25819,0x144B,,火ねずみ,,Null-terminated Shift-JIS
+plain,plain-0xA554EB,0xA554EB,0x14AA,,"廠""/樗",,Null-terminated Shift-JIS
+plain,plain-0xA68E9D,0xA68E9D,0x14D1,,おおがしら,,Null-terminated Shift-JIS
+string,msg-0xA68EA8,0xA68EA8,0x14D1,0x02,\nは、$nふてきな笑みを浮かべた!,,Type 0x02 message
+label,label-0xA68EFC,0xA68EFC,0x14D1,0x01,かけつぼ,,Type 0x01 area/entity label
+plain,plain-0xA68F01,0xA68F01,0x14D1,,かけつぼ,,Null-terminated Shift-JIS
+string,msg-0xA68F0A,0xA68F0A,0x14D1,0x02,\nは、$n笑っている・・・,,Type 0x02 message
+plain,plain-0xA68F5D,0xA68F5D,0x14D1,,剛鬼,,Null-terminated Shift-JIS
+plain,plain-0xA68F79,0xA68F79,0x14D1,,火吹き,,Null-terminated Shift-JIS
+plain,plain-0xA68F97,0xA68F97,0x14D1,,野獣王,,Null-terminated Shift-JIS
+plain,plain-0xA68FB5,0xA68FB5,0x14D1,,火炎車,,Null-terminated Shift-JIS
+plain,plain-0xA7C65E,0xA7C65E,0x14F8,,茶店,,Null-terminated Shift-JIS
+string,msg-0xAAB510,0xAAB510,0x1556,0x02,Y\nは$n怪しい光を放った!,,Type 0x02 message
+string,msg-0xAAB5A5,0xAAB5A5,0x1556,0x02,\nの$n腕が火を吹いた!,,Type 0x02 message
+plain,plain-0xAB825B,0xAB825B,0x1570,,近頃v謨犧{,,Null-terminated Shift-JIS
+plain,plain-0xB09769,0xB09769,0x1612,,概亘,,Null-terminated Shift-JIS
+plain,plain-0xB578ED,0xB578ED,0x16AF,,鍾熾,,Null-terminated Shift-JIS
+plain,plain-0xB931CC,0xB931CC,0x1726,,k暦皎,,Null-terminated Shift-JIS
+plain,plain-0xBA7F1E,0xBA7F1E,0x174F,,恍惚の瞳,,Null-terminated Shift-JIS
+string,msg-0xBA7F4B,0xBA7F4B,0x174F,0x02,\nは、$n恍惚にひたっている!,,Type 0x02 message
+plain,plain-0xBA7F7F,0xBA7F7F,0x174F,,イモ貝兵,,Null-terminated Shift-JIS
+plain,plain-0xBA7FDF,0xBA7FDF,0x174F,,オボ,,Null-terminated Shift-JIS
+plain,plain-0xBA7FFE,0xBA7FFE,0x174F,,オモイ,,Null-terminated Shift-JIS
+plain,plain-0xBA8028,0xBA8028,0x1750,,イワヲ,,Null-terminated Shift-JIS
+plain,plain-0xBA8072,0xBA8072,0x1750,,ろくろ亡者,,Null-terminated Shift-JIS
+plain,plain-0xBA809A,0xBA809A,0x1750,,沼坊主,,Null-terminated Shift-JIS
+plain,plain-0xBA80D9,0xBA80D9,0x1750,,飛び火,,Null-terminated Shift-JIS
+plain,plain-0xBA8119,0xBA8119,0x1750,,火ダル,,Null-terminated Shift-JIS
+plain,plain-0xBCCA29,0xBCCA29,0x1799,,瓊b隸,,Null-terminated Shift-JIS
+plain,plain-0xBE55B8,0xBE55B8,0x17CA,,おがみ入道,,Null-terminated Shift-JIS
+plain,plain-0xBE560B,0xBE560B,0x17CA,,ダキニ,,Null-terminated Shift-JIS
+plain,plain-0xBE5640,0xBE5640,0x17CA,,ムラサ,,Null-terminated Shift-JIS
+plain,plain-0xC2436E,0xC2436E,0x1848,,逆卍,,Null-terminated Shift-JIS
+plain,plain-0xC243D3,0xC243D3,0x1848,,卍くずし,,Null-terminated Shift-JIS
+string,msg-0xC6A815,0xC6A815,0x18D5,0x10,\nは、$n長い舌を突き刺した!,,Type 0x10 message (arg=0x21)
+plain,plain-0xC6A8A9,0xC6A8A9,0x18D5,,かわず丸,,Null-terminated Shift-JIS
+string,msg-0xC6A8B2,0xC6A8B2,0x18D5,0x02,?\nは、$nゲロゲロとないた!,,Type 0x02 message
+plain,plain-0xC6A8E5,0xC6A8E5,0x18D5,,ゾウメン,,Null-terminated Shift-JIS
+plain,plain-0xC6A908,0xC6A908,0x18D5,,人間戦車,,Null-terminated Shift-JIS
+plain,plain-0xC6A967,0xC6A967,0x18D5,,海ネズミ,,Null-terminated Shift-JIS
+plain,plain-0xC6A98A,0xC6A98A,0x18D5,,火遊び少女,,Null-terminated Shift-JIS
+plain,plain-0xC6A9FD,0xC6A9FD,0x18D5,,ふくべ,,Null-terminated Shift-JIS
+plain,plain-0xC6AA7E,0xC6AA7E,0x18D5,,浮遊脂肪,,Null-terminated Shift-JIS
+plain,plain-0xC6AABC,0xC6AABC,0x18D5,,闇の客引き,,Null-terminated Shift-JIS
+plain,plain-0xC6AB12,0xC6AB12,0x18D5,,烈鬼,,Null-terminated Shift-JIS
+plain,plain-0xC93FA6,0xC93FA6,0x1927,,痩燉,,Null-terminated Shift-JIS
+plain,plain-0xC972F8,0xC972F8,0x192E,,澤!廴,,Null-terminated Shift-JIS
+plain,plain-0xCA85FB,0xCA85FB,0x1950,,赤尻,,Null-terminated Shift-JIS
+plain,plain-0xCA8628,0xCA8628,0x1950,,地獄神楽,,Null-terminated Shift-JIS
+plain,plain-0xCA864A,0xCA864A,0x1950,,官能の横笛,,Null-terminated Shift-JIS
+plain,plain-0xCA8674,0xCA8674,0x1950,,赤えな,,Null-terminated Shift-JIS
+plain,plain-0xCA8694,0xCA8694,0x1950,,死に化粧,,Null-terminated Shift-JIS
+plain,plain-0xCA86B6,0xCA86B6,0x1950,,死の宴,,Null-terminated Shift-JIS
+plain,plain-0xCA86D9,0xCA86D9,0x1950,,伏雷,,Null-terminated Shift-JIS
+plain,plain-0xCA8700,0xCA8700,0x1950,,ケダモノ太鼓,,Null-terminated Shift-JIS
+plain,plain-0xCA8729,0xCA8729,0x1950,,人皮のツヅミ,,Null-terminated Shift-JIS
+string,msg-0xCEB9F2,0xCEB9F2,0x19D7,0x02,R\nの体当り攻撃!,,Type 0x02 message
+plain,plain-0xCEBA29,0xCEBA29,0x19D7,,肉の夢,,Null-terminated Shift-JIS
+plain,plain-0xCEBA4C,0xCEBA4C,0x19D7,,暗黒十文字,,Null-terminated Shift-JIS
+plain,plain-0xCEBA76,0xCEBA76,0x19D7,,葉影魔人,,Null-terminated Shift-JIS
+plain,plain-0xCEBAA9,0xCEBAA9,0x19D7,,ツトッ子,,Null-terminated Shift-JIS
+plain,plain-0xCEBAD1,0xCEBAD1,0x19D7,,ヤタガラス,,Null-terminated Shift-JIS
+string,msg-0xCEBB04,0xCEBB04,0x19D7,0x02,Pr\nの胴締め!,,Type 0x02 message
+plain,plain-0xCEBB2B,0xCEBB2B,0x19D7,,人喰い鳥,,Null-terminated Shift-JIS
+string,msg-0xCEBB6B,0xCEBB6B,0x19D7,0x02,\nは$n呪いをかけてきた!,,Type 0x02 message
+plain,plain-0xCEBBC0,0xCEBBC0,0x19D7,,邪赤竜,,Null-terminated Shift-JIS
+plain,plain-0xCEBBE3,0xCEBBE3,0x19D7,,闇からす,,Null-terminated Shift-JIS
+plain,plain-0xD2AC7C,0xD2AC7C,0x1A55,,人面狩り,,Null-terminated Shift-JIS
+plain,plain-0xD2ACBA,0xD2ACBA,0x1A55,,赤剛鬼,,Null-terminated Shift-JIS
+plain,plain-0xD2ACDA,0xD2ACDA,0x1A55,,獄犬魔王,,Null-terminated Shift-JIS
+plain,plain-0xD2AD16,0xD2AD16,0x1A55,,紫色の接吻,,Null-terminated Shift-JIS
+plain,plain-0xD2AD6A,0xD2AD6A,0x1A55,,ムラタマ,,Null-terminated Shift-JIS
+plain,plain-0xD2AD95,0xD2AD95,0x1A55,,双角,,Null-terminated Shift-JIS
+string,msg-0xD2AD9A,0xD2AD9A,0x1A55,0x02,R?\nの体当り攻撃!,,Type 0x02 message
+plain,plain-0xD2ADD7,0xD2ADD7,0x1A55,,飛びガラ,,Null-terminated Shift-JIS
+plain,plain-0xD2ADFC,0xD2ADFC,0x1A55,,ヌラリヒョン,,Null-terminated Shift-JIS
+plain,plain-0xD2AE3A,0xD2AE3A,0x1A55,,ふすま,,Null-terminated Shift-JIS
+plain,plain-0xD959A1,0xD959A1,0x1B2B,,髄駐舶沫,,Null-terminated Shift-JIS
+plain,plain-0xDA9F4D,0xDA9F4D,0x1B53,,人間地獄,,Null-terminated Shift-JIS
+plain,plain-0xDA9FAB,0xDA9FAB,0x1B53,,生グサ吐息,,Null-terminated Shift-JIS
+plain,plain-0xDAA01A,0xDAA01A,0x1B54,,一角星,,Null-terminated Shift-JIS
+plain,plain-0xDAA09C,0xDAA09C,0x1B54,,鉄の虫ケラ,,Null-terminated Shift-JIS
+plain,plain-0xDAA0C7,0xDAA0C7,0x1B54,,満開地獄,,Null-terminated Shift-JIS
+plain,plain-0xDAA0F0,0xDAA0F0,0x1B54,,地中ダコ,,Null-terminated Shift-JIS
+plain,plain-0xDAA119,0xDAA119,0x1B54,,土縄,,Null-terminated Shift-JIS
+string,msg-0xDAA11E,0xDAA11E,0x1B54,0x02,-\nは、酸を吹きかけていた!!,,Type 0x02 message
+plain,plain-0xDAA196,0xDAA196,0x1B54,,トサカもの,,Null-terminated Shift-JIS
+string,msg-0xDAA1A2,0xDAA1A2,0x1B54,0x10,\nは、$n酸を吹きかけた!!,,Type 0x10 message (arg=0x23)
+plain,plain-0xDAA215,0xDAA215,0x1B54,,空の爪,,Null-terminated Shift-JIS
+label,label-0xDD1D33,0xDD1D33,0x1BA3,0x01,欅輹,,Type 0x01 area/entity label
+plain,plain-0xDD8C8B,0xDD8C8B,0x1BB1,,柱&鴫,,Null-terminated Shift-JIS
+plain,plain-0xDE9F16,0xDE9F16,0x1BD3,,首切虫,,Null-terminated Shift-JIS
+plain,plain-0xDEA0C3,0xDEA0C3,0x1BD4,,砂の兵,,Null-terminated Shift-JIS
+plain,plain-0xDEA0EA,0xDEA0EA,0x1BD4,,鋼鉄アリ,,Null-terminated Shift-JIS
+plain,plain-0xDEA142,0xDEA142,0x1BD4,,暗黒武者,,Null-terminated Shift-JIS
+label,label-0xE24057,0xE24057,0x1C48,0x01,暦,,Type 0x01 area/entity label
+plain,plain-0xE2862D,0xE2862D,0x1C50,,蝿まみれ,,Null-terminated Shift-JIS
+plain,plain-0xE2877B,0xE2877B,0x1C50,,赤手,,Null-terminated Shift-JIS
+plain,plain-0xE42352,0xE42352,0x1C84,,O鄲?澑,,Null-terminated Shift-JIS
+plain,plain-0xE6456B,0xE6456B,0x1CC8,,烽炒,,Null-terminated Shift-JIS
+plain,plain-0xE7B84D,0xE7B84D,0x1CF7,,綾部+,,Null-terminated Shift-JIS
+plain,plain-0xE7BD14,0xE7BD14,0x1CF7,,鞍馬峠,,Null-terminated Shift-JIS
+plain,plain-0xE93708,0xE93708,0x1D26,,藐蓆[,,Null-terminated Shift-JIS
+string,msg-0xEA9492,0xEA9492,0x1D52,0x10,\nは$n粘液をはいた!,,Type 0x10 message (arg=0x3F)
+string,msg-0xEA9571,0xEA9571,0x1D52,0x02,&\nは$nイトをはいた!,,Type 0x02 message
+plain,plain-0xEC77E0,0xEC77E0,0x1D8E,,瑞  聰,,Null-terminated Shift-JIS
+plain,plain-0xEF808D,0xEF808D,0x1DF0,,榲剛,,Null-terminated Shift-JIS
+plain,plain-0xF08A97,0xF08A97,0x1E11,,峻聨,,Null-terminated Shift-JIS
+plain,plain-0xF12186,0xF12186,0x1E24,,×凉#敞,,Null-terminated Shift-JIS
+plain,plain-0xF1374E,0xF1374E,0x1E26,,嗄沺,,Null-terminated Shift-JIS
+string,msg-0xF257F8,0xF257F8,0x1E4A,0x02,&\nは$n炎をはいた!,,Type 0x02 message
+plain,plain-0xF41DBA,0xF41DBA,0x1E83,,歔?滑,,Null-terminated Shift-JIS
+string,msg-0xF68EAB,0xF68EAB,0x1ED1,0x02,\nは$nふてきな笑みを浮かべた!,,Type 0x02 message
+string,msg-0xF68F0A,0xF68F0A,0x1ED1,0x02,\nは$n笑っている・・・,,Type 0x02 message
+plain,plain-0xF82C05,0xF82C05,0x1F05,,燼淳,,Null-terminated Shift-JIS
+plain,plain-0xF8D11C,0xF8D11C,0x1F1A,,纐釼,,Null-terminated Shift-JIS
+plain,plain-0xFA8BFE,0xFA8BFE,0x1F51,,碧玉,,Null-terminated Shift-JIS
+plain,plain-0xFA8CB6,0xFA8CB6,0x1F51,,ガラン,,Null-terminated Shift-JIS
+plain,plain-0xFA8CDA,0xFA8CDA,0x1F51,,百面師,,Null-terminated Shift-JIS
+string,msg-0xFA8CE1,0xFA8CE1,0x1F51,0x02,\nは、$n全身の怨念をぶつけた!!,,Type 0x02 message
+plain,plain-0xFA8D1C,0xFA8D1C,0x1F51,,屍の王者,,Null-terminated Shift-JIS
+plain,plain-0xFA8DA4,0xFA8DA4,0x1F51,,しもしも,,Null-terminated Shift-JIS
+string,msg-0xFA8DD8,0xFA8DD8,0x1F51,0x02,&\nは、$n羽根を震わせた!!,,Type 0x02 message
+plain,plain-0xFA8E10,0xFA8E10,0x1F51,,死神,,Null-terminated Shift-JIS
+plain,plain-0xFA8E3B,0xFA8E3B,0x1F51,,死の握手,,Null-terminated Shift-JIS
+plain,plain-0xFA8E7C,0xFA8E7C,0x1F51,,土偶ロボ,,Null-terminated Shift-JIS
+string,msg-0xFA8E85,0xFA8E85,0x1F51,0x02,▼\nは、$n口から火を吐いた!!,,Type 0x02 message
+plain,plain-0xFC58B4,0xFC58B4,0x1F8B,,"""3橄鴃",,Null-terminated Shift-JIS
+plain,plain-0x1012C1C,0x1012C1C,0x2025,,訳顋,,Null-terminated Shift-JIS
+plain,plain-0x1013AD7,0x1013AD7,0x2027,,(っ柔楓,,Null-terminated Shift-JIS
+plain,plain-0x104ABA7,0x104ABA7,0x2095,,潦t2法,,Null-terminated Shift-JIS
+plain,plain-0x104B740,0x104B740,0x2096,,氣■属,,Null-terminated Shift-JIS
+plain,plain-0x105332F,0x105332F,0x20A6,,H壹+劍,,Null-terminated Shift-JIS
+plain,plain-0x1069A20,0x1069A20,0x20D3,,ウツロ,,Null-terminated Shift-JIS
+string,msg-0x1069A27,0x1069A27,0x20D3,0x02,3\nは、$n胎動している!!,,Type 0x02 message
+plain,plain-0x1069AA0,0x1069AA0,0x20D3,,葬式坊主,,Null-terminated Shift-JIS
+plain,plain-0x1069AC9,0x1069AC9,0x20D3,,化け地蔵,,Null-terminated Shift-JIS
+string,msg-0x1069AD2,0x1069AD2,0x20D3,0x02,&\nに後光がさした!!,,Type 0x02 message
+plain,plain-0x1079F10,0x1079F10,0x20F3,,近江',,Null-terminated Shift-JIS
+plain,plain-0x108C687,0x108C687,0x2118,,已潤,,Null-terminated Shift-JIS
+plain,plain-0x108E9B8,0x108E9B8,0x211D,,爛落#,,Null-terminated Shift-JIS
+plain,plain-0x10A7A67,0x10A7A67,0x214F,,イバラ狼,,Null-terminated Shift-JIS
+plain,plain-0x10A7AAB,0x10A7AAB,0x214F,,は虫犬,,Null-terminated Shift-JIS
+plain,plain-0x10A7B76,0x10A7B76,0x214F,,緑の肉弾,,Null-terminated Shift-JIS
+plain,plain-0x10AD659,0x10AD659,0x215A,,l狒勢,,Null-terminated Shift-JIS
+plain,plain-0x10C2DCE,0x10C2DCE,0x2185,,o梳皴,,Null-terminated Shift-JIS
+plain,plain-0x10CE276,0x10CE276,0x219C,,櫞麹,,Null-terminated Shift-JIS
+plain,plain-0x10D0ACC,0x10D0ACC,0x21A1,,妄給,,Null-terminated Shift-JIS
+plain,plain-0x10D23BF,0x10D23BF,0x21A4,,濮燉,,Null-terminated Shift-JIS
+plain,plain-0x10E59E3,0x10E59E3,0x21CB,,黒い羽音,,Null-terminated Shift-JIS
+plain,plain-0x10E5A45,0x10E5A45,0x21CB,,ミツメ,,Null-terminated Shift-JIS
+plain,plain-0x10F6EFE,0x10F6EFE,0x21ED,,i冦冦輓,,Null-terminated Shift-JIS
+plain,plain-0x1119DB1,0x1119DB1,0x2233,,雇#Ｑ,,Null-terminated Shift-JIS
+plain,plain-0x1182FF9,0x1182FF9,0x2305,,奸就,,Null-terminated Shift-JIS
+plain,plain-0x119142B,0x119142B,0x2322,,圈脹,,Null-terminated Shift-JIS
+plain,plain-0x11A3112,0x11A3112,0x2346,,H迎遇,,Null-terminated Shift-JIS
+plain,plain-0x11AB0B5,0x11AB0B5,0x2356,,母子心中,,Null-terminated Shift-JIS
+string,msg-0x11AB0BE,0x11AB0BE,0x2356,0x02,3\nは、黄泉の子守歌を歌った!!,,Type 0x02 message
+plain,plain-0x11AB126,0x11AB126,0x2356,,草の兵隊,,Null-terminated Shift-JIS
+plain,plain-0x11AB16B,0x11AB16B,0x2356,,魚獣,,Null-terminated Shift-JIS
+plain,plain-0x11AB1C4,0x11AB1C4,0x2356,,人間狩り,,Null-terminated Shift-JIS
+plain,plain-0x11AB1F9,0x11AB1F9,0x2356,,鉛クラゲ,,Null-terminated Shift-JIS
+plain,plain-0x11AB225,0x11AB225,0x2356,,堕落の花園,,Null-terminated Shift-JIS
+plain,plain-0x11AB24A,0x11AB24A,0x2356,,死の商人,,Null-terminated Shift-JIS
+plain,plain-0x11AB276,0x11AB276,0x2356,,春狂乱,,Null-terminated Shift-JIS
+plain,plain-0x11AB2C2,0x11AB2C2,0x2356,,縁切りバサミ,,Null-terminated Shift-JIS
+string,msg-0x11AB2CF,0x11AB2CF,0x2356,0x02,&\nは、$n懐に飛び込んできた!!,,Type 0x02 message
+plain,plain-0x11AB30B,0x11AB30B,0x2356,,月夜の殺人鬼,,Null-terminated Shift-JIS
+plain,plain-0x11AB335,0x11AB335,0x2356,,テンギャン,,Null-terminated Shift-JIS
+string,msg-0x11AB340,0x11AB340,0x2356,0x02,/Y\nは、$n全員の生爪をはいだ!!,,Type 0x02 message
+plain,plain-0x11AB3B0,0x11AB3B0,0x2356,,夜の翼,,Null-terminated Shift-JIS
+plain,plain-0x11AB417,0x11AB417,0x2356,,硫黄の風,,Null-terminated Shift-JIS
+plain,plain-0x11AB485,0x11AB485,0x2356,,水際の殺し屋,,Null-terminated Shift-JIS
+plain,plain-0x11B8C7D,0x11B8C7D,0x2371,,近梱]+,,Null-terminated Shift-JIS
+label,label-0x11C4F6E,0x11C4F6E,0x2389,0x01,繿,,Type 0x01 area/entity label
+plain,plain-0x11DA017,0x11DA017,0x23B4,,?鉗螻,,Null-terminated Shift-JIS
+plain,plain-0x11E63E7,0x11E63E7,0x23CC,,トビモノ,,Null-terminated Shift-JIS
+string,msg-0x11E63F0,0x11E63F0,0x23CC,0x02,&\nは、策を考えた!!,,Type 0x02 message
+string,msg-0x11E6502,0x11E6502,0x23CC,0x02,&\nは、特攻攻撃!!,,Type 0x02 message
+plain,plain-0x11E6550,0x11E6550,0x23CC,,凍竜,,Null-terminated Shift-JIS
+plain,plain-0x11E6575,0x11E6575,0x23CC,,水の屍,,Null-terminated Shift-JIS
+plain,plain-0x120143C,0x120143C,0x2402,,榔O採.,,Null-terminated Shift-JIS
+plain,plain-0x1207CDD,0x1207CDD,0x240F,,誉亙,,Null-terminated Shift-JIS
+plain,plain-0x1211E32,0x1211E32,0x2423,,泱犒,,Null-terminated Shift-JIS
+plain,plain-0x1228B38,0x1228B38,0x2451,,凍る吐息,,Null-terminated Shift-JIS
+string,msg-0x1228B41,0x1228B41,0x2451,0x02,\nは、$n冷たい吐息を送った!!,,Type 0x02 message
+plain,plain-0x12513A3,0x12513A3,0x24A2,,げ屎,,Null-terminated Shift-JIS
+plain,plain-0x1265B4F,0x1265B4F,0x24CB,,影の化身,,Null-terminated Shift-JIS
+label,label-0x1295E7E,0x1295E7E,0x252B,0x01,ゝ,,Type 0x01 area/entity label
+plain,plain-0x129EB11,0x129EB11,0x253D,,瑩倩,,Null-terminated Shift-JIS
+string,msg-0x12A7F87,0x12A7F87,0x254F,0x02,L\nは$nこう惚にひたっている!,,Type 0x02 message
+plain,plain-0x12D64C8,0x12D64C8,0x25AC,,W歔揺,,Null-terminated Shift-JIS
+plain,plain-0x130D3C6,0x130D3C6,0x261A,,承酘,,Null-terminated Shift-JIS
+plain,plain-0x135EA1B,0x135EA1B,0x26BD,,X埴湫,,Null-terminated Shift-JIS
+string,msg-0x136A3DB,0x136A3DB,0x26D4,0x02,?\nは$nゲロゲロとないた!,,Type 0x02 message
+plain,plain-0x138CB34,0x138CB34,0x2719,,1髦I燎,,Null-terminated Shift-JIS
+plain,plain-0x139EA5D,0x139EA5D,0x273D,,漾劍,,Null-terminated Shift-JIS
+plain,plain-0x13A58FC,0x13A58FC,0x274B,,葬式音頭,,Null-terminated Shift-JIS
+plain,plain-0x13A59B1,0x13A59B1,0x274B,,サカテ,,Null-terminated Shift-JIS
+plain,plain-0x13E7B58,0x13E7B58,0x27CF,,捜側,,Null-terminated Shift-JIS
+label,label-0x13E8C8E,0x13E8C8E,0x27D1,0x01,カチ割り,,Type 0x01 area/entity label
+plain,plain-0x13E8C93,0x13E8C93,0x27D1,,カチ割り,,Null-terminated Shift-JIS
+label,label-0x13E8CAE,0x13E8CAE,0x27D1,0x01,絶対零度,,Type 0x01 area/entity label
+plain,plain-0x13E8CB3,0x13E8CB3,0x27D1,,絶対零度,,Null-terminated Shift-JIS
+label,label-0x13E8CCE,0x13E8CCE,0x27D1,0x01,キツネ火,,Type 0x01 area/entity label
+plain,plain-0x13E8CD3,0x13E8CD3,0x27D1,,キツネ火,,Null-terminated Shift-JIS
+label,label-0x13E8CEE,0x13E8CEE,0x27D1,0x01,冷血天使,,Type 0x01 area/entity label
+plain,plain-0x13E8CF3,0x13E8CF3,0x27D1,,冷血天使,,Null-terminated Shift-JIS
+label,label-0x13E8D0E,0x13E8D0E,0x27D1,0x01,つらら兵,,Type 0x01 area/entity label
+plain,plain-0x13E8D13,0x13E8D13,0x27D1,,つらら兵,,Null-terminated Shift-JIS
+label,label-0x13E8D2E,0x13E8D2E,0x27D1,0x01,氷の槍,,Type 0x01 area/entity label
+plain,plain-0x13E8D33,0x13E8D33,0x27D1,,氷の槍,,Null-terminated Shift-JIS
+label,label-0x13E8D4C,0x13E8D4C,0x27D1,0x01,冬の鬼,,Type 0x01 area/entity label
+plain,plain-0x13E8D51,0x13E8D51,0x27D1,,冬の鬼,,Null-terminated Shift-JIS
+label,label-0x14096A0,0x14096A0,0x2812,0x01,軻,,Type 0x01 area/entity label
+plain,plain-0x1415140,0x1415140,0x282A,,{葩踈,,Null-terminated Shift-JIS
+plain,plain-0x1418848,0x1418848,0x2831,,殫雹,,Null-terminated Shift-JIS
+plain,plain-0x144EC97,0x144EC97,0x289D,,姿gｉd,,Null-terminated Shift-JIS
+plain,plain-0x145378B,0x145378B,0x28A6,,二 聡,,Null-terminated Shift-JIS
+plain,plain-0x1453C6A,0x1453C6A,0x28A7,,繊晰,,Null-terminated Shift-JIS
+plain,plain-0x147A875,0x147A875,0x28F5,,新潟+,,Null-terminated Shift-JIS
+plain,plain-0x147AF01,0x147AF01,0x28F5,,Y度具本No,,Null-terminated Shift-JIS
+plain,plain-0x147B597,0x147B597,0x28F6,,勺c汎,,Null-terminated Shift-JIS
+plain,plain-0x14935B6,0x14935B6,0x2926,,棧觧,,Null-terminated Shift-JIS
+label,label-0x14936C4,0x14936C4,0x2926,0x01,瓔,,Type 0x01 area/entity label
+string,msg-0x14AA055,0x14AA055,0x2954,0x02,3\nは$n子守歌を歌った!,,Type 0x02 message
+string,msg-0x14AA06E,0x14AA06E,0x2954,0x02,\nの$n赤ん坊をあやしている!,,Type 0x02 message
+plain,plain-0x14AA0CD,0x14AA0CD,0x2954,,金のよだれ,,Null-terminated Shift-JIS
+plain,plain-0x14AA134,0x14AA134,0x2954,,泥入道,,Null-terminated Shift-JIS
+plain,plain-0x14AA157,0x14AA157,0x2954,,軟体仮面,,Null-terminated Shift-JIS
+plain,plain-0x14AA17C,0x14AA17C,0x2954,,闇の乙姫,,Null-terminated Shift-JIS
+string,msg-0x14AA185,0x14AA185,0x2954,0x02,",?\nは$n飛びかかってきた!",,Type 0x02 message
+plain,plain-0x14AA22A,0x14AA22A,0x2954,,燃え髪,,Null-terminated Shift-JIS
+plain,plain-0x14E6FA9,0x14E6FA9,0x29CD,,カネダマ,,Null-terminated Shift-JIS
+plain,plain-0x14E6FCE,0x14E6FCE,0x29CD,,黄金のハラワタ,,Null-terminated Shift-JIS
+string,msg-0x14E6FDD,0x14E6FDD,0x29CD,0x02,P?\nが$n体に飛びついた!,,Type 0x02 message
+label,label-0x1524D9E,0x1524D9E,0x2A49,0x01,明けガラス,,Type 0x01 area/entity label
+plain,plain-0x1524DA3,0x1524DA3,0x2A49,,明けガラス,,Null-terminated Shift-JIS
+label,label-0x1524DC0,0x1524DC0,0x2A49,0x01,青獣,,Type 0x01 area/entity label
+plain,plain-0x1524DC5,0x1524DC5,0x2A49,,青獣,,Null-terminated Shift-JIS
+label,label-0x1524DDC,0x1524DDC,0x2A49,0x01,呪い火,,Type 0x01 area/entity label
+plain,plain-0x1524DE1,0x1524DE1,0x2A49,,呪い火,,Null-terminated Shift-JIS
+plain,plain-0x1591353,0x1591353,0x2B22,,狠烙,,Null-terminated Shift-JIS
+plain,plain-0x15F96E9,0x15F96E9,0x2BF2,,D幄鄙鍄,,Null-terminated Shift-JIS
+plain,plain-0x168D23E,0x168D23E,0x2D1A,,濘e瀉,,Null-terminated Shift-JIS
+string,msg-0x16AA11C,0x16AA11C,0x2D54,0x02,3\nは$n酸を吹きかけていた!,,Type 0x02 message
+plain,plain-0x16AA191,0x16AA191,0x2D54,,トサカ,,Null-terminated Shift-JIS
+string,msg-0x16AA199,0x16AA199,0x2D54,0x10,\nは$n酸を吹きかけた!,,Type 0x10 message (arg=0x23)
+plain,plain-0x16AA205,0x16AA205,0x2D54,,空爪,,Null-terminated Shift-JIS
+plain,plain-0x16E9F4F,0x16E9F4F,0x2DD3,,砂神兵,,Null-terminated Shift-JIS
+plain,plain-0x1716E20,0x1716E20,0x2E2D,,!ｊ貯,,Null-terminated Shift-JIS
+string,msg-0x17A65E5,0x17A65E5,0x2F4C,0x02,L\nは$n火の玉を投げつけてきた!,,Type 0x02 message
+plain,plain-0x17E6845,0x17E6845,0x2FCD,,スダマ,,Null-terminated Shift-JIS
+plain,plain-0x17E68DC,0x17E68DC,0x2FCD,,モウリョウ,,Null-terminated Shift-JIS
+plain,plain-0x18A915F,0x18A915F,0x3152,,影法師,,Null-terminated Shift-JIS
+plain,plain-0x18A9188,0x18A9188,0x3152,,人間凶器,,Null-terminated Shift-JIS
+string,msg-0x18A9191,0x18A9191,0x3152,0x02,T&\nの必殺殺人拳!,,Type 0x02 message
+plain,plain-0x18A91CE,0x18A91CE,0x3152,,首ヨコセ,,Null-terminated Shift-JIS
+plain,plain-0x18A91F0,0x18A91F0,0x3152,,欲望の犬,,Null-terminated Shift-JIS
+string,msg-0x18A9219,0x18A9219,0x3152,0x10,\nの右の首が$n酸を吐いた!,,Type 0x10 message (arg=0x26)
+plain,plain-0x18A936D,0x18A936D,0x3152,,死手,,Null-terminated Shift-JIS
+plain,plain-0x18C7E50,0x18C7E50,0x318F,,桙劫,,Null-terminated Shift-JIS
+plain,plain-0x18D5D68,0x18D5D68,0x31AB,,甸5族_,,Null-terminated Shift-JIS
+plain,plain-0x18E565A,0x18E565A,0x31CA,,火宮女,,Null-terminated Shift-JIS
+plain,plain-0x18E567D,0x18E567D,0x31CA,,踊り猫,,Null-terminated Shift-JIS
+plain,plain-0x19258E3,0x19258E3,0x324B,,業火の鎧,,Null-terminated Shift-JIS
+plain,plain-0x1953CD8,0x1953CD8,0x32A7,,冗鷸,,Null-terminated Shift-JIS
+plain,plain-0x19E70BF,0x19E70BF,0x33CE,,墓場乙女,,Null-terminated Shift-JIS
+string,msg-0x19E70C8,0x19E70C8,0x33CE,0x02,?\nは$n墓標を振り回して突進してきた!,,Type 0x02 message
+plain,plain-0x19E7131,0x19E7131,0x33CE,,呪いみこ,,Null-terminated Shift-JIS
+plain,plain-0x1A02B0A,0x1A02B0A,0x3405,,n0懋齠,,Null-terminated Shift-JIS
+plain,plain-0x1A0A872,0x1A0A872,0x3415,,渾ヤ,,Null-terminated Shift-JIS
+plain,plain-0x1A0BE84,0x1A0BE84,0x3417,,V檜/艀,,Null-terminated Shift-JIS
+plain,plain-0x1A54031,0x1A54031,0x34A8,,激忱微,,Null-terminated Shift-JIS
+string,msg-0x1A69881,0x1A69881,0x34D3,0x10,\nは$n酸を吹きかけた!!,,Type 0x10 message (arg=0x23)
+plain,plain-0x1A698F0,0x1A698F0,0x34D3,,青ざめた女,,Null-terminated Shift-JIS
+plain,plain-0x1A8B476,0x1A8B476,0x3516,,泣稽e*,,Null-terminated Shift-JIS
+string,msg-0x1AA8B9F,0x1AA8B9F,0x3551,0x02,\nは$n全身の怨念をぶつけた!,,Type 0x02 message
+string,msg-0x1AA8CE2,0x1AA8CE2,0x3551,0x02,▼\nは$n口から火を吐いた!,,Type 0x02 message
+plain,plain-0x1AADB6E,0x1AADB6E,0x355B,,蠻人DE,,Null-terminated Shift-JIS
+plain,plain-0x1ACDA24,0x1ACDA24,0x359B,,&蜆8苴I罎Z箜,,Null-terminated Shift-JIS
+plain,plain-0x1AD0094,0x1AD0094,0x35A0,,"""政棒",,Null-terminated Shift-JIS
+plain,plain-0x1AD9757,0x1AD9757,0x35B2,,Β_譱碣,,Null-terminated Shift-JIS
+plain,plain-0x1B052E8,0x1B052E8,0x360A,,輪荷,,Null-terminated Shift-JIS
+plain,plain-0x1B286F8,0x1B286F8,0x3650,,瓠拾,,Null-terminated Shift-JIS
+plain,plain-0x1B4A934,0x1B4A934,0x3695,,"""3咒鴆",,Null-terminated Shift-JIS
+plain,plain-0x1B5169E,0x1B5169E,0x36A2,,淦麾,,Null-terminated Shift-JIS
+string,msg-0x1B699F5,0x1B699F5,0x36D3,0x02,3\nは$n胎動している!,,Type 0x02 message
+string,msg-0x1B69A97,0x1B69A97,0x36D3,0x02,&\nに後光がさした!,,Type 0x02 message
+plain,plain-0x1B69AD9,0x1B69AD9,0x36D3,,笑う福助,,Null-terminated Shift-JIS
+plain,plain-0x1BA5DB9,0x1BA5DB9,0x374B,,足喰い,,Null-terminated Shift-JIS
+string,msg-0x1BA5DFB,0x1BA5DFB,0x374B,0x10,\nは$n酸を吐いた!,,Type 0x10 message (arg=0x3D)
+plain,plain-0x1C26DBA,0x1C26DBA,0x384D,,殺人中毒,,Null-terminated Shift-JIS
+string,msg-0x1C26DC3,0x1C26DC3,0x384D,0x02,U?\nは、$n槍を大きく振り回した!!,,Type 0x02 message
+plain,plain-0x1C26E33,0x1C26E33,0x384D,,装骨犬,,Null-terminated Shift-JIS
+plain,plain-0x1C454D6,0x1C454D6,0x388A,,渝軅,,Null-terminated Shift-JIS
+plain,plain-0x1C7AB0D,0x1C7AB0D,0x38F5,,浪穎,,Null-terminated Shift-JIS
+plain,plain-0x1C8C399,0x1C8C399,0x3918,,歿瑾錮,,Null-terminated Shift-JIS
+plain,plain-0x1C8D835,0x1C8D835,0x391B,,!訌閠,,Null-terminated Shift-JIS
+string,msg-0x1CAA046,0x1CAA046,0x3954,0x02,\nの決死の一撃!,,Type 0x02 message
+plain,plain-0x1CAA077,0x1CAA077,0x3954,,犬顔,,Null-terminated Shift-JIS
+plain,plain-0x1CAA0B5,0x1CAA0B5,0x3954,,がん坊,,Null-terminated Shift-JIS
+plain,plain-0x1CAA0F6,0x1CAA0F6,0x3954,,ナベかぶり,,Null-terminated Shift-JIS
+plain,plain-0x1CAA18F,0x1CAA18F,0x3954,,美女地獄,,Null-terminated Shift-JIS
+plain,plain-0x1CAA23B,0x1CAA23B,0x3954,,硫黄の翼,,Null-terminated Shift-JIS
+label,label-0x1CE6046,0x1CE6046,0x39CC,0x01,赤い白昼夢,,Type 0x01 area/entity label
+plain,plain-0x1CE604B,0x1CE604B,0x39CC,,赤い白昼夢,,Null-terminated Shift-JIS
+label,label-0x1CE6068,0x1CE6068,0x39CC,0x01,背徳の穴,,Type 0x01 area/entity label
+plain,plain-0x1CE606D,0x1CE606D,0x39CC,,背徳の穴,,Null-terminated Shift-JIS
+label,label-0x1CE6088,0x1CE6088,0x39CC,0x01,手長,,Type 0x01 area/entity label
+plain,plain-0x1CE608D,0x1CE608D,0x39CC,,手長,,Null-terminated Shift-JIS
+label,label-0x1CE60A4,0x1CE60A4,0x39CC,0x01,母なる病巣,,Type 0x01 area/entity label
+plain,plain-0x1CE60A9,0x1CE60A9,0x39CC,,母なる病巣,,Null-terminated Shift-JIS
+plain,plain-0x1EAB258,0x1EAB258,0x3D56,,魔海母子,,Null-terminated Shift-JIS
+string,msg-0x1EAB261,0x1EAB261,0x3D56,0x02,3\nは$n黄泉の子守歌を歌った!,,Type 0x02 message
+string,msg-0x1EAB423,0x1EAB423,0x3D56,0x02,&\nは$n懐に飛び込んできた!,,Type 0x02 message
+string,msg-0x1EAB48F,0x1EAB48F,0x3D56,0x02,0Y\nは$n全員の生爪をはいだ!,,Type 0x02 message
+plain,plain-0x1EAB4C4,0x1EAB4C4,0x3D56,,夜翼,,Null-terminated Shift-JIS
+plain,plain-0x1EAB54A,0x1EAB54A,0x3D56,,ハ虫兵,,Null-terminated Shift-JIS
+plain,plain-0x1EE63F7,0x1EE63F7,0x3DCC,,魔海蛇,,Null-terminated Shift-JIS
+string,msg-0x1EE64DE,0x1EE64DE,0x3DCC,0x02,&\nの特攻攻撃!,,Type 0x02 message
+plain,plain-0x1EE6549,0x1EE6549,0x3DCC,,頭骨魚,,Null-terminated Shift-JIS
+string,msg-0x1F28B7E,0x1F28B7E,0x3E51,0x02,&\nは$n冷たい吐息を送った!,,Type 0x02 message
+plain,plain-0x1F8A985,0x1F8A985,0x3F15,,頗告,,Null-terminated Shift-JIS
+string,msg-0x1FA6DD7,0x1FA6DD7,0x3F4D,0x02,U3\nの大振り!,,Type 0x02 message
+plain,plain-0x202712D,0x202712D,0x404E,,鬼カミキリ,,Null-terminated Shift-JIS
+plain,plain-0x203FD15,0x203FD15,0x407F,,要#啀,,Null-terminated Shift-JIS
+plain,plain-0x2046DA3,0x2046DA3,0x408D,,踰癲,,Null-terminated Shift-JIS
+plain,plain-0x2066C80,0x2066C80,0x40CD,,竜宮の番犬,,Null-terminated Shift-JIS
+plain,plain-0x2066CA4,0x2066CA4,0x40CD,,ショウジョウ,,Null-terminated Shift-JIS
+label,label-0x2066CED,0x2066CED,0x40CD,0x01,Cネズミ,,Type 0x01 area/entity label
+plain,plain-0x2066D4B,0x2066D4B,0x40CD,,白海狼,,Null-terminated Shift-JIS
+plain,plain-0x20A8B6C,0x20A8B6C,0x4151,,呪老人,,Null-terminated Shift-JIS
+plain,plain-0x20A8CB7,0x20A8CB7,0x4151,,渇きの面,,Null-terminated Shift-JIS
+plain,plain-0x20A8CEB,0x20A8CEB,0x4151,,心の野獣,,Null-terminated Shift-JIS
+plain,plain-0x20AC1E1,0x20AC1E1,0x4158,,歙滑,,Null-terminated Shift-JIS
+plain,plain-0x20E6270,0x20E6270,0x41CC,,吠える花びら,,Null-terminated Shift-JIS
+plain,plain-0x210B490,0x210B490,0x4216,,洵% 腔,,Null-terminated Shift-JIS
+plain,plain-0x2164C25,0x2164C25,0x42C9,,魔炎猟犬,,Null-terminated Shift-JIS
+plain,plain-0x2164C86,0x2164C86,0x42C9,,ホムラ,,Null-terminated Shift-JIS
+plain,plain-0x2177068,0x2177068,0x42EE,,7健闘!,,Null-terminated Shift-JIS
+plain,plain-0x2188F87,0x2188F87,0x4311,,＝演((,,Null-terminated Shift-JIS
+plain,plain-0x21993C0,0x21993C0,0x4332,,"""3櫁鉋",,Null-terminated Shift-JIS
+plain,plain-0x21A605C,0x21A605C,0x434C,,ミヅチ,,Null-terminated Shift-JIS
+plain,plain-0x21A607F,0x21A607F,0x434C,,氷心魔人,,Null-terminated Shift-JIS
+plain,plain-0x21C2055,0x21C2055,0x4384,,龕逗OТ,,Null-terminated Shift-JIS
+plain,plain-0x21C236F,0x21C236F,0x4384,,龕逗/,,Null-terminated Shift-JIS
+plain,plain-0x2204ADF,0x2204ADF,0x4409,,鴬 0坎,,Null-terminated Shift-JIS
+plain,plain-0x2213941,0x2213941,0x4427,,喉購,,Null-terminated Shift-JIS
+plain,plain-0x224BB27,0x224BB27,0x4497,,旧♂朔,,Null-terminated Shift-JIS
+plain,plain-0x22AB7D7,0x22AB7D7,0x4556,,シオノメ,,Null-terminated Shift-JIS
+string,msg-0x22AB8C2,0x22AB8C2,0x4557,0x02,U?\nの大振り!,,Type 0x02 message
+string,msg-0x22AB955,0x22AB955,0x4557,0x02,T&\nの突撃攻撃!,,Type 0x02 message
+plain,plain-0x22AB97E,0x22AB97E,0x4557,,震える細腕,,Null-terminated Shift-JIS
+plain,plain-0x22AB9ED,0x22AB9ED,0x4557,,氷の腹鼓,,Null-terminated Shift-JIS
+plain,plain-0x22B11C3,0x22B11C3,0x4562,,愾惧,,Null-terminated Shift-JIS
+plain,plain-0x22EC63E,0x22EC63E,0x45D8,,茎亜wx,,Null-terminated Shift-JIS
+plain,plain-0x2303D98,0x2303D98,0x4607,,氷凹,,Null-terminated Shift-JIS
+plain,plain-0x2366155,0x2366155,0x46CC,,地底警察,,Null-terminated Shift-JIS
+plain,plain-0x2366191,0x2366191,0x46CC,,カブソ,,Null-terminated Shift-JIS
+plain,plain-0x23661B4,0x23661B4,0x46CC,,シャグマ,,Null-terminated Shift-JIS
+plain,plain-0x23661E8,0x23661E8,0x46CC,,紅糸虫,,Null-terminated Shift-JIS
+string,msg-0x23661EF,0x23661EF,0x46CC,0x02,?\nは$n糸を吐いた!,,Type 0x02 message
+plain,plain-0x236621C,0x236621C,0x46CC,,闇かずら,,Null-terminated Shift-JIS
+plain,plain-0x23E44EB,0x23E44EB,0x47C8,,灣鄲,,Null-terminated Shift-JIS
+label,label-0x24063E4,0x24063E4,0x480C,0x01,告,,Type 0x01 area/entity label
+plain,plain-0x24A86AF,0x24A86AF,0x4950,,飛びザル,,Null-terminated Shift-JIS
+plain,plain-0x24D1BAB,0x24D1BAB,0x49A3,,攪ｔ,,Null-terminated Shift-JIS
+plain,plain-0x24E7193,0x24E7193,0x49CE,,_g滂咸,,Null-terminated Shift-JIS
+plain,plain-0x24E80CE,0x24E80CE,0x49D0,,ぶっかき,,Null-terminated Shift-JIS
+string,msg-0x24E80DB,0x24E80DB,0x49D0,0x02,\nは$n空振りをした!,,Type 0x02 message
+plain,plain-0x24E81E5,0x24E81E5,0x49D0,,肉の花ビラ,,Null-terminated Shift-JIS
+plain,plain-0x24E8212,0x24E8212,0x49D0,,氷竜,,Null-terminated Shift-JIS
+plain,plain-0x24EC6E8,0x24EC6E8,0x49D8,,捐泛,,Null-terminated Shift-JIS
+label,label-0x27FF444,0x27FF444,0x4FFE,0x01,銘,,Type 0x01 area/entity label
+plain,plain-0x2812024,0x2812024,0x5024,,　製作／総指揮　　　工藤　裕司,,Null-terminated Shift-JIS
+plain,plain-0x2812070,0x2812070,0x5024,,　企画／監修　　　　広井　王子,,Null-terminated Shift-JIS
+plain,plain-0x2812096,0x2812096,0x5024,,　総監督　　　　　　桝田　省治,,Null-terminated Shift-JIS
+plain,plain-0x28120BC,0x28120BC,0x5024,,　演出　　　　　　　岩崎　啓真,,Null-terminated Shift-JIS
+plain,plain-0x28120EC,0x28120EC,0x5024,,　　　　　　声の出演,,Null-terminated Shift-JIS
+plain,plain-0x2812124,0x2812124,0x5024,,　カブキ団十郎　　　山口　勝平,,Null-terminated Shift-JIS
+plain,plain-0x2812145,0x2812145,0x5024,,　極楽　太郎　　　赤星　昇一郎,,Null-terminated Shift-JIS
+plain,plain-0x2812166,0x2812166,0x5024,,　絹　　　　　　　井上　あずみ,,Null-terminated Shift-JIS
+plain,plain-0x2812187,0x2812187,0x5024,,　ホテイ丸　　　　　　青野　武,,Null-terminated Shift-JIS
+plain,plain-0x28121A8,0x28121A8,0x5024,,　花火　　　　　　木下　千鶴子,,Null-terminated Shift-JIS
+plain,plain-0x28121C9,0x28121C9,0x5024,,　まつり　　　　　高山　みなみ,,Null-terminated Shift-JIS
+plain,plain-0x28121EA,0x28121EA,0x5024,,　みこし　　　　　　柿沢　美貴,,Null-terminated Shift-JIS
+plain,plain-0x281222C,0x281222C,0x5024,,　足下五兄弟　　　　矢尾　一樹,,Null-terminated Shift-JIS
+plain,plain-0x281224D,0x281224D,0x5024,,　おミル　　　　　　白石　冬美,,Null-terminated Shift-JIS
+plain,plain-0x281226E,0x281226E,0x5024,,　死神将軍　　　　　銀河　万丈,,Null-terminated Shift-JIS
+plain,plain-0x281228F,0x281228F,0x5024,,　菊五郎　　　　　　　千葉　繁,,Null-terminated Shift-JIS
+plain,plain-0x28122D1,0x28122D1,0x5024,,　名無しの十八番　　　羽室　満,,Null-terminated Shift-JIS
+plain,plain-0x28122F2,0x28122F2,0x5024,,　マダム・バーバラ　藤田　淑子,,Null-terminated Shift-JIS
+plain,plain-0x2812313,0x2812313,0x5024,,　デューク・ペペ　八奈見　乗児,,Null-terminated Shift-JIS
+plain,plain-0x2812334,0x2812334,0x5024,,　地獄釜の肉助　　　内海　賢二,,Null-terminated Shift-JIS
+plain,plain-0x2812355,0x2812355,0x5024,,　右のガーニン　　　矢尾　一樹,,Null-terminated Shift-JIS
+plain,plain-0x2812376,0x2812376,0x5024,,　吹雪御前　　　　　山田　栄子,,Null-terminated Shift-JIS
+plain,plain-0x2812397,0x2812397,0x5024,,　剛天明王　　　　　内海　賢二,,Null-terminated Shift-JIS
+plain,plain-0x28123B8,0x28123B8,0x5024,,　マントー２　　　　　千葉　繁,,Null-terminated Shift-JIS
+plain,plain-0x28123D9,0x28123D9,0x5024,,　ベーロン　　　　　内海　賢二,,Null-terminated Shift-JIS
+plain,plain-0x28123FA,0x28123FA,0x5024,,　デロレン　　　　　宮内　幸平,,Null-terminated Shift-JIS
+plain,plain-0x281241B,0x281241B,0x5024,,　デーロン　　　　　永井　一郎,,Null-terminated Shift-JIS
+plain,plain-0x281243C,0x281243C,0x5024,,　ヨミ　　　　　　　池田　秀一,,Null-terminated Shift-JIS
+plain,plain-0x281245D,0x281245D,0x5024,,　マリ　　　　　　　池田　昌子,,Null-terminated Shift-JIS
+plain,plain-0x281247E,0x281247E,0x5024,,　創造神　　　　　岸田　今日子,,Null-terminated Shift-JIS
+plain,plain-0x28124AE,0x28124AE,0x5024,,　　　　シナリオユニット,,Null-terminated Shift-JIS
+plain,plain-0x28124C9,0x28124C9,0x5024,,　脚本／構成　　　　桝田　省治,,Null-terminated Shift-JIS
+plain,plain-0x28124EA,0x28124EA,0x5024,,　翻案　　　　　あだち　ひろし,,Null-terminated Shift-JIS
+plain,plain-0x2812510,0x2812510,0x5024,,　　　　　脚本アシスト,,Null-terminated Shift-JIS
+plain,plain-0x2812529,0x2812529,0x5024,,　井沢　寛　　　　　　下田　淳,,Null-terminated Shift-JIS
+plain,plain-0x281254A,0x281254A,0x5024,,　林　ゆきと　　　　山田　真木,,Null-terminated Shift-JIS
+plain,plain-0x281256B,0x281256B,0x5024,,　安藤　誠,,Null-terminated Shift-JIS
+label,label-0x2812586,0x2812586,0x5024,0x01,　プログラムユニット,,Type 0x01 area/entity label
+plain,plain-0x28125A2,0x28125A2,0x5024,,　ビジュアル　　　　岩崎　啓真,,Null-terminated Shift-JIS
+plain,plain-0x28125C3,0x28125C3,0x5024,,　システム　　　　　長谷川　浩,,Null-terminated Shift-JIS
+plain,plain-0x28125E4,0x28125E4,0x5024,,　バトル　　　　　　　薮　芳昭,,Null-terminated Shift-JIS
+plain,plain-0x2812605,0x2812605,0x5024,,　　　　　　　　　　蝦名　寿昌,,Null-terminated Shift-JIS
+label,label-0x281262A,0x281262A,0x5024,0x01,　シナリオプログラム,,Type 0x01 area/entity label
+plain,plain-0x2812646,0x2812646,0x5024,,　武田　浩　　　　　室井　孝子,,Null-terminated Shift-JIS
+plain,plain-0x2812667,0x2812667,0x5024,,　中川　拓志　　　　安部　利也,,Null-terminated Shift-JIS
+plain,plain-0x2812688,0x2812688,0x5024,,　小西　康雅　　　　山本　耕司,,Null-terminated Shift-JIS
+plain,plain-0x28126A9,0x28126A9,0x5024,,　杉本　悟　　　　　芳賀　孝宏,,Null-terminated Shift-JIS
+plain,plain-0x28126D9,0x28126D9,0x5024,,　　　　サウンドユニット,,Null-terminated Shift-JIS
+plain,plain-0x28126F4,0x28126F4,0x5024,,　音楽監督　　　　　　久石　譲,,Null-terminated Shift-JIS
+plain,plain-0x2812715,0x2812715,0x5024,,　音楽　　　　　　　福田　裕彦,,Null-terminated Shift-JIS
+plain,plain-0x2812736,0x2812736,0x5024,,　音楽監修　　　　　中神　紀之,,Null-terminated Shift-JIS
+plain,plain-0x2812757,0x2812757,0x5024,,　ＰＳＧオペレート　　小原　肇,,Null-terminated Shift-JIS
+plain,plain-0x2812778,0x2812778,0x5024,,　音響監督　　　　　滝本　利昭,,Null-terminated Shift-JIS
+plain,plain-0x2812799,0x2812799,0x5024,,　サウンド編集　　　井上　雅明,,Null-terminated Shift-JIS
+label,label-0x28127BE,0x28127BE,0x5024,0x01,　　　効果音作成,,Type 0x01 area/entity label
+plain,plain-0x28127D6,0x28127D6,0x5024,,　成田　修　　　　　　星　恵太,,Null-terminated Shift-JIS
+plain,plain-0x28127F7,0x28127F7,0x5024,,　佐藤　昭洋　　　谷藤　真紀子,,Null-terminated Shift-JIS
+plain,plain-0x281281D,0x281281D,0x5025,,　ＡＤＰＣＭ　　　　神保　大介,,Null-terminated Shift-JIS
+plain,plain-0x281283E,0x281283E,0x5025,,　効果音選択　　　梶野　竜太郎,,Null-terminated Shift-JIS
+label,label-0x281286D,0x281286D,0x5025,0x01,　ビジュアルユニット,,Type 0x01 area/entity label
+plain,plain-0x28128AA,0x28128AA,0x5025,,　チーフ　　　　　　松田　泰一,,Null-terminated Shift-JIS
+plain,plain-0x28128CB,0x28128CB,0x5025,,　美術設定　　　　　鷲田　敏弥,,Null-terminated Shift-JIS
+plain,plain-0x28128EC,0x28128EC,0x5025,,　メカデザイン　　　石津　泰志,,Null-terminated Shift-JIS
+plain,plain-0x2812912,0x2812912,0x5025,,　　　　キャラクタワーク,,Null-terminated Shift-JIS
+plain,plain-0x281292D,0x281292D,0x5025,,　明貴　美加　　　　　僕　久保,,Null-terminated Shift-JIS
+plain,plain-0x281294E,0x281294E,0x5025,,　小高　伊都可　　　大橋　裕之,,Null-terminated Shift-JIS
+plain,plain-0x2812974,0x2812974,0x5025,,　　　　　　　原画,,Null-terminated Shift-JIS
+plain,plain-0x2812989,0x2812989,0x5025,,　石倉　敬一　　　大河原　晴男,,Null-terminated Shift-JIS
+plain,plain-0x28129AA,0x28129AA,0x5025,,　竹内　敦志　　　　下坂　英男,,Null-terminated Shift-JIS
+plain,plain-0x28129CB,0x28129CB,0x5025,,　青木　康浩　　　　吉川　博明,,Null-terminated Shift-JIS
+plain,plain-0x28129EC,0x28129EC,0x5025,,　石浜　真史,,Null-terminated Shift-JIS
+label,label-0x28129FF,0x28129FF,0x5025,0x01,　　ドットデザイン,,Type 0x01 area/entity label
+plain,plain-0x2812A19,0x2812A19,0x5025,,　東　明彦　　　　　　小林　浩,,Null-terminated Shift-JIS
+plain,plain-0x2812A3A,0x2812A3A,0x5025,,　遠藤　勝　　　　　寺尾　光夫,,Null-terminated Shift-JIS
+plain,plain-0x2812A5B,0x2812A5B,0x5025,,　坪井　慶美　　　　月田　文女,,Null-terminated Shift-JIS
+plain,plain-0x2812A7C,0x2812A7C,0x5025,,　佐藤　稔典　　　北郷　美奈子,,Null-terminated Shift-JIS
+plain,plain-0x2812A9D,0x2812A9D,0x5025,,　原　康子　　　　松野　利伊子,,Null-terminated Shift-JIS
+plain,plain-0x2812ABE,0x2812ABE,0x5025,,　塩坂　富子　　　　　古屋　哲,,Null-terminated Shift-JIS
+plain,plain-0x2812ADF,0x2812ADF,0x5025,,　岩佐　浩徳　　　　緒方　公平,,Null-terminated Shift-JIS
+plain,plain-0x2812B00,0x2812B00,0x5025,,　大河原　一樹　　　河野　祐子,,Null-terminated Shift-JIS
+plain,plain-0x2812B21,0x2812B21,0x5025,,　関口　暁信　　　　藤本　佳代,,Null-terminated Shift-JIS
+plain,plain-0x2812B42,0x2812B42,0x5025,,　武田　真理　　　　日高　真一,,Null-terminated Shift-JIS
+plain,plain-0x2812B63,0x2812B63,0x5025,,　大竹　浩史,,Null-terminated Shift-JIS
+plain,plain-0x2812B77,0x2812B77,0x5025,,　コンテ／作画進行　　浦上　進,,Null-terminated Shift-JIS
+plain,plain-0x2812B9D,0x2812B9D,0x5025,,　背景美術　アトリエ・ラスコー,,Null-terminated Shift-JIS
+label,label-0x2812BCC,0x2812BCC,0x5025,0x01,ップ／キャラクタユニット,,Type 0x01 area/entity label
+plain,plain-0x2812BEC,0x2812BEC,0x5025,,　監督　　　　　　　天城　秀行,,Null-terminated Shift-JIS
+plain,plain-0x2812C0D,0x2812C0D,0x5025,,　チーフ　　　　　　　久保　久,,Null-terminated Shift-JIS
+label,label-0x2812C32,0x2812C32,0x5025,0x01,ップ／キャラクタデザイン,,Type 0x01 area/entity label
+plain,plain-0x2812C52,0x2812C52,0x5025,,　桑原　元司　　　　岡田　寿夫,,Null-terminated Shift-JIS
+plain,plain-0x2812C73,0x2812C73,0x5025,,　鈴木　宏昭　　　小林　功一郎,,Null-terminated Shift-JIS
+plain,plain-0x2812C94,0x2812C94,0x5025,,　安部　政晴　　　　　林田　淳,,Null-terminated Shift-JIS
+plain,plain-0x2812CB5,0x2812CB5,0x5025,,　岡本　篤仁　　　　古田　康芳,,Null-terminated Shift-JIS
+plain,plain-0x2812CD6,0x2812CD6,0x5025,,　本間　弘士　　　　打保　恵次,,Null-terminated Shift-JIS
+plain,plain-0x2812CF7,0x2812CF7,0x5025,,　関　和義　　　　　今野　幸治,,Null-terminated Shift-JIS
+plain,plain-0x2812D18,0x2812D18,0x5025,,　大浦　孝浩　　　　佐藤　善美,,Null-terminated Shift-JIS
+plain,plain-0x2812D39,0x2812D39,0x5025,,　山口　もと　　　　　佐藤　裕,,Null-terminated Shift-JIS
+plain,plain-0x2812D5A,0x2812D5A,0x5025,,　伊藤　真希　　　佐々木　みか,,Null-terminated Shift-JIS
+plain,plain-0x2812D7B,0x2812D7B,0x5025,,　高岡　史江　　　　向井　由美,,Null-terminated Shift-JIS
+plain,plain-0x2812D9C,0x2812D9C,0x5025,,　佐藤　太亮　　　　土江　達也,,Null-terminated Shift-JIS
+plain,plain-0x2812DBD,0x2812DBD,0x5025,,　興膳　有基徳　　　関島　俊文,,Null-terminated Shift-JIS
+plain,plain-0x2812DDE,0x2812DDE,0x5025,,　蟹江　則宏　　　　伊藤　丈夫,,Null-terminated Shift-JIS
+plain,plain-0x2812DFF,0x2812DFF,0x5025,,　丸山　浩平　　　　小林　美鈴,,Null-terminated Shift-JIS
+plain,plain-0x2812E20,0x2812E20,0x5025,,　三上　由起子　　　金　佳代子,,Null-terminated Shift-JIS
+plain,plain-0x2812E41,0x2812E41,0x5025,,　百田　亮海　　　　西川　勝久,,Null-terminated Shift-JIS
+plain,plain-0x2812E62,0x2812E62,0x5025,,　佐々木　伸,,Null-terminated Shift-JIS
+plain,plain-0x2812E76,0x2812E76,0x5025,,　進行　　　　　　　松浦　浩司,,Null-terminated Shift-JIS
+plain,plain-0x2812EA6,0x2812EA6,0x5025,,　　　　プロジェクト進行,,Null-terminated Shift-JIS
+plain,plain-0x2812EC1,0x2812EC1,0x5025,,　監督　　　　　　　飛田　雅宏,,Null-terminated Shift-JIS
+plain,plain-0x2812EE2,0x2812EE2,0x5025,,　チーフ　　　　　　荒井　弘二,,Null-terminated Shift-JIS
+plain,plain-0x2812F03,0x2812F03,0x5025,,　サブ　　　　　　　　長山　豊,,Null-terminated Shift-JIS
+plain,plain-0x2812F24,0x2812F24,0x5025,,　進行　　　　　　梶野　竜太郎,,Null-terminated Shift-JIS
+plain,plain-0x2812F45,0x2812F45,0x5025,,　　　　　　　　　　小林　正樹,,Null-terminated Shift-JIS
+plain,plain-0x2812F66,0x2812F66,0x5025,,　　　　　　　　　　広井　栄二,,Null-terminated Shift-JIS
+plain,plain-0x2812F87,0x2812F87,0x5025,,　プロデューサー　　　清水　始,,Null-terminated Shift-JIS
+plain,plain-0x2812FA8,0x2812FA8,0x5025,,　スーパーバイザー　中本　伸一,,Null-terminated Shift-JIS
+plain,plain-0x2812FCE,0x2812FCE,0x5025,,　　　　　　デバッグ,,Null-terminated Shift-JIS
+plain,plain-0x2812FE5,0x2812FE5,0x5025,,　若林　哲也　　　　藤井　康博,,Null-terminated Shift-JIS
+plain,plain-0x2813006,0x2813006,0x5026,,　太田　宏之　　　　高山　奈美,,Null-terminated Shift-JIS
+plain,plain-0x2813027,0x2813027,0x5026,,　小林　勲　　　　　印南　好司,,Null-terminated Shift-JIS
+plain,plain-0x281306E,0x281306E,0x5026,,　小山　俊典　　　　藤原　茂樹,,Null-terminated Shift-JIS
+plain,plain-0x281308F,0x281308F,0x5026,,　安田　圭吾　　　　岡本　敏郎,,Null-terminated Shift-JIS
+plain,plain-0x28130B0,0x28130B0,0x5026,,　浦　敏治　　　　　秋元　明子,,Null-terminated Shift-JIS
+plain,plain-0x28130D1,0x28130D1,0x5026,,　高橋　利幸　　　　大草　康之,,Null-terminated Shift-JIS
+plain,plain-0x28130F2,0x28130F2,0x5026,,　稲本　義彦　　さくま　あきら,,Null-terminated Shift-JIS
+label,label-0x2813121,0x2813121,0x5026,0x01,　アイディア一般公募,,Type 0x01 area/entity label
+plain,plain-0x281313D,0x281313D,0x5026,,　平畠　昌樹　　　　知念　直也,,Null-terminated Shift-JIS
+plain,plain-0x281315E,0x281315E,0x5026,,　和田　由紀子　　　戸ヶ崎　睦,,Null-terminated Shift-JIS
+plain,plain-0x281317F,0x281317F,0x5026,,　黒坂　栄一　　　　菊池　俊英,,Null-terminated Shift-JIS
+plain,plain-0x28131A0,0x28131A0,0x5026,,　松崎　正明　　　　坂本　直人,,Null-terminated Shift-JIS
+plain,plain-0x28131C1,0x28131C1,0x5026,,　片岡　啓介　　　　志村　敬子,,Null-terminated Shift-JIS
+plain,plain-0x28131E2,0x28131E2,0x5026,,　宮林　勇　　　　　脇坂　東洋,,Null-terminated Shift-JIS
+plain,plain-0x2813203,0x2813203,0x5026,,　中島　寛明　　　　　唐木　剛,,Null-terminated Shift-JIS
+plain,plain-0x2813245,0x2813245,0x5026,,　深井　勇　　　　　大成　麻友,,Null-terminated Shift-JIS
+plain,plain-0x2813266,0x2813266,0x5026,,　太田　和利　　　　小倉　奈々,,Null-terminated Shift-JIS
+plain,plain-0x2813287,0x2813287,0x5026,,　山川　竜史　　　　　鹿倉　徹,,Null-terminated Shift-JIS
+plain,plain-0x28132A8,0x28132A8,0x5026,,　一岩　正広　　　　町田　雅仁,,Null-terminated Shift-JIS
+plain,plain-0x28132C9,0x28132C9,0x5026,,　安達　淳　　　　　野崎　光俊,,Null-terminated Shift-JIS
+plain,plain-0x281330B,0x281330B,0x5026,,　今井　敦史　　　佐々木　忠則,,Null-terminated Shift-JIS
+plain,plain-0x281332C,0x281332C,0x5026,,　安井　学　　　　　山本　浩史,,Null-terminated Shift-JIS
+plain,plain-0x281334D,0x281334D,0x5026,,　浅賀　一禎　　　　外瀬　竜彦,,Null-terminated Shift-JIS
+plain,plain-0x281337D,0x281337D,0x5026,,　　　　　　　協力,,Null-terminated Shift-JIS
+plain,plain-0x28133B8,0x28133B8,0x5026,,　アトリエ・ラスコー,,Null-terminated Shift-JIS
+plain,plain-0x281345F,0x281345F,0x5026,,　カメレオンハウス,,Null-terminated Shift-JIS
+plain,plain-0x2813474,0x2813474,0x5026,,　劇団２１世紀ＦＯＸ,,Null-terminated Shift-JIS
+plain,plain-0x281348B,0x281348B,0x5026,,　賢プロダクション,,Null-terminated Shift-JIS
+plain,plain-0x28134E3,0x28134E3,0x5026,,　スタジオライブ,,Null-terminated Shift-JIS
+plain,plain-0x281355A,0x281355A,0x5026,,　俳協,,Null-terminated Shift-JIS
+plain,plain-0x28135F1,0x28135F1,0x5026,,　　　　　　　　　（五十音順）,,Null-terminated Shift-JIS
+plain,plain-0x281361C,0x281361C,0x5026,,　　　　　録音スタジオ,,Null-terminated Shift-JIS
+plain,plain-0x2813635,0x2813635,0x5026,,　ワンダーステーション,,Null-terminated Shift-JIS
+plain,plain-0x281364E,0x281364E,0x5026,,　にっかつスタジオセンター,,Null-terminated Shift-JIS
+plain,plain-0x281366B,0x281366B,0x5026,,　スタジオＳＡＭ,,Null-terminated Shift-JIS
+label,label-0x28136C1,0x28136C1,0x5026,0x01,　　　制作・著作,,Type 0x01 area/entity label
+label,label-0x28398C0,0x28398C0,0x5073,0x01,溜痩,,Type 0x01 area/entity label
+plain,plain-0x28C378E,0x28C378E,0x5186,,槃貉,,Null-terminated Shift-JIS
+plain,plain-0x28D0E03,0x28D0E03,0x51A1,,釿猯,,Null-terminated Shift-JIS
+plain,plain-0x28D9041,0x28D9041,0x51B2,,滂顰,,Null-terminated Shift-JIS
+plain,plain-0x28E5588,0x28E5588,0x51CA,,淳裙,,Null-terminated Shift-JIS
+plain,plain-0x28E60B1,0x28E60B1,0x51CC,,矣絏,,Null-terminated Shift-JIS
+plain,plain-0x28FA484,0x28FA484,0x51F4,,戈粃,,Null-terminated Shift-JIS
+plain,plain-0x28FA6CB,0x28FA6CB,0x51F4,,孜P臍,,Null-terminated Shift-JIS
+plain,plain-0x2937BF7,0x2937BF7,0x526F,,箒P咸,,Null-terminated Shift-JIS
+plain,plain-0x293A1A0,0x293A1A0,0x5274,,倡鋩,,Null-terminated Shift-JIS
+plain,plain-0x294FDC7,0x294FDC7,0x529F,,涛 椦,,Null-terminated Shift-JIS
+plain,plain-0x2959257,0x2959257,0x52B2,,瀰搾,,Null-terminated Shift-JIS
+label,label-0x2959543,0x2959543,0x52B2,0x01,珥,,Type 0x01 area/entity label
+plain,plain-0x295DCA7,0x295DCA7,0x52BB,,状　wQ,,Null-terminated Shift-JIS
+plain,plain-0x29BA4EF,0x29BA4EF,0x5374,,蓮寿,,Null-terminated Shift-JIS
+plain,plain-0x29FF576,0x29FF576,0x53FE,,獣韵,,Null-terminated Shift-JIS
+plain,plain-0x2A24CFD,0x2A24CFD,0x5449,,滂番#j,,Null-terminated Shift-JIS
+plain,plain-0x2A4CDE7,0x2A4CDE7,0x5499,,常宦,,Null-terminated Shift-JIS
+plain,plain-0x2A4E11B,0x2A4E11B,0x549C,,準拷,,Null-terminated Shift-JIS
+plain,plain-0x2A76362,0x2A76362,0x54EC,,珥羽,,Null-terminated Shift-JIS
+label,label-0x2A76599,0x2A76599,0x54EC,0x01,羽,,Type 0x01 area/entity label
+label,label-0x2A765A3,0x2A765A3,0x54EC,0x01,蓮,,Type 0x01 area/entity label
+plain,plain-0x2A765A6,0x2A765A6,0x54EC,,隹蓮,,Null-terminated Shift-JIS
+plain,plain-0x2A765EE,0x2A765EE,0x54EC,,説凛,,Null-terminated Shift-JIS
+plain,plain-0x2A767AD,0x2A767AD,0x54EC,,蜷凭,,Null-terminated Shift-JIS
+plain,plain-0x2A768C4,0x2A768C4,0x54ED,,狢凰,,Null-terminated Shift-JIS
+plain,plain-0x2A768C9,0x2A768C9,0x54ED,,燿凰,,Null-terminated Shift-JIS
+plain,plain-0x2A76A1B,0x2A76A1B,0x54ED,,珥倭,,Null-terminated Shift-JIS
+plain,plain-0x2A76A2F,0x2A76A2F,0x54ED,,燿剞,,Null-terminated Shift-JIS
+plain,plain-0x2A76A5C,0x2A76A5C,0x54ED,,逝羽,,Null-terminated Shift-JIS
+plain,plain-0x2A76A66,0x2A76A66,0x54ED,,摺鵜,,Null-terminated Shift-JIS
+plain,plain-0x2A76B3C,0x2A76B3C,0x54ED,,狢叮,,Null-terminated Shift-JIS
+plain,plain-0x2A76B41,0x2A76B41,0x54ED,,燿厰,,Null-terminated Shift-JIS
+plain,plain-0x2A76CF0,0x2A76CF0,0x54ED,,烙虻,,Null-terminated Shift-JIS
+plain,plain-0x2AB5362,0x2AB5362,0x556A,,由匂,,Null-terminated Shift-JIS
+plain,plain-0x2AC7921,0x2AC7921,0x558F,,ポ逆,,Null-terminated Shift-JIS
+plain,plain-0x2AD9FF8,0x2AD9FF8,0x55B3,,怐)e沃,,Null-terminated Shift-JIS
+plain,plain-0x2ADA37E,0x2ADA37E,0x55B4,,条姫,,Null-terminated Shift-JIS
+plain,plain-0x2ADA585,0x2ADA585,0x55B4,,鉐鱚,,Null-terminated Shift-JIS
+plain,plain-0x2ADACB7,0x2ADACB7,0x55B5,,犒ー,,Null-terminated Shift-JIS
+plain,plain-0x2AE4A04,0x2AE4A04,0x55C9,,狢狢狢狢狢狢狢狢 ,,Null-terminated Shift-JIS
+plain,plain-0x2B283D9,0x2B283D9,0x5650,,關眞,,Null-terminated Shift-JIS
+plain,plain-0x2B74664,0x2B74664,0x56E8,,腔鬩,,Null-terminated Shift-JIS
+label,label-0x2B77E1B,0x2B77E1B,0x56EF,0x01,田省治　,,Type 0x01 area/entity label
+label,label-0x2B77E33,0x2B77E33,0x56EF,0x01,崎啓真　,,Type 0x01 area/entity label
+label,label-0x2B77E51,0x2B77E51,0x56EF,0x01,王子　,,Type 0x01 area/entity label
+label,label-0x2B77E69,0x2B77E69,0x56EF,0x01,一寿　　,,Type 0x01 area/entity label
+label,label-0x2B77E81,0x2B77E81,0x56EF,0x01,昇一郎　,,Type 0x01 area/entity label
+label,label-0x2B77E9D,0x2B77E9D,0x56EF,0x01,石　譲,,Type 0x01 area/entity label
+label,label-0x2B77EBB,0x2B77EBB,0x56EF,0x01,寅次郎　　天城秀行,,Type 0x01 area/entity label
+label,label-0x2B77EE5,0x2B77EE5,0x56EF,0x01,チャダ　　福田裕彦,,Type 0x01 area/entity label
+plain,plain-0x2B77F00,0x2B77F00,0x56EF,,　カブキ団十郎,,Null-terminated Shift-JIS
+label,label-0x2B77F15,0x2B77F15,0x56EF,0x01,勝平,,Type 0x01 area/entity label
+label,label-0x2B77F3B,0x2B77F3B,0x56EF,0x01,田今日子,,Type 0x01 area/entity label
+plain,plain-0x2BB75B2,0x2BB75B2,0x576E,,項萩,,Null-terminated Shift-JIS
+label,label-0x2BC3527,0x2BC3527,0x5786,0x01,矚,,Type 0x01 area/entity label
+plain,plain-0x2BC4746,0x2BC4746,0x5788,,芦呱,,Null-terminated Shift-JIS
+plain,plain-0x2BCDAC8,0x2BCDAC8,0x579B,,纐鳧,,Null-terminated Shift-JIS
+plain,plain-0x2BCDB46,0x2BCDB46,0x579B,,Z譲鳳,,Null-terminated Shift-JIS
+plain,plain-0x2BD626A,0x2BD626A,0x57AC,,_濳僉.,,Null-terminated Shift-JIS
+plain,plain-0x2BF547B,0x2BF547B,0x57EA,,狎奇,,Null-terminated Shift-JIS
+plain,plain-0x2BF8AB5,0x2BF8AB5,0x57F1,,菟訟,,Null-terminated Shift-JIS
+label,label-0x2BF9D0B,0x2BF9D0B,0x57F3,0x01,崛湎,,Type 0x01 area/entity label
+label,label-0x2BFC4E0,0x2BFC4E0,0x57F8,0x01,鱇,,Type 0x01 area/entity label
+plain,plain-0x2BFCD56,0x2BFCD56,0x57F9,,洲虧,,Null-terminated Shift-JIS
+label,label-0x2C011AA,0x2C011AA,0x5802,0x01,鄰,,Type 0x01 area/entity label
+plain,plain-0x2C3AFB2,0x2C3AFB2,0x5875,,砌肖,,Null-terminated Shift-JIS
+plain,plain-0x2C3B5B8,0x2C3B5B8,0x5876,,撮睹,,Null-terminated Shift-JIS
+plain,plain-0x2C3D9F4,0x2C3D9F4,0x587B,,倖輯鴪,,Null-terminated Shift-JIS
+plain,plain-0x2C3F349,0x2C3F349,0x587E,,蜍 c瓧,,Null-terminated Shift-JIS
+plain,plain-0x2C41DE0,0x2C41DE0,0x5883,,矚 网,,Null-terminated Shift-JIS
+label,label-0x2C43250,0x2C43250,0x5886,0x01,恬,,Type 0x01 area/entity label
+label,label-0x2CB6296,0x2CB6296,0x596C,0x01,被,,Type 0x01 area/entity label
+plain,plain-0x2CBB0DF,0x2CBB0DF,0x5976,,鴆瑟,,Null-terminated Shift-JIS
+plain,plain-0x2CE4616,0x2CE4616,0x59C8,,逓嗤RY,,Null-terminated Shift-JIS
+plain,plain-0x2CF7B57,0x2CF7B57,0x59EF,,狢午jj,,Null-terminated Shift-JIS
+plain,plain-0x2D0AFEA,0x2D0AFEA,0x5A15,,"""益隔#",,Null-terminated Shift-JIS
+plain,plain-0x2D0D82D,0x2D0D82D,0x5A1B,,絨0翠+,,Null-terminated Shift-JIS
+label,label-0x2E6AFA8,0x2E6AFA8,0x5CD5,0x01,騏,,Type 0x01 area/entity label
+plain,plain-0x2F0F186,0x2F0F186,0x5E1E,,}{鱚{羹笂,,Null-terminated Shift-JIS
+plain,plain-0x2F24F61,0x2F24F61,0x5E49,,!8垈貪,,Null-terminated Shift-JIS
+plain,plain-0x2F42B2F,0x2F42B2F,0x5E85,,}藤耄,,Null-terminated Shift-JIS
+plain,plain-0x2F4D432,0x2F4D432,0x5E9A,,酳胄,,Null-terminated Shift-JIS
+plain,plain-0x2F4E2B0,0x2F4E2B0,0x5E9C,,麾2劔,,Null-terminated Shift-JIS
+plain,plain-0x2F5348C,0x2F5348C,0x5EA6,,豆愛Bd,,Null-terminated Shift-JIS
+plain,plain-0x2F89E4E,0x2F89E4E,0x5F13,,蘖'涸,,Null-terminated Shift-JIS
+plain,plain-0x304205C,0x304205C,0x6084,,漿濮,,Null-terminated Shift-JIS
+plain,plain-0x304D6E5,0x304D6E5,0x609A,,蔟封,,Null-terminated Shift-JIS
+plain,plain-0x308324C,0x308324C,0x6106,,悁篌'y,,Null-terminated Shift-JIS
+plain,plain-0x313C407,0x313C407,0x6278,,珥乞,,Null-terminated Shift-JIS
+plain,plain-0x3168CEC,0x3168CEC,0x62D1,,珥邱,,Null-terminated Shift-JIS
+plain,plain-0x3183473,0x3183473,0x6306,,a燹瀘,,Null-terminated Shift-JIS
+plain,plain-0x318B79D,0x318B79D,0x6316,,T漓仙,,Null-terminated Shift-JIS
+plain,plain-0x318D58C,0x318D58C,0x631A,,攴鎹#F,,Null-terminated Shift-JIS
+plain,plain-0x3196A76,0x3196A76,0x632D,,羃縲,,Null-terminated Shift-JIS
+plain,plain-0x31C6261,0x31C6261,0x638C,,霑粛,,Null-terminated Shift-JIS
+plain,plain-0x31CA191,0x31CA191,0x6394,,涸*鋳,,Null-terminated Shift-JIS
+plain,plain-0x3245387,0x3245387,0x648A,,w躅/掃,,Null-terminated Shift-JIS
+plain,plain-0x32C2E49,0x32C2E49,0x6585,,項g1殲,,Null-terminated Shift-JIS
+plain,plain-0x3354164,0x3354164,0x66A8,,凍濮,,Null-terminated Shift-JIS
+plain,plain-0x33541F6,0x33541F6,0x66A8,,邸薪,,Null-terminated Shift-JIS
+plain,plain-0x3354288,0x3354288,0x66A8,,邸森,,Null-terminated Shift-JIS
+plain,plain-0x3384275,0x3384275,0x6708,,県k鋳,,Null-terminated Shift-JIS
+plain,plain-0x33C21AE,0x33C21AE,0x6784,,狢楳,,Null-terminated Shift-JIS
+plain,plain-0x33C9355,0x33C9355,0x6792,,曄喫,,Null-terminated Shift-JIS
+plain,plain-0x34147BC,0x34147BC,0x6828,,毯萢,,Null-terminated Shift-JIS
+plain,plain-0x3483BE8,0x3483BE8,0x6907,,P鉗覧,,Null-terminated Shift-JIS
+plain,plain-0x3485F18,0x3485F18,0x690B,,嬉羹,,Null-terminated Shift-JIS
+plain,plain-0x3489C6F,0x3489C6F,0x6913,,h捶牾,,Null-terminated Shift-JIS
+label,label-0x3704867,0x3704867,0x6E09,0x01,駸瀾,,Type 0x01 area/entity label
+plain,plain-0x370486B,0x370486B,0x6E09,,X駸瀾,,Null-terminated Shift-JIS
+plain,plain-0x3724027,0x3724027,0x6E48,,菊五郎,,Null-terminated Shift-JIS
+plain,plain-0x37A4027,0x37A4027,0x6F48,,磯花法師,,Null-terminated Shift-JIS
+plain,plain-0x37E4027,0x37E4027,0x6FC8,,巻貝法師,,Null-terminated Shift-JIS
+plain,plain-0x3800B4E,0x3800B4E,0x7001,,爰窕盥,,Null-terminated Shift-JIS
+plain,plain-0x3824027,0x3824027,0x7048,,生子法師,,Null-terminated Shift-JIS
+plain,plain-0x3864027,0x3864027,0x70C8,,海牛法師,,Null-terminated Shift-JIS
+plain,plain-0x3876E1F,0x3876E1F,0x70ED,,a敗即盲,,Null-terminated Shift-JIS
+plain,plain-0x38A4027,0x38A4027,0x7148,,毒針法師,,Null-terminated Shift-JIS
+plain,plain-0x38E4027,0x38E4027,0x71C8,,はまぐり姫,,Null-terminated Shift-JIS
+plain,plain-0x3942904,0x3942904,0x7285,,d塵＝,,Null-terminated Shift-JIS
+plain,plain-0x3964027,0x3964027,0x72C8,,名無しの十八番,,Null-terminated Shift-JIS
+label,label-0x3986C79,0x3986C79,0x730D,0x01,珱薀,,Type 0x01 area/entity label
+plain,plain-0x39A4033,0x39A4033,0x7348,,デューク・ペペ,,Null-terminated Shift-JIS
+plain,plain-0x39A405B,0x39A405B,0x7348,,マダム・バーバラ,,Null-terminated Shift-JIS
+plain,plain-0x39C2362,0x39C2362,0x7384,,キャッシュ,,Null-terminated Shift-JIS
+plain,plain-0x39C2385,0x39C2385,0x7384,,組み込まれて,,Null-terminated Shift-JIS
+plain,plain-0x39C2392,0x39C2392,0x7384,,使用できる,,Null-terminated Shift-JIS
+plain,plain-0x39E4027,0x39E4027,0x73C8,,マントー,,Null-terminated Shift-JIS
+plain,plain-0x3A012B8,0x3A012B8,0x7402,,饂 駲 驕 髢 鮴 ,,Null-terminated Shift-JIS
+plain,plain-0x3A2406F,0x3A2406F,0x7448,,スーパーマントー,,Null-terminated Shift-JIS
+plain,plain-0x3A7E7A3,0x3A7E7A3,0x74FC,,漾顱,,Null-terminated Shift-JIS
+plain,plain-0x3AA4027,0x3AA4027,0x7548,,ウルトラマントー,,Null-terminated Shift-JIS
+plain,plain-0x3AE4027,0x3AE4027,0x75C8,,改造シロ,,Null-terminated Shift-JIS
+plain,plain-0x3B24027,0x3B24027,0x7648,,肉助,,Null-terminated Shift-JIS
+plain,plain-0x3B3E534,0x3B3E534,0x767C,,m此淬,,Null-terminated Shift-JIS
+plain,plain-0x3B4BBC2,0x3B4BBC2,0x7697,,楝葫,,Null-terminated Shift-JIS
+plain,plain-0x3B7EF28,0x3B7EF28,0x76FD,,A痼子諸,,Null-terminated Shift-JIS
+plain,plain-0x3BBE8F4,0x3BBE8F4,0x777D,,巵嚏,,Null-terminated Shift-JIS
+plain,plain-0x3C24027,0x3C24027,0x7848,,ガーニン,,Null-terminated Shift-JIS
+plain,plain-0x3D64027,0x3D64027,0x7AC8,,百貫丸,,Null-terminated Shift-JIS
+plain,plain-0x3DE4027,0x3DE4027,0x7BC8,,三途のマンタ,,Null-terminated Shift-JIS
+plain,plain-0x3DFF169,0x3DFF169,0x7BFE,,瘴輿 罘,,Null-terminated Shift-JIS
+plain,plain-0x3E64027,0x3E64027,0x7CC8,,闘将アスラ,,Null-terminated Shift-JIS
+plain,plain-0x3EA403F,0x3EA403F,0x7D48,,闇の暗殺者,,Null-terminated Shift-JIS
+plain,plain-0x3EA4063,0x3EA4063,0x7D48,,影の暗殺者,,Null-terminated Shift-JIS
+plain,plain-0x3EE4033,0x3EE4033,0x7DC8,,阿鼻の獅子,,Null-terminated Shift-JIS
+plain,plain-0x3EE4057,0x3EE4057,0x7DC8,,叫喚の獅子,,Null-terminated Shift-JIS
+plain,plain-0x3F24033,0x3F24033,0x7E48,,ゴズノ王,,Null-terminated Shift-JIS
+plain,plain-0x3F64033,0x3F64033,0x7EC8,,破王ラーガ,,Null-terminated Shift-JIS
+plain,plain-0x3F64057,0x3F64057,0x7EC8,,破王ラージャ,,Null-terminated Shift-JIS
+plain,plain-0x3FA73B8,0x3FA73B8,0x7F4E,,百鬼王,,Null-terminated Shift-JIS
+plain,plain-0x3FE4027,0x3FE4027,0x7FC8,,デデベ,,Null-terminated Shift-JIS
+plain,plain-0x4024033,0x4024033,0x8048,,ヨミ,,Null-terminated Shift-JIS
+plain,plain-0x40870C7,0x40870C7,0x810E,,玄垰D ,,Null-terminated Shift-JIS
+string,msg-0x40911FE,0x40911FE,0x8122,0x10,粘SA!徐彩5!,,Type 0x10 message (arg=0x8B)
+string,msg-0x40C70B6,0x40C70B6,0x818E,0x02,D86ＴD囁CA3CH憊脅!,,Type 0x02 message
+plain,plain-0x40DB4F2,0x40DB4F2,0x81B6,,荻．,,Null-terminated Shift-JIS
+plain,plain-0x4110B0F,0x4110B0F,0x8221,,囹リ,,Null-terminated Shift-JIS
+plain,plain-0x41182BD,0x41182BD,0x8230,,A塗舒,,Null-terminated Shift-JIS
+plain,plain-0x41A0BCC,0x41A0BCC,0x8341,,虚1甥4擠,,Null-terminated Shift-JIS
+plain,plain-0x4207588,0x4207588,0x840E,,"""嶝挨",,Null-terminated Shift-JIS
+plain,plain-0x4208622,0x4208622,0x8410,,0維ゲ垪‖☆,,Null-terminated Shift-JIS
+plain,plain-0x4216209,0x4216209,0x842C,,"效""9宰",,Null-terminated Shift-JIS
+plain,plain-0x421B451,0x421B451,0x8436,,賊粋%虻,,Null-terminated Shift-JIS
+plain,plain-0x4262D33,0x4262D33,0x84C5,,慳ゴ4,,Null-terminated Shift-JIS
+string,msg-0x42661A5,0x42661A5,0x84CC,0x02, ヒ棺!,,Type 0x02 message
+string,msg-0x426CBC9,0x426CBC9,0x84D9,0x02,(嵜0D梦WQ汚葦2!,,Type 0x02 message
+plain,plain-0x42B3D62,0x42B3D62,0x8567,,訓繪,,Null-terminated Shift-JIS
+plain,plain-0x42BD152,0x42BD152,0x857A,,世こ,,Null-terminated Shift-JIS
+plain,plain-0x42BD799,0x42BD799,0x857A,,仮据,,Null-terminated Shift-JIS
+plain,plain-0x42CCA22,0x42CCA22,0x8599,,嚠ゴ,,Null-terminated Shift-JIS
+plain,plain-0x42D0CEF,0x42D0CEF,0x85A1,,飴#A卆,,Null-terminated Shift-JIS
+plain,plain-0x42EFCB4,0x42EFCB4,0x85DF,,戯雨,,Null-terminated Shift-JIS
+plain,plain-0x42FD111,0x42FD111,0x85FA,,椛#局x圸,,Null-terminated Shift-JIS
+string,msg-0x4308604,0x4308604,0x8610,0x10,-慳鮎EF!,,Type 0x10 message (arg=0x8A)
+label,label-0x430EF29,0x430EF29,0x861D,0x01,果,,Type 0x01 area/entity label
+plain,plain-0x43374B9,0x43374B9,0x866E,,攤堰!,,Null-terminated Shift-JIS
+plain,plain-0x436BB30,0x436BB30,0x86D7,,巍's庫,,Null-terminated Shift-JIS
+plain,plain-0x4380999,0x4380999,0x8701,,凵硝,,Null-terminated Shift-JIS
+plain,plain-0x43B57FF,0x43B57FF,0x876A,,梶笹,,Null-terminated Shift-JIS
+plain,plain-0x43BDFEF,0x43BDFEF,0x877B,,壙В愃#,,Null-terminated Shift-JIS
+plain,plain-0x4419973,0x4419973,0x8833,,巉d 汾,,Null-terminated Shift-JIS
+plain,plain-0x441F496,0x441F496,0x883E,,2楮埃ヽ,,Null-terminated Shift-JIS
+plain,plain-0x442B45C,0x442B45C,0x8856,,園ォв,,Null-terminated Shift-JIS
+plain,plain-0x4460085,0x4460085,0x88C0,,惠怎),,Null-terminated Shift-JIS
+plain,plain-0x44731BA,0x44731BA,0x88E6,,果舛,,Null-terminated Shift-JIS
+plain,plain-0x447D555,0x447D555,0x88FA,,7w沿岑,,Null-terminated Shift-JIS
+plain,plain-0x44A8AEC,0x44A8AEC,0x8951,,刈#卿,,Null-terminated Shift-JIS
+plain,plain-0x44B8DF4,0x44B8DF4,0x8971,,隱解,,Null-terminated Shift-JIS
+plain,plain-0x44C8A87,0x44C8A87,0x8991,,Ｘ敢,,Null-terminated Shift-JIS
+plain,plain-0x44CB388,0x44CB388,0x8996,,廐凵,,Null-terminated Shift-JIS
+label,label-0x44DBE8E,0x44DBE8E,0x89B7,0x01,宙,,Type 0x01 area/entity label
+plain,plain-0x44E55F1,0x44E55F1,0x89CA,,椙翠,,Null-terminated Shift-JIS
+plain,plain-0x44EED36,0x44EED36,0x89DD,,Ｃ尸巖,,Null-terminated Shift-JIS
+plain,plain-0x44F8CA4,0x44F8CA4,0x89F1,,攫ヂ,,Null-terminated Shift-JIS
+plain,plain-0x450D2DA,0x450D2DA,0x8A1A,,≠框憧,,Null-terminated Shift-JIS
+plain,plain-0x45210B7,0x45210B7,0x8A42,,嚔剔g1,,Null-terminated Shift-JIS
+string,msg-0x4536C4F,0x4536C4F,0x8A6D,0x10,瀬'w)卷囿t4崕甥E4!,,Type 0x10 message (arg=0xBD)
+plain,plain-0x4554FB1,0x4554FB1,0x8AA9,,梶2卿,,Null-terminated Shift-JIS
+plain,plain-0x457F1FA,0x457F1FA,0x8AFE,,噫剳,,Null-terminated Shift-JIS
+plain,plain-0x458DFC4,0x458DFC4,0x8B1B,,將*渺禅,,Null-terminated Shift-JIS
+plain,plain-0x458F098,0x458F098,0x8B1E,,僂昌,,Null-terminated Shift-JIS
+plain,plain-0x4599DC5,0x4599DC5,0x8B33,,椛1私,,Null-terminated Shift-JIS
+plain,plain-0x459C059,0x459C059,0x8B38,,椛4A攪,,Null-terminated Shift-JIS
+plain,plain-0x45A6055,0x45A6055,0x8B4C,,胸連,,Null-terminated Shift-JIS
+plain,plain-0x45CF918,0x45CF918,0x8B9F,,屈匸凰,,Null-terminated Shift-JIS
+plain,plain-0x46007F4,0x46007F4,0x8C00,,凹下7A,,Null-terminated Shift-JIS
+plain,plain-0x467CD41,0x467CD41,0x8CF9,,垈!B侍辿,,Null-terminated Shift-JIS
+label,label-0x46875F6,0x46875F6,0x8D0E,0x01,桐,,Type 0x01 area/entity label
+plain,plain-0x468FE3D,0x468FE3D,0x8D1F,,5R厖舛柑,,Null-terminated Shift-JIS
+string,msg-0x46B3126,0x46B3126,0x8D66,0x10,E)#dQ演囁淕3!,,Type 0x10 message (arg=0x01)
+string,msg-0x46B3497,0x46B3497,0x8D66,0x10,43C改t0嚠漱!,,Type 0x10 message (arg=0x98)
+plain,plain-0x46B6F99,0x46B6F99,0x8D6D,,岡懐,,Null-terminated Shift-JIS
+plain,plain-0x46CD4C8,0x46CD4C8,0x8D9A,,鞄a葵,,Null-terminated Shift-JIS
+plain,plain-0x46DCF1A,0x46DCF1A,0x8DB9,,旺境,,Null-terminated Shift-JIS
+plain,plain-0x46F94C2,0x46F94C2,0x8DF2,,幀圷,,Null-terminated Shift-JIS
+plain,plain-0x4707AC3,0x4707AC3,0x8E0F,,桐朽43,,Null-terminated Shift-JIS
+plain,plain-0x4711640,0x4711640,0x8E22,,錦0匚,,Null-terminated Shift-JIS
+plain,plain-0x471799A,0x471799A,0x8E2F,,塋%2汚,,Null-terminated Shift-JIS
+string,msg-0x47237AB,0x47237AB,0x8E46,0x10,#Tc!勠/杲!,,Type 0x10 message (arg=0x00)
+label,label-0x472BA1B,0x472BA1B,0x8E57,0x01,尹,,Type 0x01 area/entity label
+string,msg-0x474D0A7,0x474D0A7,0x8E9A,0x10,哄峪5SA!,,Type 0x10 message (arg=0x24)
+plain,plain-0x4754E37,0x4754E37,0x8EA9,,匏s驤,,Null-terminated Shift-JIS
+plain,plain-0x475D9A6,0x475D9A6,0x8EBB,,音・!,,Null-terminated Shift-JIS
+plain,plain-0x47645D9,0x47645D9,0x8EC8,,架辰嵋,,Null-terminated Shift-JIS
+string,msg-0x476461E,0x476461E,0x8EC8,0x10,U薗4巵匱!,,Type 0x10 message (arg=0xAA)
+plain,plain-0x477A68F,0x477A68F,0x8EF4,,囮剞,,Null-terminated Shift-JIS
+string,msg-0x47BA6C8,0x47BA6C8,0x8F74,0x02,9西#2刷砥!,,Type 0x02 message
+string,msg-0x47C561C,0x47C561C,0x8F8A,0x10,1B1 '巓叶ｄ!,,Type 0x10 message (arg=0x25)
+plain,plain-0x47C987E,0x47C987E,0x8F93,,園屏sA柑坎奧Gq寳,,Null-terminated Shift-JIS
+plain,plain-0x47F2A28,0x47F2A28,0x8FE5,,"＃r項""",,Null-terminated Shift-JIS
+label,label-0x480CEB3,0x480CEB3,0x9019,0x01,巓,,Type 0x01 area/entity label
+plain,plain-0x481386F,0x481386F,0x9027,,葛滯,,Null-terminated Shift-JIS
+label,label-0x4829E10,0x4829E10,0x9053,0x01,壙,,Type 0x01 area/entity label
+plain,plain-0x484B368,0x484B368,0x9096,,含刮,,Null-terminated Shift-JIS
+label,label-0x485C0E7,0x485C0E7,0x90B8,0x01,刪,,Type 0x01 area/entity label
+plain,plain-0x48821F1,0x48821F1,0x9104,,鴨慄,,Null-terminated Shift-JIS
+plain,plain-0x48D0B4A,0x48D0B4A,0x91A1,,怫9減,,Null-terminated Shift-JIS
+plain,plain-0x48EA97F,0x48EA97F,0x91D5,,饗客,,Null-terminated Shift-JIS
+plain,plain-0x48F5F1C,0x48F5F1C,0x91EB,,巨履旺,,Null-terminated Shift-JIS
+plain,plain-0x48FAB68,0x48FAB68,0x91F5,,暢[漠),,Null-terminated Shift-JIS
+plain,plain-0x4907922,0x4907922,0x920F,,款圷,,Null-terminated Shift-JIS
+string,msg-0x4909CF9,0x4909CF9,0x9213,0x02,"攪""(!2#7 蒔廂I!",,Type 0x02 message
+plain,plain-0x490E6B5,0x490E6B5,0x921C,,翰巍,,Null-terminated Shift-JIS
+plain,plain-0x4933921,0x4933921,0x9267,,劍＝,,Null-terminated Shift-JIS
+plain,plain-0x493FA77,0x493FA77,0x927F,,仂下,,Null-terminated Shift-JIS
+plain,plain-0x494264B,0x494264B,0x9284,,幀沿,,Null-terminated Shift-JIS
+string,msg-0x494AF8A,0x494AF8A,0x9295,0x02,s崗HB写!,,Type 0x02 message
+plain,plain-0x494D5B2,0x494D5B2,0x929A,,7X甥凰,,Null-terminated Shift-JIS
+plain,plain-0x4957EC6,0x4957EC6,0x92AF,,怺5汽∧*銀,,Null-terminated Shift-JIS
+plain,plain-0x4969A0C,0x4969A0C,0x92D3,,q衰叭,,Null-terminated Shift-JIS
+plain,plain-0x496F0AB,0x496F0AB,0x92DE,,Ｃ黄,,Null-terminated Shift-JIS
+plain,plain-0x4971A8C,0x4971A8C,0x92E3,,ズ甥寤U),,Null-terminated Shift-JIS
+plain,plain-0x49A55ED,0x49A55ED,0x934A,,或劭 ,,Null-terminated Shift-JIS
+plain,plain-0x49AD485,0x49AD485,0x935A,,昏垪,,Null-terminated Shift-JIS
+plain,plain-0x49FC4C4,0x49FC4C4,0x93F8,,徐逗,,Null-terminated Shift-JIS
+plain,plain-0x4A28460,0x4A28460,0x9450,,郷皷,,Null-terminated Shift-JIS
+plain,plain-0x4A2B872,0x4A2B872,0x9457,,巓棧戟,,Null-terminated Shift-JIS
+label,label-0x4A57DDF,0x4A57DDF,0x94AF,0x01,慄掾,,Type 0x01 area/entity label
+plain,plain-0x4A57DE3,0x4A57DE3,0x94AF,, 慄掾,,Null-terminated Shift-JIS
+string,msg-0x4A61520,0x4A61520,0x94C2,0x02,[$4] 佩A3R(1鬩4A緊38!,,Type 0x02 message
+label,label-0x4A61FEE,0x4A61FEE,0x94C3,0x01,棋,,Type 0x01 area/entity label
+plain,plain-0x4A81AD2,0x4A81AD2,0x9503,,瀬t坦,,Null-terminated Shift-JIS
+string,msg-0x4ABE9D5,0x4ABE9D5,0x957D,0x10,刳匆証勳匸7A4!,,Type 0x10 message (arg=0x11)
+string,msg-0x4AF1EE0,0x4AF1EE0,0x95E3,0x02,渟匸%#3a河殖*5!,,Type 0x02 message
+string,msg-0x4B7ADEC,0x4B7ADEC,0x96F5,0x10,"匆FR翰♂!寨""w!",,Type 0x10 message (arg=0xBB)
+plain,plain-0x4BBDE10,0x4BBDE10,0x977B,,滋餌,,Null-terminated Shift-JIS
+plain,plain-0x4BCEB2B,0x4BCEB2B,0x979D,,粁翠,,Null-terminated Shift-JIS
+plain,plain-0x4BDD18E,0x4BDD18E,0x97BA,,椙淡E#,,Null-terminated Shift-JIS
+string,msg-0x4C16719,0x4C16719,0x982C,0x02,2亂肝船!,,Type 0x02 message
+plain,plain-0x4C39542,0x4C39542,0x9872,,攪#僑b囗,,Null-terminated Shift-JIS
+plain,plain-0x4C98009,0x4C98009,0x9930,,怦&Q移,,Null-terminated Shift-JIS
+plain,plain-0x4CA0E95,0x4CA0E95,0x9941,,叶Ｂ,,Null-terminated Shift-JIS
+plain,plain-0x4CABDD6,0x4CABDD6,0x9957,,兆0盛q旺,,Null-terminated Shift-JIS
+string,msg-0x4CFC7F1,0x4CFC7F1,0x99F8,0x10,!甚1B款T薪!,,Type 0x10 message (arg=0x9A)
+plain,plain-0x4D0AD41,0x4D0AD41,0x9A15,,凋I洩,,Null-terminated Shift-JIS
+plain,plain-0x4D12DD9,0x4D12DD9,0x9A25,,岌t甥,,Null-terminated Shift-JIS
+plain,plain-0x4D234A7,0x4D234A7,0x9A46,,偵價ｐ,,Null-terminated Shift-JIS
+plain,plain-0x4D29DC9,0x4D29DC9,0x9A53,,胸凰,,Null-terminated Shift-JIS
+plain,plain-0x4D39958,0x4D39958,0x9A73,,架刮,,Null-terminated Shift-JIS
+plain,plain-0x4D733CA,0x4D733CA,0x9AE6,,科黄ィ,,Null-terminated Shift-JIS
+plain,plain-0x4D9A847,0x4D9A847,0x9B35,,)梶悸,,Null-terminated Shift-JIS
+plain,plain-0x4DE6CC0,0x4DE6CC0,0x9BCD,,、洽!,,Null-terminated Shift-JIS
+plain,plain-0x4DF005A,0x4DF005A,0x9BE0,,陏鮗嵜,,Null-terminated Shift-JIS
+string,msg-0x4E61A1B,0x4E61A1B,0x9CC3,0x10,X糊禦/!,,Type 0x10 message (arg=0x04)
+string,msg-0x4E73CFF,0x4E73CFF,0x9CE7,0x02,D8R金耳勣刎s!,,Type 0x02 message
+plain,plain-0x4E7F4AB,0x4E7F4AB,0x9CFE,,喬鍛,,Null-terminated Shift-JIS
+plain,plain-0x4E98970,0x4E98970,0x9D31,,朽о盾(,,Null-terminated Shift-JIS
+plain,plain-0x4F000A3,0x4F000A3,0x9E00,,S3故凵,,Null-terminated Shift-JIS
+plain,plain-0x4F01E82,0x4F01E82,0x9E03,,3見勧,,Null-terminated Shift-JIS
+plain,plain-0x4F0E5DE,0x4F0E5DE,0x9E1C,,圓 !槨,,Null-terminated Shift-JIS
+string,msg-0x4F1BDC4,0x4F1BDC4,0x9E37,0x10,"沖 s [$]4営#愎63T1s""""操D#1#d!",,Type 0x10 message (arg=0x19)
+string,msg-0x4F2C708,0x4F2C708,0x9E58,0x02,勦芹T42c7s!,,Type 0x02 message
+plain,plain-0x4F30DD4,0x4F30DD4,0x9E61,,箱洙Q)9會,,Null-terminated Shift-JIS
+plain,plain-0x4F91E90,0x4F91E90,0x9F23,,穿陷,,Null-terminated Shift-JIS
+string,msg-0x4FB8E49,0x4FB8E49,0x9F71,0x10,髯緩囗仗X2B%P614!,,Type 0x10 message (arg=0x98)
+plain,plain-0x4FCFC3A,0x4FCFC3A,0x9F9F,,ツ0ビA,,Null-terminated Shift-JIS
+plain,plain-0x4FD30DA,0x4FD30DA,0x9FA6,,慴4柑,,Null-terminated Shift-JIS
+string,msg-0x50B993E,0x50B993E,0xA173,0x10,穐駆!Ｓ!,,Type 0x10 message (arg=0x0B)
+plain,plain-0x50BDF67,0x50BDF67,0xA17B,,化7 拒,,Null-terminated Shift-JIS
+plain,plain-0x50C3573,0x50C3573,0xA186,,Ｘp刄 ,,Null-terminated Shift-JIS
+plain,plain-0x50CD417,0x50CD417,0xA19A,,寐r旗,,Null-terminated Shift-JIS
+string,msg-0x50ECAEF,0x50ECAEF,0xA1D9,0x10,"蔵*豫8現0о0ャG3Tc#D""!",,Type 0x10 message (arg=0x35)
+plain,plain-0x5104AC6,0x5104AC6,0xA209,,薗5嵳,,Null-terminated Shift-JIS
+plain,plain-0x5119DF3,0x5119DF3,0xA233,,梵菓,,Null-terminated Shift-JIS
+string,msg-0x512749B,0x512749B,0xA24E,0x10,"劒S甥#芹辨サ1応""t!",,Type 0x10 message (arg=0x9A)
+plain,plain-0x51431DC,0x51431DC,0xA286,,緩7果,,Null-terminated Shift-JIS
+plain,plain-0x515757E,0x515757E,0xA2AE,,"然泯3演》諮""",,Null-terminated Shift-JIS
+string,msg-0x516B264,0x516B264,0xA2D6,0x10,",園 A見!",,Type 0x10 message (arg=0x50)
+plain,plain-0x5173997,0x5173997,0xA2E7,,圀嚼,,Null-terminated Shift-JIS
+plain,plain-0x51797B3,0x51797B3,0xA2F2,,荻黴4#,,Null-terminated Shift-JIS
+plain,plain-0x51AE292,0x51AE292,0xA35C,,据惻,,Null-terminated Shift-JIS
+string,msg-0x51B7957,0x51B7957,0xA36F,0x10,s壱豫壘UD[$2]!,,Type 0x10 message (arg=0xA0)
+plain,plain-0x51B8E7F,0x51B8E7F,0xA371,,愛衷*,,Null-terminated Shift-JIS
+plain,plain-0x51BA2A2,0x51BA2A2,0xA374,,缶壇(囗,,Null-terminated Shift-JIS
+string,msg-0x51CBF27,0x51CBF27,0xA397,0x10,(囮競A拐驤演喚#2IA叶(A[$w]!,,Type 0x10 message (arg=0x88)
+plain,plain-0x5216A53,0x5216A53,0xA42D,,化凵,,Null-terminated Shift-JIS
+plain,plain-0x5285041,0x5285041,0xA50A,,寓潟,,Null-terminated Shift-JIS
+label,label-0x528FD97,0x528FD97,0xA51F,0x01,峪,,Type 0x01 area/entity label
+plain,plain-0x52B9A02,0x52B9A02,0xA573,,ビお,,Null-terminated Shift-JIS
+plain,plain-0x52E6495,0x52E6495,0xA5CC,,孱愡,,Null-terminated Shift-JIS
+plain,plain-0x52EBEFF,0x52EBEFF,0xA5D7,,亊从wp,,Null-terminated Shift-JIS
+string,msg-0x52EE5CC,0x52EE5CC,0xA5DC,0x02,A卿圓4wy!B卿垈% 仇y!,,Type 0x02 message
+plain,plain-0x530B1BF,0x530B1BF,0xA616,,ぁ9辱Μ,,Null-terminated Shift-JIS
+plain,plain-0x5314C90,0x5314C90,0xA629,,感A級,,Null-terminated Shift-JIS
+plain,plain-0x53266C8,0x53266C8,0xA64C,,劈刮,,Null-terminated Shift-JIS
+string,msg-0x5326BB4,0x5326BB4,0xA64D,0x02,"9ヽ!wq黄汚""""!",,Type 0x02 message
+plain,plain-0x5334FB4,0x5334FB4,0xA669,,劒埔,,Null-terminated Shift-JIS
+plain,plain-0x5334FB9,0x5334FB9,0xA669,,硝3搗,,Null-terminated Shift-JIS
+plain,plain-0x533BD57,0x533BD57,0xA677,,3橿咎,,Null-terminated Shift-JIS
+string,msg-0x536BB35,0x536BB35,0xA6D7,0x10,縣4殖')!,,Type 0x10 message (arg=0x99)
+string,msg-0x536FCD0,0x536FCD0,0xA6DF,0x10,eu1刪2'3喚⊃6E!,,Type 0x10 message (arg=0x83)
+plain,plain-0x537D3DB,0x537D3DB,0xA6FA,,""" 哈征",,Null-terminated Shift-JIS
+plain,plain-0x537E5A8,0x537E5A8,0xA6FC,,廈勣,,Null-terminated Shift-JIS
+string,msg-0x537E991,0x537E991,0xA6FD,0x02,u)!!、22惠D u1惓)!,,Type 0x02 message
+plain,plain-0x538458F,0x538458F,0xA708,,"践颪僑""屏",,Null-terminated Shift-JIS
+plain,plain-0x538F884,0x538F884,0xA71F,,棄ア剞!,,Null-terminated Shift-JIS
+plain,plain-0x53A21EA,0x53A21EA,0xA744,,ゴ勘,,Null-terminated Shift-JIS
+plain,plain-0x53C835A,0x53C835A,0xA790,,填噛,,Null-terminated Shift-JIS
+plain,plain-0x53CE359,0x53CE359,0xA79C,,抽J罰,,Null-terminated Shift-JIS
+plain,plain-0x540063F,0x540063F,0xA800,,я岼梭,,Null-terminated Shift-JIS
+plain,plain-0x54761BC,0x54761BC,0xA8EC,,園簡,,Null-terminated Shift-JIS
+plain,plain-0x547884D,0x547884D,0xA8F1,,嵋圷,,Null-terminated Shift-JIS
+plain,plain-0x548012F,0x548012F,0xA900,,戒А鍛囗,,Null-terminated Shift-JIS
+plain,plain-0x5480138,0x5480138,0xA900,,屏洸,,Null-terminated Shift-JIS
+plain,plain-0x549DC36,0x549DC36,0xA93B,,廏飭,,Null-terminated Shift-JIS
+plain,plain-0x54B5FB6,0x54B5FB6,0xA96B,,敢愡Wr,,Null-terminated Shift-JIS
+plain,plain-0x54C51AE,0x54C51AE,0xA98A,,圷５R 塒凰,,Null-terminated Shift-JIS
+plain,plain-0x550B5D9,0x550B5D9,0xAA16,,惘剞,,Null-terminated Shift-JIS
+plain,plain-0x5520F9C,0x5520F9C,0xAA41,,：A柑,,Null-terminated Shift-JIS
+plain,plain-0x552321C,0x552321C,0xAA46,,遙q征,,Null-terminated Shift-JIS
+plain,plain-0x5563D3D,0x5563D3D,0xAAC7,,伎s噫,,Null-terminated Shift-JIS
+label,label-0x5585B05,0x5585B05,0xAB0B,0x01,愡,,Type 0x01 area/entity label
+plain,plain-0x5586F1F,0x5586F1F,0xAB0D,,喬ケ,,Null-terminated Shift-JIS
+plain,plain-0x55B0D41,0x55B0D41,0xAB61,,#敲C侍,,Null-terminated Shift-JIS
+string,msg-0x55CE918,0x55CE918,0xAB9D,0x10,0#些%遙 q!,,Type 0x10 message (arg=0x11)
+plain,plain-0x55D036C,0x55D036C,0xABA0,,け髏逗C8,,Null-terminated Shift-JIS
+plain,plain-0x564D68D,0x564D68D,0xAC9A,,2惓數,,Null-terminated Shift-JIS
+plain,plain-0x5699359,0x5699359,0xAD32,,該草,,Null-terminated Shift-JIS
+plain,plain-0x569D8DA,0x569D8DA,0xAD3B,,演國F ,,Null-terminated Shift-JIS
+label,label-0x56AF7F3,0x56AF7F3,0xAD5E,0x01,牽,,Type 0x01 area/entity label
+plain,plain-0x56B5C65,0x56B5C65,0xAD6B,,3棠憙,,Null-terminated Shift-JIS
+plain,plain-0x56D19C6,0x56D19C6,0xADA3,,a鴎4鎌,,Null-terminated Shift-JIS
+plain,plain-0x5736A26,0x5736A26,0xAE6D,,錬搨倦,,Null-terminated Shift-JIS
+plain,plain-0x57917ED,0x57917ED,0xAF22,,慂嚼,,Null-terminated Shift-JIS
+plain,plain-0x57A5CB7,0x57A5CB7,0xAF4B,,二帖H薗刪,,Null-terminated Shift-JIS
+plain,plain-0x57F4858,0x57F4858,0xAFE9,,剞陷匱恚,,Null-terminated Shift-JIS
+plain,plain-0x57FC6AF,0x57FC6AF,0xAFF8,,吟E將,,Null-terminated Shift-JIS
+string,msg-0x5810EEB,0x5810EEB,0xB021,0x10,宸戸葛1&1A!,,Type 0x10 message (arg=0xBF)
+plain,plain-0x584D24F,0x584D24F,0xB09A,,運J淘粋,,Null-terminated Shift-JIS
+plain,plain-0x589044E,0x589044E,0xB120,,擲b僑!,,Null-terminated Shift-JIS
+plain,plain-0x58D633F,0x58D633F,0xB1AC,,＄っ,,Null-terminated Shift-JIS
+plain,plain-0x58ED0FD,0x58ED0FD,0xB1DA,,翠根,,Null-terminated Shift-JIS
+plain,plain-0x5904315,0x5904315,0xB208,,悪槇 ,,Null-terminated Shift-JIS
+plain,plain-0x592231A,0x592231A,0xB244,,洸極,,Null-terminated Shift-JIS
+plain,plain-0x592A635,0x592A635,0xB254,,噤崎,,Null-terminated Shift-JIS
+plain,plain-0x5937FDF,0x5937FDF,0xB26F,,葵憬ィ,,Null-terminated Shift-JIS
+plain,plain-0x5951D09,0x5951D09,0xB2A3,,鎌穐,,Null-terminated Shift-JIS
+string,msg-0x5986A55,0x5986A55,0xB30D,0x02,1夬ｙ0圈註汢*Q鄭'p!,,Type 0x02 message
+plain,plain-0x599A0F4,0x599A0F4,0xB334,,朽0灸イw8,,Null-terminated Shift-JIS
+plain,plain-0x59C6412,0x59C6412,0xB38C,,ツ憫,,Null-terminated Shift-JIS
+plain,plain-0x5A29F43,0x5A29F43,0xB453,,"嚼""庫",,Null-terminated Shift-JIS
+plain,plain-0x5A40E1F,0x5A40E1F,0xB481,,尅洽,,Null-terminated Shift-JIS
+plain,plain-0x5A52528,0x5A52528,0xB4A4,, 嵶腺,,Null-terminated Shift-JIS
+plain,plain-0x5A5494B,0x5A5494B,0xB4A9,,坎，#(,,Null-terminated Shift-JIS
+plain,plain-0x5A5ABA7,0x5A5ABA7,0xB4B5,,嘯!卿,,Null-terminated Shift-JIS
+plain,plain-0x5A625C0,0x5A625C0,0xB4C4,,!0舘窯,,Null-terminated Shift-JIS
+plain,plain-0x5A69781,0x5A69781,0xB4D2,,兇(憺,,Null-terminated Shift-JIS
+plain,plain-0x5A75DD2,0x5A75DD2,0xB4EB,,岻囁,,Null-terminated Shift-JIS
+string,msg-0x5A81679,0x5A81679,0xB502,0x02,"3&4尸館49巒B""#s!",,Type 0x02 message
+string,msg-0x5A84474,0x5A84474,0xB508,0x10,t仮[$3]!毀横3戛w!巓4!,,Type 0x10 message (arg=0x11)
+string,msg-0x5A84DD3,0x5A84DD3,0xB509,0x10,"R憖凵""河g2堪!",,Type 0x10 message (arg=0x05)
+label,label-0x5A963CF,0x5A963CF,0xB52C,0x01,將,,Type 0x01 area/entity label
+label,label-0x5AAA094,0x5AAA094,0xB554,0x01,腰,,Type 0x01 area/entity label
+plain,plain-0x5AAA978,0x5AAA978,0xB555,,き84蝮朮,,Null-terminated Shift-JIS
+string,msg-0x5AAF6FB,0x5AAF6FB,0xB55E,0x10,夲S仮!,,Type 0x10 message (arg=0x11)
+string,msg-0x5AB7972,0x5AB7972,0xB56F,0x10,"R宰 ""省ヘ)!",,Type 0x10 message (arg=0x98)
+label,label-0x5AB9600,0x5AB9600,0xB572,0x01,國,,Type 0x01 area/entity label
+plain,plain-0x5AD085F,0x5AD085F,0xB5A1,,劬D1下,,Null-terminated Shift-JIS
+string,msg-0x5AD361F,0x5AD361F,0xB5A6,0x02,%1歓囿u!,,Type 0x02 message
+plain,plain-0x5AEC758,0x5AEC758,0xB5D8,,凹囮,,Null-terminated Shift-JIS
+plain,plain-0x5AEFB4A,0x5AEFB4A,0xB5DF,,黄ッ,,Null-terminated Shift-JIS
+plain,plain-0x5AFE40A,0x5AFE40A,0xB5FC,,巻『Q囗,,Null-terminated Shift-JIS
+string,msg-0x5B0791E,0x5B0791E,0xB60F,0x10,u埃c0凹4!,,Type 0x10 message (arg=0x62)
+string,msg-0x5B0CED8,0x5B0CED8,0xB619,0x02,A何)04U淹(B!,,Type 0x02 message
+plain,plain-0x5B16534,0x5B16534,0xB62C,,プ穏,,Null-terminated Shift-JIS
+plain,plain-0x5B1B9FD,0x5B1B9FD,0xB637,,漢驍T!,,Null-terminated Shift-JIS
+string,msg-0x5B1E294,0x5B1E294,0xB63C,0x10,"2 2""素(!3A凰""剤!w舉2!!",,Type 0x10 message (arg=0x9D)
+plain,plain-0x5B23FA1,0x5B23FA1,0xB647,,堰華,,Null-terminated Shift-JIS
+plain,plain-0x5B3991D,0x5B3991D,0xB673,,帥C掾 蛾,,Null-terminated Shift-JIS
+string,msg-0x5B5CC36,0x5B5CC36,0xB6B9,0x10,R凰圻B[fa]#2鬮11'u!,,Type 0x10 message (arg=0x15)
+plain,plain-0x5B60ACA,0x5B60ACA,0xB6C1,,"仮嘯""",,Null-terminated Shift-JIS
+plain,plain-0x5B7E9DB,0x5B7E9DB,0xB6FD,,唖#q甥,,Null-terminated Shift-JIS
+plain,plain-0x5B8C760,0x5B8C760,0xB718,,尹垉wu,,Null-terminated Shift-JIS
+plain,plain-0x5B9E761,0x5B9E761,0xB73C,,憇囮,,Null-terminated Shift-JIS
+string,msg-0x5BC0368,0x5BC0368,0xB780,0x10,")""""巒Gr妛!",,Type 0x10 message (arg=0x22)
+string,msg-0x5BD2B1A,0x5BD2B1A,0xB7A5,0x02,"4""r下""(柊壘噤C3沿[fa]7t喚""!",,Type 0x02 message
+plain,plain-0x5BDD5A8,0x5BDD5A8,0xB7BA,,岑剔T2,,Null-terminated Shift-JIS
+string,msg-0x5BDD5CE,0x5BDD5CE,0xB7BA,0x10,"剔3)w9#現""乖G!",,Type 0x10 message (arg=0x0A)
+string,msg-0x5BFECE7,0x5BFECE7,0xB7FD,0x10,錨C鴨斷t1惻５ 埃)RD3埔u0S1勠!,,Type 0x10 message (arg=0xBE)
+plain,plain-0x5BFF1CF,0x5BFF1CF,0xB7FE,,圷噤,,Null-terminated Shift-JIS
+string,msg-0x5C01872,0x5C01872,0xB803,0x02,"巓't緩2愡(圷!uQ愃4H""!",,Type 0x02 message
+plain,plain-0x5C09B6B,0x5C09B6B,0xB813,,崕２,,Null-terminated Shift-JIS
+plain,plain-0x5C09BD9,0x5C09BD9,0xB813,,叶'u嚼,,Null-terminated Shift-JIS
+plain,plain-0x5C2A024,0x5C2A024,0xB854,,嵬恊,,Null-terminated Shift-JIS
+plain,plain-0x5C2A17F,0x5C2A17F,0xB854,,翰韓,,Null-terminated Shift-JIS
+plain,plain-0x5C31B42,0x5C31B42,0xB863,,*践桙,,Null-terminated Shift-JIS
+plain,plain-0x5C46A8B,0x5C46A8B,0xB88D,,舛2攫,,Null-terminated Shift-JIS
+plain,plain-0x5C4E961,0x5C4E961,0xB89D,,苅2噪,,Null-terminated Shift-JIS
+plain,plain-0x5C50B33,0x5C50B33,0xB8A1,,緩刮,,Null-terminated Shift-JIS
+plain,plain-0x5C52ADA,0x5C52ADA,0xB8A5,,泙2(屁,,Null-terminated Shift-JIS
+string,msg-0x5C6DB67,0x5C6DB67,0xB8DB,0x10,)咨W!44圻G!,,Type 0x10 message (arg=0x14)
+plain,plain-0x5C73E2F,0x5C73E2F,0xB8E7,,崕ィ,,Null-terminated Shift-JIS
+plain,plain-0x5CB1EC6,0x5CB1EC6,0xB963,,壓wq圷,,Null-terminated Shift-JIS
+plain,plain-0x5CB3F28,0x5CB3F28,0xB967,,刈H嵋,,Null-terminated Shift-JIS
+string,msg-0x5CE534D,0x5CE534D,0xB9CA,0x10,BC30活囮CA厖VD匸3!,,Type 0x10 message (arg=0x12)
+string,msg-0x5D11A61,0x5D11A61,0xBA23,0x02,吹[fa]X坏'r!,,Type 0x02 message
+plain,plain-0x5D1C77F,0x5D1C77F,0xBA38,,巻劬!,,Null-terminated Shift-JIS
+plain,plain-0x5D249F9,0x5D249F9,0xBA49,,圧孚,,Null-terminated Shift-JIS
+plain,plain-0x5D28F3A,0x5D28F3A,0xBA51,,廚研2献X噫,,Null-terminated Shift-JIS
+plain,plain-0x5D2FCD4,0x5D2FCD4,0xBA5F,,操批,,Null-terminated Shift-JIS
+plain,plain-0x5D41C2D,0x5D41C2D,0xBA83,,梦植薗,,Null-terminated Shift-JIS
+plain,plain-0x5D5DDBE,0x5D5DDBE,0xBABB,,刪%1嚔,,Null-terminated Shift-JIS
+plain,plain-0x5D66679,0x5D66679,0xBACC,,噛Ｅ,,Null-terminated Shift-JIS
+plain,plain-0x5D71935,0x5D71935,0xBAE3,,氈1峪,,Null-terminated Shift-JIS
+plain,plain-0x5D76B09,0x5D76B09,0xBAED,,勧ィ2,,Null-terminated Shift-JIS
+string,msg-0x5D78949,0x5D78949,0xBAF1,0x02, a垰魂!,,Type 0x02 message
+plain,plain-0x5DBD86A,0x5DBD86A,0xBB7B,,奄戞争,,Null-terminated Shift-JIS
+label,label-0x5DED3B0,0x5DED3B0,0xBBDA,0x01,簡,,Type 0x01 area/entity label
+plain,plain-0x5DF6C16,0x5DF6C16,0xBBED,,咎冉 ,,Null-terminated Shift-JIS
+plain,plain-0x5DFE41A,0x5DFE41A,0xBBFC,,湯迂,,Null-terminated Shift-JIS
+plain,plain-0x5E06734,0x5E06734,0xBC0C,,短戌甥用,,Null-terminated Shift-JIS
+plain,plain-0x5E21278,0x5E21278,0xBC42,,蠅粋,,Null-terminated Shift-JIS
+plain,plain-0x5E3E6E8,0x5E3E6E8,0xBC7C,,。楴,,Null-terminated Shift-JIS
+plain,plain-0x5E6292B,0x5E6292B,0xBCC5,,攫姓『p,,Null-terminated Shift-JIS
+string,msg-0x5E6649F,0x5E6649F,0xBCCC,0x10,!梦屑陣P劔化s(♀!,,Type 0x10 message (arg=0x22)
+plain,plain-0x5E90302,0x5E90302,0xBD20,,嵳嚠,,Null-terminated Shift-JIS
+plain,plain-0x5E933E9,0x5E933E9,0xBD26,,埆噫!r,,Null-terminated Shift-JIS
+label,label-0x5EB6C75,0x5EB6C75,0xBD6D,0x01,ヒ,,Type 0x01 area/entity label
+string,msg-0x5EE0485,0x5EE0485,0xBDC0,0x02,"舉奥訓1""Q!",,Type 0x02 message
+plain,plain-0x5EE096A,0x5EE096A,0xBDC1,,巉圸,,Null-terminated Shift-JIS
+plain,plain-0x5EFA5AD,0x5EFA5AD,0xBDF4,,叫茜,,Null-terminated Shift-JIS
+plain,plain-0x5F14DA5,0x5F14DA5,0xBE29,,棺鼎,,Null-terminated Shift-JIS
+string,msg-0x5F2B3EF,0x5F2B3EF,0xBE56,0x10,пYE怩尅蔭z3!,,Type 0x10 message (arg=0x1A)
+string,msg-0x5F2D8AE,0x5F2D8AE,0xBE5B,0x02,＄w 権乖舘ケ悍演Uw!,,Type 0x02 message
+string,msg-0x5F586A7,0x5F586A7,0xBEB0,0x10,S#2槝劒'u!,,Type 0x10 message (arg=0x42)
+label,label-0x5F6393B,0x5F6393B,0xBEC7,0x01,霜,,Type 0x01 area/entity label
+plain,plain-0x5F914BC,0x5F914BC,0xBF22,,屈慂,,Null-terminated Shift-JIS
+plain,plain-0x5F93B97,0x5F93B97,0xBF27,,魂c囁,,Null-terminated Shift-JIS
+label,label-0x5F9DA89,0x5F9DA89,0xBF3B,0x01,屑,,Type 0x01 area/entity label
+plain,plain-0x5FA34AC,0x5FA34AC,0xBF46,,株蕩?,,Null-terminated Shift-JIS
+plain,plain-0x5FA6B31,0x5FA6B31,0xBF4D,,釜匣a亞+S,,Null-terminated Shift-JIS
+string,msg-0x5FAEEA9,0x5FAEEA9,0xBF5D,0x10,"(#/3幤R4但3133 (#)臆1桶""!",,Type 0x10 message (arg=0xE0)
+plain,plain-0x5FAF42D,0x5FAF42D,0xBF5E,,祖奧,,Null-terminated Shift-JIS
+plain,plain-0x5FB7C31,0x5FB7C31,0xBF6F,,翰幃,,Null-terminated Shift-JIS
+plain,plain-0x5FCAC13,0x5FCAC13,0xBF95,,聡Y宙,,Null-terminated Shift-JIS
+plain,plain-0x5FDCDAA,0x5FDCDAA,0xBFB9,,汚2屏斂,,Null-terminated Shift-JIS
+plain,plain-0x5FEA523,0x5FEA523,0xBFD4,,薗wx凹,,Null-terminated Shift-JIS
+plain,plain-0x5FF08DB,0x5FF08DB,0xBFE1,,厠凵,,Null-terminated Shift-JIS
+plain,plain-0x6009540,0x6009540,0xC012,,△陶啀,,Null-terminated Shift-JIS
+plain,plain-0x6036D05,0x6036D05,0xC06D,,顎)ｘ,,Null-terminated Shift-JIS
+plain,plain-0x605A070,0x605A070,0xC0B4,,乾s岔,,Null-terminated Shift-JIS
+plain,plain-0x606CFFB,0x606CFFB,0xC0D9,,衰専,,Null-terminated Shift-JIS
+plain,plain-0x606EB71,0x606EB71,0xC0DD,,勠，2,,Null-terminated Shift-JIS
+plain,plain-0x6071C1B,0x6071C1B,0xC0E3,,"""恥劔",,Null-terminated Shift-JIS
+plain,plain-0x6090ED4,0x6090ED4,0xC121,,音飴,,Null-terminated Shift-JIS
+plain,plain-0x60B4E77,0x60B4E77,0xC169,,伎岑,,Null-terminated Shift-JIS
+string,msg-0x60C32BC,0x60C32BC,0xC186,0x10,愍勘#7r3C2!,,Type 0x10 message (arg=0x99)
+plain,plain-0x60D0954,0x60D0954,0xC1A1,,叺汚,,Null-terminated Shift-JIS
+string,msg-0x60DC7CC,0x60DC7CC,0xC1B8,0x10,斂振b妛 ≦T !,,Type 0x10 message (arg=0x04)
+plain,plain-0x6124188,0x6124188,0xC248,,毀粋垉w1,,Null-terminated Shift-JIS
+string,msg-0x6191F05,0x6191F05,0xC323,0x10,肝崗埒逝GA!16F!,,Type 0x10 message (arg=0x82)
+plain,plain-0x619CD92,0x619CD92,0xC339,,渕４,,Null-terminated Shift-JIS
+plain,plain-0x619F269,0x619F269,0xC33E,,q簡安#,,Null-terminated Shift-JIS
+plain,plain-0x61D7F40,0x61D7F40,0xC3AF,,"叫""A垰",,Null-terminated Shift-JIS
+string,msg-0x62066AE,0x62066AE,0xC40C,0x02,卷'y4鎌w)!,,Type 0x02 message
+plain,plain-0x623B91F,0x623B91F,0xC477,,c8惱旺,,Null-terminated Shift-JIS
+string,msg-0x6263784,0x6263784,0xC4C6,0x10,3rA旱勦Cp!,,Type 0x10 message (arg=0x08)
+plain,plain-0x62688AE,0x62688AE,0xC4D1,,矩館,,Null-terminated Shift-JIS
+plain,plain-0x62722B9,0x62722B9,0xC4E4,,坩囹,,Null-terminated Shift-JIS
+string,msg-0x627EA8E,0x627EA8E,0xC4FD,0x02,#矯r食 !,,Type 0x02 message
+plain,plain-0x628BB81,0x628BB81,0xC517,,黄刳,,Null-terminated Shift-JIS
+plain,plain-0x62CEE85,0x62CEE85,0xC59D,,宸%%A實下乘ピ,,Null-terminated Shift-JIS
+plain,plain-0x62D9AEC,0x62D9AEC,0xC5B3,,脅逗,,Null-terminated Shift-JIS
+plain,plain-0x6345DC4,0x6345DC4,0xC68B,,ご署,,Null-terminated Shift-JIS
+plain,plain-0x6372A66,0x6372A66,0xC6E5,,棠ｋ)T,,Null-terminated Shift-JIS
+label,label-0x6377D1C,0x6377D1C,0xC6EF,0x01,0噫滲圸,,Type 0x01 area/entity label
+string,msg-0x63F4BEF,0x63F4BEF,0xC7E9,0x10,X尹[fa]堪努!,,Type 0x10 message (arg=0x0C)
+string,msg-0x6433E77,0x6433E77,0xC867,0x10,"""!+0!C案(!嵬杉(p惻ｘ52#c忰4 陌!",,Type 0x10 message (arg=0x89)
+plain,plain-0x6436EF5,0x6436EF5,0xC86D,,恥逐,,Null-terminated Shift-JIS
+plain,plain-0x643BAA5,0x643BAA5,0xC877,,慷&!劔,,Null-terminated Shift-JIS
+plain,plain-0x648652D,0x648652D,0xC90C,,"""寝穐",,Null-terminated Shift-JIS
+plain,plain-0x6492EAA,0x6492EAA,0xC925,,」# 廐凰,,Null-terminated Shift-JIS
+plain,plain-0x64BC0B0,0x64BC0B0,0xC978,,嶌＝,,Null-terminated Shift-JIS
+string,msg-0x64D059E,0x64D059E,0xC9A0,0x02,2巻120)汾([$U]!,,Type 0x02 message
+string,msg-0x65044A1,0x65044A1,0xCA08,0x10,"嚼(""u喚!A菅!u侘!",,Type 0x10 message (arg=0xBB)
+label,label-0x65086AA,0x65086AA,0xCA10,0x01,店,,Type 0x01 area/entity label
+plain,plain-0x651D3DA,0x651D3DA,0xCA3A,,朴巍,,Null-terminated Shift-JIS
+plain,plain-0x651DC40,0x651DC40,0xCA3B,,儻H矩,,Null-terminated Shift-JIS
+plain,plain-0x653033C,0x653033C,0xCA60,,圻刪,,Null-terminated Shift-JIS
+plain,plain-0x65439A2,0x65439A2,0xCA87,,5簡埓拭,,Null-terminated Shift-JIS
+string,msg-0x6551621,0x6551621,0xCAA2,0x10,0僑U0巉置!,,Type 0x10 message (arg=0xAA)
+plain,plain-0x6571A3E,0x6571A3E,0xCAE3,,○齪黄,,Null-terminated Shift-JIS
+plain,plain-0x65C0BAB,0x65C0BAB,0xCB81,,尋鋸 ,,Null-terminated Shift-JIS
+plain,plain-0x65D1FFB,0x65D1FFB,0xCBA3,,舘瑞,,Null-terminated Shift-JIS
+plain,plain-0x65E22C2,0x65E22C2,0xCBC4,,亂宋,,Null-terminated Shift-JIS
+plain,plain-0x661F3BD,0x661F3BD,0xCC3E,,攣飴6!,,Null-terminated Shift-JIS
+plain,plain-0x6622CB8,0x6622CB8,0xCC45,,勵嚼 ,,Null-terminated Shift-JIS
+plain,plain-0x662F8E3,0x662F8E3,0xCC5F,,惓ア,,Null-terminated Shift-JIS
+plain,plain-0x664CAB7,0x664CAB7,0xCC99,,甥'0埼,,Null-terminated Shift-JIS
+plain,plain-0x666BF3A,0x666BF3A,0xCCD7,,昏5乖,,Null-terminated Shift-JIS
+plain,plain-0x668B4EE,0x668B4EE,0xCD16,,巍園,,Null-terminated Shift-JIS
+label,label-0x668C157,0x668C157,0xCD18,0x01,縞,,Type 0x01 area/entity label
+plain,plain-0x668C56A,0x668C56A,0xCD18,,!瀬p架,,Null-terminated Shift-JIS
+plain,plain-0x669D787,0x669D787,0xCD3A,,仮轍,,Null-terminated Shift-JIS
+plain,plain-0x66A1E57,0x66A1E57,0xCD43,,勧2慂,,Null-terminated Shift-JIS
+label,label-0x66B0EE0,0x66B0EE0,0xCD61,0x01,剞,,Type 0x01 area/entity label
+label,label-0x6724B32,0x6724B32,0xCE49,0x01,搨,,Type 0x01 area/entity label
+string,msg-0x67446F5,0x67446F5,0xCE88,0x02,窓困沿[$­](悖t98!,,Type 0x02 message
+plain,plain-0x67456FB,0x67456FB,0xCE8A,,嚶乖劈鮑,,Null-terminated Shift-JIS
+plain,plain-0x6755B28,0x6755B28,0xCEAB,,駕劒,,Null-terminated Shift-JIS
+plain,plain-0x675AFEF,0x675AFEF,0xCEB5,,諌省,,Null-terminated Shift-JIS
+plain,plain-0x679E0BC,0x679E0BC,0xCF3C,,屬x鍛,,Null-terminated Shift-JIS
+plain,plain-0x679E0CA,0x679E0CA,0xCF3C,,孱x担,,Null-terminated Shift-JIS
+plain,plain-0x67B9316,0x67B9316,0xCF72,,漢勦,,Null-terminated Shift-JIS
+plain,plain-0x67C01C5,0x67C01C5,0xCF80,,"兇""玉",,Null-terminated Shift-JIS
+plain,plain-0x67C2839,0x67C2839,0xCF85,,Ｃ氛 ,,Null-terminated Shift-JIS
+plain,plain-0x67C4A6E,0x67C4A6E,0xCF89,,粁凰G2悴唖61悛,,Null-terminated Shift-JIS
+plain,plain-0x67D2201,0x67D2201,0xCFA4,,倹宦,,Null-terminated Shift-JIS
+plain,plain-0x67DA886,0x67DA886,0xCFB5,,辧驤(,,Null-terminated Shift-JIS
+plain,plain-0x67E3B97,0x67E3B97,0xCFC7,,減畋,,Null-terminated Shift-JIS
+label,label-0x67E3BD2,0x67E3BD2,0xCFC7,0x01,衿,,Type 0x01 area/entity label
+plain,plain-0x67F5B2D,0x67F5B2D,0xCFEB,,黄!曉,,Null-terminated Shift-JIS
+string,msg-0x6800C10,0x6800C10,0xD001,0x10,"摧)""?""坡x!",,Type 0x10 message (arg=0xA9)
+string,msg-0x680F5A2,0x680F5A2,0xD01E,0x02,剴h音4 Q笈鼓5wq!,,Type 0x02 message
+plain,plain-0x6818BF0,0x6818BF0,0xD031,,滑痴,,Null-terminated Shift-JIS
+string,msg-0x682785C,0x682785C,0xD04F,0x10,"3R5""穐S8囮T1w*!",,Type 0x10 message (arg=0x9C)
+label,label-0x6844528,0x6844528,0xD088,0x01,舒,,Type 0x01 area/entity label
+plain,plain-0x6844906,0x6844906,0xD089,,ォ或,,Null-terminated Shift-JIS
+plain,plain-0x684FB72,0x684FB72,0xD09F,,津嗚,,Null-terminated Shift-JIS
+plain,plain-0x685051F,0x685051F,0xD0A0,,企Ｂq,,Null-terminated Shift-JIS
+string,msg-0x68A7D5C,0x68A7D5C,0xD14F,0x02,2A8兪 隠!,,Type 0x02 message
+plain,plain-0x68B2E45,0x68B2E45,0xD165,,顧倉,,Null-terminated Shift-JIS
+plain,plain-0x68D7631,0x68D7631,0xD1AE,,閨#堡,,Null-terminated Shift-JIS
+plain,plain-0x68DC4F6,0x68DC4F6,0xD1B8,,+浪乂,,Null-terminated Shift-JIS
+string,msg-0x68DCCF7,0x68DCCF7,0xD1B9,0x10,"t43q亅2 GA#A嚼""%C641噤推s[$%]!渕!",,Type 0x10 message (arg=0x0C)
+plain,plain-0x68F751C,0x68F751C,0xD1EE,,巍囁,,Null-terminated Shift-JIS
+plain,plain-0x68FD948,0x68FD948,0xD1FB,,棺コ活,,Null-terminated Shift-JIS
+plain,plain-0x6917956,0x6917956,0xD22F,,架菌頗ゲ６,,Null-terminated Shift-JIS
+string,msg-0x691B2CF,0x691B2CF,0xD236,0x02,P〉簡'!,,Type 0x02 message
+plain,plain-0x691FA83,0x691FA83,0xD23F,,滔敏橿,,Null-terminated Shift-JIS
+plain,plain-0x6942207,0x6942207,0xD284,,牽A凰!,,Null-terminated Shift-JIS
+plain,plain-0x6963918,0x6963918,0xD2C7,,勤沖,,Null-terminated Shift-JIS
+plain,plain-0x696552F,0x696552F,0xD2CA,,巒Ｗ,,Null-terminated Shift-JIS
+plain,plain-0x696AF9A,0x696AF9A,0xD2D5,,惚闡尽,,Null-terminated Shift-JIS
+plain,plain-0x6971501,0x6971501,0xD2E2,,崋昭,,Null-terminated Shift-JIS
+plain,plain-0x69874D2,0x69874D2,0xD30E,,厖園,,Null-terminated Shift-JIS
+string,msg-0x69AC606,0x69AC606,0xD358,0x10,囮埔乖21順s!,,Type 0x10 message (arg=0x10)
+string,msg-0x69AD7D2,0x69AD7D2,0xD35A,0x02,"""g(沿廐u!",,Type 0x02 message
+plain,plain-0x69B7F27,0x69B7F27,0xD36F,,攪劍,,Null-terminated Shift-JIS
+plain,plain-0x69B81B2,0x69B81B2,0xD370,,漱沿,,Null-terminated Shift-JIS
+plain,plain-0x69FACA5,0x69FACA5,0xD3F5,,岡鍛,,Null-terminated Shift-JIS
+plain,plain-0x6A16666,0x6A16666,0xD42C,,姨二,,Null-terminated Shift-JIS
+plain,plain-0x6A2F303,0x6A2F303,0xD45E,,戸垪,,Null-terminated Shift-JIS
+plain,plain-0x6A37890,0x6A37890,0xD46F,,"埒勠不""c!",,Null-terminated Shift-JIS
+plain,plain-0x6A63501,0x6A63501,0xD4C6,,玉橿,,Null-terminated Shift-JIS
+string,msg-0x6A67EE7,0x6A67EE7,0xD4CF,0x02,唖Q堋T!,,Type 0x02 message
+plain,plain-0x6A73110,0x6A73110,0xD4E6,,吹嬖,,Null-terminated Shift-JIS
+plain,plain-0x6A741E2,0x6A741E2,0xD4E8,,奄6!極,,Null-terminated Shift-JIS
+string,msg-0x6A79C1E,0x6A79C1E,0xD4F3,0x02,3)ば#8旺2刄aS4u!,,Type 0x02 message
+string,msg-0x6A7E741,0x6A7E741,0xD4FC,0x10,"b3劔ザ""!",,Type 0x10 message (arg=0xAA)
+plain,plain-0x6A8E320,0x6A8E320,0xD51C,,晩殍,,Null-terminated Shift-JIS
+plain,plain-0x6A98424,0x6A98424,0xD530,,釜3２B,,Null-terminated Shift-JIS
+plain,plain-0x6AABC2A,0x6AABC2A,0xD557,,刮５3,,Null-terminated Shift-JIS
+plain,plain-0x6ADC0EA,0x6ADC0EA,0xD5B8,,甥ゥ,,Null-terminated Shift-JIS
+plain,plain-0x6B0297B,0x6B0297B,0xD605,,給朽ос,,Null-terminated Shift-JIS
+plain,plain-0x6B168A4,0x6B168A4,0xD62D,,《巓,,Null-terminated Shift-JIS
+plain,plain-0x6B20649,0x6B20649,0xD640,,劵Q恐,,Null-terminated Shift-JIS
+plain,plain-0x6B24BA1,0x6B24BA1,0xD649,,ゝ怦,,Null-terminated Shift-JIS
+plain,plain-0x6B27BFF,0x6B27BFF,0xD64F,,苑智,,Null-terminated Shift-JIS
+plain,plain-0x6B376F1,0x6B376F1,0xD66E,,壗汚,,Null-terminated Shift-JIS
+plain,plain-0x6B6A88B,0x6B6A88B,0xD6D5,,賀囁#p,,Null-terminated Shift-JIS
+string,msg-0x6B885D5,0x6B885D5,0xD710,0x02,"0髫、4R鉄b 溲[$	]&!0""!",,Type 0x02 message
+label,label-0x6B8B483,0x6B8B483,0xD716,0x01,醸,,Type 0x01 area/entity label
+plain,plain-0x6BA49DA,0x6BA49DA,0xD749,,勘寛,,Null-terminated Shift-JIS
+plain,plain-0x6BBACC2,0x6BBACC2,0xD775,,緊圸,,Null-terminated Shift-JIS
+plain,plain-0x6BCC72A,0x6BCC72A,0xD798,,揶潟戡,,Null-terminated Shift-JIS
+plain,plain-0x6BDED90,0x6BDED90,0xD7BD,,鬮Ｒ瑚,,Null-terminated Shift-JIS
+plain,plain-0x6BF5E02,0x6BF5E02,0xD7EB,,衿鴎Я,,Null-terminated Shift-JIS
+label,label-0x6C0F4EB,0x6C0F4EB,0xD81E,0x01,乾,,Type 0x01 area/entity label
+plain,plain-0x6C176DA,0x6C176DA,0xD82E,,晤蜘,,Null-terminated Shift-JIS
+plain,plain-0x6C3936E,0x6C3936E,0xD872,,＿セ(か,,Null-terminated Shift-JIS
+plain,plain-0x6C5D4A8,0x6C5D4A8,0xD8BA,,孳註腸k曝,,Null-terminated Shift-JIS
+plain,plain-0x6C703DC,0x6C703DC,0xD8E0,,釧茜,,Null-terminated Shift-JIS
+string,msg-0x6C7614D,0x6C7614D,0xD8EC,0x02,進(ｋо!,,Type 0x02 message
+plain,plain-0x6C79554,0x6C79554,0xD8F2,,剔(笈,,Null-terminated Shift-JIS
+plain,plain-0x6C84EA8,0x6C84EA8,0xD909,, 誤坦!勣,,Null-terminated Shift-JIS
+plain,plain-0x6C87F59,0x6C87F59,0xD90F,,甥絢#u,,Null-terminated Shift-JIS
+plain,plain-0x6C9097E,0x6C9097E,0xD921,,淹櫛,,Null-terminated Shift-JIS
+label,label-0x6CA9F81,0x6CA9F81,0xD953,0x01,厖齔艶,,Type 0x01 area/entity label
+plain,plain-0x6CAD2E3,0x6CAD2E3,0xD95A,,匳椹,,Null-terminated Shift-JIS
+plain,plain-0x6CBDB80,0x6CBDB80,0xD97B,,惓燭,,Null-terminated Shift-JIS
+label,label-0x6CBE2E0,0x6CBE2E0,0xD97C,0x01,省,,Type 0x01 area/entity label
+plain,plain-0x6CEF3CA,0x6CEF3CA,0xD9DE,,刀占,,Null-terminated Shift-JIS
+plain,plain-0x6CEFBEF,0x6CEFBEF,0xD9DF,,喚Ｘ,,Null-terminated Shift-JIS
+plain,plain-0x6D28D46,0x6D28D46,0xDA51,,嵬求,,Null-terminated Shift-JIS
+label,label-0x6D3B222,0x6D3B222,0xDA76,0x01,叶,,Type 0x01 area/entity label
+plain,plain-0x6D44D79,0x6D44D79,0xDA89,,棺圓,,Null-terminated Shift-JIS
+plain,plain-0x6D535D9,0x6D535D9,0xDAA6,,含尸,,Null-terminated Shift-JIS
+plain,plain-0x6D6FAE3,0x6D6FAE3,0xDADF,,蝦埃,,Null-terminated Shift-JIS
+plain,plain-0x6D886DC,0x6D886DC,0xDB10,,ｊ遠,,Null-terminated Shift-JIS
+plain,plain-0x6D9FED4,0x6D9FED4,0xDB3F,,鴎仲%,,Null-terminated Shift-JIS
+plain,plain-0x6DB88DF,0x6DB88DF,0xDB71,,己脅,,Null-terminated Shift-JIS
+string,msg-0x6DC9ACB,0x6DC9ACB,0xDB93,0x10,"逗驪洋H""D!",,Type 0x10 message (arg=0xFB)
+plain,plain-0x6DD06AD,0x6DD06AD,0xDBA0,,涜N9宙,,Null-terminated Shift-JIS
+plain,plain-0x6DE7686,0x6DE7686,0xDBCE,,杉剞,,Null-terminated Shift-JIS
+string,msg-0x6DEBB78,0x6DEBB78,0xDBD7,0x10,"4""2幗圻""E""巒u[$2]勣堽Rb3!",,Type 0x10 message (arg=0x27)
+plain,plain-0x6DEBD1F,0x6DEBD1F,0xDBD7,,洙剞,,Null-terminated Shift-JIS
+string,msg-0x6DEE059,0x6DEE059,0xDBDC,0x10,厂争3325亨1r2[fa]v!,,Type 0x10 message (arg=0x9A)
+plain,plain-0x6E19B7F,0x6E19B7F,0xDC33,,佻囮,,Null-terminated Shift-JIS
+label,label-0x6E30D3E,0x6E30D3E,0xDC61,0x01,2願芹,,Type 0x01 area/entity label
+plain,plain-0x6E6854A,0x6E6854A,0xDCD0,,擠艶,,Null-terminated Shift-JIS
+plain,plain-0x6E6C08C,0x6E6C08C,0xDCD8,,穏3滯,,Null-terminated Shift-JIS
+label,label-0x6E897FB,0x6E897FB,0xDD12,0x01,園,,Type 0x01 area/entity label
+plain,plain-0x6E8CD9C,0x6E8CD9C,0xDD19,,珂敢,,Null-terminated Shift-JIS
+string,msg-0x6E9B527,0x6E9B527,0xDD36,0x02,"劈埔[$Þ]俚j""f C!",,Type 0x02 message
+plain,plain-0x6EA2A5E,0x6EA2A5E,0xDD45,,曲囃,,Null-terminated Shift-JIS
+plain,plain-0x6EC0122,0x6EC0122,0xDD80,,梶!剣(,,Null-terminated Shift-JIS
+plain,plain-0x6EC861A,0x6EC861A,0xDD90,,季揩(牡,,Null-terminated Shift-JIS
+plain,plain-0x6ECF9BE,0x6ECF9BE,0xDD9F,,憚刪,,Null-terminated Shift-JIS
+string,msg-0x6EF72E7,0x6EF72E7,0xDDEE,0x10,"[$S]C 含554!仮#B2嵶T4""5541#B""!",,Type 0x10 message (arg=0xA9)
+plain,plain-0x6F1027D,0x6F1027D,0xDE20,,苦勘テ,,Null-terminated Shift-JIS
+string,msg-0x6F16DE3,0x6F16DE3,0xDE2D,0x02,"増辰c""廐!",,Type 0x02 message
+plain,plain-0x6F1EB73,0x6F1EB73,0xDE3D,,茜匸,,Null-terminated Shift-JIS
+string,msg-0x6F358D9,0x6F358D9,0xDE6B,0x02," 慙!""sR!化荻#SC!",,Type 0x02 message
+plain,plain-0x6F3CB48,0x6F3CB48,0xDE79,,且2*焜,,Null-terminated Shift-JIS
+string,msg-0x6F484B0,0x6F484B0,0xDE90,0x02,D)架%3(a慂變T*& !,,Type 0x02 message
+label,label-0x6F8B5F4,0x6F8B5F4,0xDF16,0x01,ジ,,Type 0x01 area/entity label
+plain,plain-0x6F9A61A,0x6F9A61A,0xDF34,,敢梶,,Null-terminated Shift-JIS
+plain,plain-0x6FD16CE,0x6FD16CE,0xDFA2,,躯所,,Null-terminated Shift-JIS
+plain,plain-0x6FD5FD3,0x6FD5FD3,0xDFAB,,巻囹謡0匱囮,,Null-terminated Shift-JIS
+plain,plain-0x6FE4AA2,0x6FE4AA2,0xDFC9,,下粋,,Null-terminated Shift-JIS
+string,msg-0x6FF2FFA,0x6FF2FFA,0xDFE5,0x10,)☆患醸岡劔3bF)!,,Type 0x10 message (arg=0x02)
+plain,plain-0x7005548,0x7005548,0xE00A,,。巍,,Null-terminated Shift-JIS
+plain,plain-0x7025989,0x7025989,0xE04B,,廃茜,,Null-terminated Shift-JIS
+plain,plain-0x704D995,0x704D995,0xE09B,,厠凰,,Null-terminated Shift-JIS
+string,msg-0x7058FAB,0x7058FAB,0xE0B1,0x10,嵩7r!嚼u!,,Type 0x10 message (arg=0x21)
+plain,plain-0x705DA21,0x705DA21,0xE0BB,,栫劇串,,Null-terminated Shift-JIS
+plain,plain-0x708B2C3,0x708B2C3,0xE116,,嵋逗!,,Null-terminated Shift-JIS
+string,msg-0x709D6EA,0x709D6EA,0xE13A,0x10,"""Db匸5A""!伽鬮[$C]E!",,Type 0x10 message (arg=0x11)
+string,msg-0x709E2F1,0x709E2F1,0xE13C,0x02,"7冂!t劔[$4]!""#11D!",,Type 0x02 message
+plain,plain-0x70A8BC6,0x70A8BC6,0xE151,,願S陰梭,,Null-terminated Shift-JIS
+string,msg-0x70AC379,0x70AC379,0xE158,0x02,肩凵8w 凹愍1層!!,,Type 0x02 message
+plain,plain-0x70B7507,0x70B7507,0xE16E,,慳圸,,Null-terminated Shift-JIS
+plain,plain-0x70F2274,0x70F2274,0xE1E4,,勠齟C2,,Null-terminated Shift-JIS
+plain,plain-0x7169E8D,0x7169E8D,0xE2D3,,げ尼,,Null-terminated Shift-JIS
+plain,plain-0x71B763A,0x71B763A,0xE36E,,鞄r憖,,Null-terminated Shift-JIS
+plain,plain-0x71EC71F,0x71EC71F,0xE3D8,,湃劒,,Null-terminated Shift-JIS
+string,msg-0x71F81E8,0x71F81E8,0xE3F0,0x10,渇9凵24!巉 h !,,Type 0x10 message (arg=0x08)
+plain,plain-0x7228051,0x7228051,0xE450,,!卿!梶,,Null-terminated Shift-JIS
+label,label-0x72608BB,0x72608BB,0xE4C1,0x01,騾汾,,Type 0x01 area/entity label
+plain,plain-0x72840B4,0x72840B4,0xE508,,壗Р筋,,Null-terminated Shift-JIS
+plain,plain-0x7296ECE,0x7296ECE,0xE52D,,極CA音,,Null-terminated Shift-JIS
+string,msg-0x72A53FD,0x72A53FD,0xE54A,0x10,"嚼C""》)践匳X衰齟Ur(嵳!!",,Type 0x10 message (arg=0xDA)
+plain,plain-0x7312CD2,0x7312CD2,0xE625,,汚崋｜,,Null-terminated Shift-JIS
+string,msg-0x731A723,0x731A723,0xE634,0x10,Λ容(棹汚悁t缶瓦wA賀臆!,,Type 0x10 message (arg=0x09)
+plain,plain-0x7326A66,0x7326A66,0xE64D,,(愕4河,,Null-terminated Shift-JIS
+label,label-0x7328EB3,0x7328EB3,0xE651,0x01,淙,,Type 0x01 area/entity label
+plain,plain-0x734303C,0x734303C,0xE686,,緊・,,Null-terminated Shift-JIS
+plain,plain-0x734DFA2,0x734DFA2,0xE69B,,61慳劍,,Null-terminated Shift-JIS
+plain,plain-0x734E64B,0x734E64B,0xE69C,,愨A升,,Null-terminated Shift-JIS
+plain,plain-0x737FC15,0x737FC15,0xE6FF,, 刋#擒,,Null-terminated Shift-JIS
+plain,plain-0x7392072,0x7392072,0xE724,,喫几),,Null-terminated Shift-JIS
+plain,plain-0x7393C07,0x7393C07,0xE727,,肩51叫,,Null-terminated Shift-JIS
+plain,plain-0x739FED3,0x739FED3,0xE73F,,ッ嵬,,Null-terminated Shift-JIS
+plain,plain-0x73B681B,0x73B681B,0xE76D,,拒癌,,Null-terminated Shift-JIS
+plain,plain-0x73B732C,0x73B732C,0xE76E,,給朽с,,Null-terminated Shift-JIS
+plain,plain-0x73BFC27,0x73BFC27,0xE77F,,"埃凰""",,Null-terminated Shift-JIS
+plain,plain-0x73DCD92,0x73DCD92,0xE7B9,,國wI悛,,Null-terminated Shift-JIS
+label,label-0x73DCE7D,0x73DCE7D,0xE7B9,0x01,権,,Type 0x01 area/entity label
+plain,plain-0x740FC3C,0x740FC3C,0xE81F,,"#矩""屑",,Null-terminated Shift-JIS
+plain,plain-0x740FC8E,0x740FC8E,0xE81F,,b奥政,,Null-terminated Shift-JIS
+plain,plain-0x740FD30,0x740FD30,0xE81F,,Q鮎豫,,Null-terminated Shift-JIS
+plain,plain-0x7452690,0x7452690,0xE8A4,,官禍,,Null-terminated Shift-JIS
+label,label-0x747E45D,0x747E45D,0xE8FC,0x01,椛,,Type 0x01 area/entity label
+plain,plain-0x74B8061,0x74B8061,0xE970,,朽D頃,,Null-terminated Shift-JIS
+plain,plain-0x74C3C99,0x74C3C99,0xE987,,"噫僑""",,Null-terminated Shift-JIS
+string,msg-0x74C5970,0x74C5970,0xE98B,0x10,〃(呂堪壘3昌!,,Type 0x10 message (arg=0x09)
+string,msg-0x751B570,0x751B570,0xEA36,0x10,A嚼B含3*廼b巨!,,Type 0x10 message (arg=0x11)
+label,label-0x75440E5,0x75440E5,0xEA88,0x01,鰍,,Type 0x01 area/entity label
+plain,plain-0x75500A9,0x75500A9,0xEAA0,,洸化,,Null-terminated Shift-JIS
+string,msg-0x758DEB5,0x758DEB5,0xEB1B,0x02,鰐来!,,Type 0x02 message
+plain,plain-0x7590661,0x7590661,0xEB20,,劼q宸,,Null-terminated Shift-JIS
+plain,plain-0x75A7499,0x75A7499,0xEB4E,,圀騾,,Null-terminated Shift-JIS
+plain,plain-0x761456B,0x761456B,0xEC28,,鎌5己R穏,,Null-terminated Shift-JIS
+plain,plain-0x762A6AC,0x762A6AC,0xEC54,,五都,,Null-terminated Shift-JIS
+plain,plain-0x766F5AC,0x766F5AC,0xECDE,,"粁噤%""",,Null-terminated Shift-JIS
+label,label-0x767EE76,0x767EE76,0xECFD,0x01,岡,,Type 0x01 area/entity label
+plain,plain-0x768F1AE,0x768F1AE,0xED1E,,写鎗&B,,Null-terminated Shift-JIS
+plain,plain-0x768F36B,0x768F36B,0xED1E,,52ｉ壕,,Null-terminated Shift-JIS
+string,msg-0x7697EB4,0x7697EB4,0xED2F,0x10,殿剔B1慚&Q5!,,Type 0x10 message (arg=0x42)
+plain,plain-0x76A1B4F,0x76A1B4F,0xED43,,宮K┫遭,,Null-terminated Shift-JIS
+plain,plain-0x76A37C5,0x76A37C5,0xED46,,匱釧,,Null-terminated Shift-JIS
+string,msg-0x76BAD77,0x76BAD77,0xED75,0x10,"ツ%""3圈6#!",,Type 0x10 message (arg=0xAA)
+string,msg-0x76BD926,0x76BD926,0xED7B,0x02,2!A涅慂像坡w!,,Type 0x02 message
+plain,plain-0x76C1D49,0x76C1D49,0xED83,,葬嗚,,Null-terminated Shift-JIS
+plain,plain-0x76DC992,0x76DC992,0xEDB9,,ｐ乘冪,,Null-terminated Shift-JIS
+string,msg-0x76E2C0B,0x76E2C0B,0xEDC5,0x10,"睦演""!",,Type 0x10 message (arg=0x32)
+plain,plain-0x76EB48F,0x76EB48F,0xEDD6,,黄'h華3館,,Null-terminated Shift-JIS
+plain,plain-0x76F6813,0x76F6813,0xEDED,,仮S娠芽,,Null-terminated Shift-JIS
+string,msg-0x7706768,0x7706768,0xEE0C,0x02,"S""С61嵋恊% [$5](嚠極3!""S 勧C!",,Type 0x02 message
+plain,plain-0x772EE65,0x772EE65,0xEE5D,,源堰!,,Null-terminated Shift-JIS
+plain,plain-0x7739BD1,0x7739BD1,0xEE73,,初害,,Null-terminated Shift-JIS
+plain,plain-0x773EB18,0x773EB18,0xEE7D,,利9凰,,Null-terminated Shift-JIS
+plain,plain-0x7753192,0x7753192,0xEEA6,,嵳髫凵＄Ｕ7B3b,,Null-terminated Shift-JIS
+label,label-0x7755128,0x7755128,0xEEAA,0x01,乖,,Type 0x01 area/entity label
+plain,plain-0x7757A89,0x7757A89,0xEEAF,,Ｕ逗串,,Null-terminated Shift-JIS
+string,msg-0x775AEF0,0x775AEF0,0xEEB5,0x02,B4t屏拒U噤1!,,Type 0x02 message
+plain,plain-0x7771806,0x7771806,0xEEE3,,棕c苑署,,Null-terminated Shift-JIS
+plain,plain-0x77738C6,0x77738C6,0xEEE7,,!囁旦胸,,Null-terminated Shift-JIS
+string,msg-0x777AC84,0x777AC84,0xEEF5,0x10,#)78#湃争E!,,Type 0x10 message (arg=0x24)
+plain,plain-0x7787CBB,0x7787CBB,0xEF0F,,謙巒植gq擅S卿!刪,,Null-terminated Shift-JIS
+plain,plain-0x77ACE25,0x77ACE25,0xEF59,,峪憺,,Null-terminated Shift-JIS
+plain,plain-0x783E2FE,0x783E2FE,0xF07C,,限!嚏,,Null-terminated Shift-JIS
+string,msg-0x7844F82,0x7844F82,0xF089,0x10,cС釜 !撩膳2搗*vB郷2崋3#A湃!,,Type 0x10 message (arg=0xAB)
+plain,plain-0x7869F0D,0x7869F0D,0xF0D3,,啗t刈,,Null-terminated Shift-JIS
+plain,plain-0x78742E0,0x78742E0,0xF0E8,,廐鉄!,,Null-terminated Shift-JIS
+plain,plain-0x7874D1B,0x7874D1B,0xF0E9,,%2巻劔,,Null-terminated Shift-JIS
+label,label-0x78A915D,0x78A915D,0xF152,0x01,芹ィ,,Type 0x01 area/entity label
+plain,plain-0x78B3373,0x78B3373,0xF166,,"4""括8央果架髑 劔",,Null-terminated Shift-JIS
+string,msg-0x7901126,0x7901126,0xF202,0x10,"岡&""HC驕!",,Type 0x10 message (arg=0x80)
+label,label-0x7915592,0x7915592,0xF22A,0x01,酒,,Type 0x01 area/entity label
+plain,plain-0x791559A,0x791559A,0xF22A,,"""株X蝦",,Null-terminated Shift-JIS
+plain,plain-0x79155E4,0x79155E4,0xF22A,,2寇h依,,Null-terminated Shift-JIS
+plain,plain-0x79155F3,0x79155F3,0xF22A,,A噪8伎,,Null-terminated Shift-JIS
+plain,plain-0x79158CF,0x79158CF,0xF22B,,2拠q侘,,Null-terminated Shift-JIS
+plain,plain-0x7916F95,0x7916F95,0xF22D,,厰w8危,,Null-terminated Shift-JIS
+plain,plain-0x793926C,0x793926C,0xF272,,"黄幗奪""",,Null-terminated Shift-JIS
+plain,plain-0x793B5B3,0x793B5B3,0xF276,,棺寳,,Null-terminated Shift-JIS
+label,label-0x7949A82,0x7949A82,0xF293,0x01,愃,,Type 0x01 area/entity label
+plain,plain-0x794C921,0x794C921,0xF299,,"愃""柑",,Null-terminated Shift-JIS
+label,label-0x795D398,0x795D398,0xF2BA,0x01,沿嚠,,Type 0x01 area/entity label
+plain,plain-0x796BAA1,0x796BAA1,0xF2D7,,#A衿逗,,Null-terminated Shift-JIS
+plain,plain-0x796FAAF,0x796FAAF,0xF2DF,,厚粋,,Null-terminated Shift-JIS
+plain,plain-0x798982A,0x798982A,0xF313,,搨s(圷,,Null-terminated Shift-JIS
+plain,plain-0x79A6D9A,0x79A6D9A,0xF34D,,＿憇,,Null-terminated Shift-JIS
+string,msg-0x79A9D3F,0x79A9D3F,0xF353,0x02,"""圸0智侏[$3]!",,Type 0x02 message
+label,label-0x7A12C7A,0x7A12C7A,0xF425,0x01,壑,,Type 0x01 area/entity label
+string,msg-0x7A17843,0x7A17843,0xF42F,0x10,DC3411)梦(2D0曉坎#dA%B!,,Type 0x10 message (arg=0x28)
+plain,plain-0x7A2377A,0x7A2377A,0xF446,,"""A屈刪",,Null-terminated Shift-JIS
+string,msg-0x7A44828,0x7A44828,0xF489,0x10,触3D岡6CB刄t3B仆T5!,,Type 0x10 message (arg=0x88)
+plain,plain-0x7A98B5D,0x7A98B5D,0xF531,,緩乾,,Null-terminated Shift-JIS
+plain,plain-0x7AE2C32,0x7AE2C32,0xF5C5,,恙寳,,Null-terminated Shift-JIS
+string,msg-0x7AFB583,0x7AFB583,0xF5F6,0x02,"利. ""c綾剔嚮7!",,Type 0x02 message
+plain,plain-0x7B03296,0x7B03296,0xF606,,岔途,,Null-terminated Shift-JIS
+plain,plain-0x7B05671,0x7B05671,0xF60A,,嚠2+齔,,Null-terminated Shift-JIS
+plain,plain-0x7B18686,0x7B18686,0xF630,,愛掏,,Null-terminated Shift-JIS
+plain,plain-0x7B3008F,0x7B3008F,0xF660,,倦t勢,,Null-terminated Shift-JIS
+plain,plain-0x7B42B60,0x7B42B60,0xF685,,崛按,,Null-terminated Shift-JIS
+string,msg-0x7B64EF7,0x7B64EF7,0xF6C9,0x02,S森款菅%'#1!,,Type 0x02 message
+plain,plain-0x7B99601,0x7B99601,0xF732,,唖球,,Null-terminated Shift-JIS
+plain,plain-0x7BDD3AF,0x7BDD3AF,0xF7BA,,"勧2嶌""",,Null-terminated Shift-JIS
+plain,plain-0x7BE3DB6,0x7BE3DB6,0xF7C7,,菅(鋸,,Null-terminated Shift-JIS
+plain,plain-0x7C09ACF,0x7C09ACF,0xF813,,塒噤,,Null-terminated Shift-JIS
+plain,plain-0x7C199F6,0x7C199F6,0xF833,,争肩,,Null-terminated Shift-JIS
+string,msg-0x7C1B63D,0x7C1B63D,0xF836,0x02,CV2勘23槿#C奏2刳&!,,Type 0x02 message
+plain,plain-0x7C3505D,0x7C3505D,0xF86A,,蔦栗,,Null-terminated Shift-JIS
+plain,plain-0x7C61779,0x7C61779,0xF8C2,,粁腺,,Null-terminated Shift-JIS
+string,msg-0x7C63191,0x7C63191,0xF8C6,0x10,"肝( 楴睦吁 鼓u噤仮80齣v椛喚8""奬陣!",,Type 0x10 message (arg=0x28)
+plain,plain-0x7C6477F,0x7C6477F,0xF8C8,,慘，,,Null-terminated Shift-JIS
+label,label-0x7C6CF8E,0x7C6CF8E,0xF8D9,0x01,樛,,Type 0x01 area/entity label
+plain,plain-0x7C851B4,0x7C851B4,0xF90A,,¢づ戯,,Null-terminated Shift-JIS
+plain,plain-0x7C97CFD,0x7C97CFD,0xF92F,,嵋况!,,Null-terminated Shift-JIS
+plain,plain-0x7C9ABF9,0x7C9ABF9,0xF935,,"嘆自""",,Null-terminated Shift-JIS
+plain,plain-0x7CB8C14,0x7CB8C14,0xF971,,茜境煢,,Null-terminated Shift-JIS
+plain,plain-0x7CC1403,0x7CC1403,0xF982,,#舉垪,,Null-terminated Shift-JIS
+plain,plain-0x7CD19B6,0x7CD19B6,0xF9A3,,津栗,,Null-terminated Shift-JIS
+string,msg-0x7CD4E60,0x7CD4E60,0xF9A9,0x10,愍悁据#b3S6#2B2!,,Type 0x10 message (arg=0x89)
+string,msg-0x7CF6E1E,0x7CF6E1E,0xF9ED,0x10,嵬坩任!Qu! q汚1(u!,,Type 0x10 message (arg=0x80)
+plain,plain-0x7D0B768,0x7D0B768,0xFA16,,瘁蟹,,Null-terminated Shift-JIS
+plain,plain-0x7D177B3,0x7D177B3,0xFA2E,,罎曽,,Null-terminated Shift-JIS
+plain,plain-0x7D210EF,0x7D210EF,0xFA42,,鯵wP壑,,Null-terminated Shift-JIS
+plain,plain-0x7D31AE3,0x7D31AE3,0xFA63,,沿槓,,Null-terminated Shift-JIS
+plain,plain-0x7D45ACC,0x7D45ACC,0xFA8B,,慄Ｘ,,Null-terminated Shift-JIS
+plain,plain-0x7D4F09F,0x7D4F09F,0xFA9E,,寛苑,,Null-terminated Shift-JIS
+plain,plain-0x7D539E6,0x7D539E6,0xFAA7,,囀1々,,Null-terminated Shift-JIS
+plain,plain-0x7D648A3,0x7D648A3,0xFAC9,,妛縛予,,Null-terminated Shift-JIS
+plain,plain-0x7D67985,0x7D67985,0xFACF,,嵬Ｘ)剞,,Null-terminated Shift-JIS
+label,label-0x7D7D1C9,0x7D7D1C9,0xFAFA,0x01,晴,,Type 0x01 area/entity label
+string,msg-0x7D8EE7E,0x7D8EE7E,0xFB1D,0x02,""" 劭0属R6囲AA作b!",,Type 0x02 message
+plain,plain-0x7DA2469,0x7DA2469,0xFB44,,4園鰍P舉,,Null-terminated Shift-JIS
+plain,plain-0x7DA51C2,0x7DA51C2,0xFB4A,,苅顧,,Null-terminated Shift-JIS
+plain,plain-0x7DB3BB6,0x7DB3BB6,0xFB67,,#1音凵,,Null-terminated Shift-JIS
+plain,plain-0x7DB4EA6,0x7DB4EA6,0xFB69,,恐Q饗,,Null-terminated Shift-JIS
+plain,plain-0x7DC9E1A,0x7DC9E1A,0xFB93,,噬詳,,Null-terminated Shift-JIS
+string,msg-0x7DCDA0A,0x7DCDA0A,0xFB9B,0x02,捩 +輦攣D 翰4!,,Type 0x02 message
+plain,plain-0x7DD8A98,0x7DD8A98,0xFBB1,,噐こ,,Null-terminated Shift-JIS
+plain,plain-0x7DD9B67,0x7DD9B67,0xFBB3,,刈4!在鍛勘,,Null-terminated Shift-JIS
+plain,plain-0x7DE056F,0x7DE056F,0xFBC0,,押齟,,Null-terminated Shift-JIS
+plain,plain-0x7DEA0B6,0x7DEA0B6,0xFBD4,,擠垪,,Null-terminated Shift-JIS
+plain,plain-0x7DEC9D5,0x7DEC9D5,0xFBD9,,刮刋,,Null-terminated Shift-JIS
+plain,plain-0x7DF6C54,0x7DF6C54,0xFBED,,惠燭,,Null-terminated Shift-JIS
+plain,plain-0x7DFE124,0x7DFE124,0xFBFC,,鮎它,,Null-terminated Shift-JIS
+plain,plain-0x7E0168A,0x7E0168A,0xFC02,,館乖,,Null-terminated Shift-JIS
+label,label-0x7E0237E,0x7E0237E,0xFC04,0x01,壗,,Type 0x01 area/entity label
+plain,plain-0x7E031F8,0x7E031F8,0xFC06,,滑蕎耳,,Null-terminated Shift-JIS
+string,msg-0x7E113E2,0x7E113E2,0xFC22,0x10, 嶋t胸 奥滯w朽 )(!'!,,Type 0x10 message (arg=0x9C)
+plain,plain-0x7E204DB,0x7E204DB,0xFC40,,飭堰,,Null-terminated Shift-JIS
+plain,plain-0x7E321D8,0x7E321D8,0xFC64,,窓寤,,Null-terminated Shift-JIS
+string,msg-0x7E375A9,0x7E375A9,0xFC6E,0x10,"塹飭)火≠t""C1!",,Type 0x10 message (arg=0x9D)
+plain,plain-0x7E506B9,0x7E506B9,0xFCA0,,!堊恙,,Null-terminated Shift-JIS
+plain,plain-0x7E5B233,0x7E5B233,0xFCB6,,毀衰,,Null-terminated Shift-JIS
+plain,plain-0x7E679F4,0x7E679F4,0xFCCF,,寳厚,,Null-terminated Shift-JIS
+plain,plain-0x7E84E8E,0x7E84E8E,0xFD09,,載嵳,,Null-terminated Shift-JIS
+plain,plain-0x7EA5DE1,0x7EA5DE1,0xFD4B,,翠!嗅,,Null-terminated Shift-JIS
+plain,plain-0x7EA90A4,0x7EA90A4,0xFD52,,B斃埆薪!,,Null-terminated Shift-JIS
+plain,plain-0x7EB5EDC,0x7EB5EDC,0xFD6B,,棺プ,,Null-terminated Shift-JIS
+string,msg-0x7EB7692,0x7EB7692,0xFD6E,0x02,% E2憇1#'S穐黄E#飭葛7q!,,Type 0x02 message
+label,label-0x7ED9634,0x7ED9634,0xFDB2,0x01,攫,,Type 0x01 area/entity label
+plain,plain-0x7F0AADB,0x7F0AADB,0xFE15,,堊茶+#,,Null-terminated Shift-JIS
+plain,plain-0x7F1841D,0x7F1841D,0xFE30,,宦'椛,,Null-terminated Shift-JIS
+plain,plain-0x7F1E93C,0x7F1E93C,0xFE3D,,#幃!(廐＿H囁,,Null-terminated Shift-JIS
+plain,plain-0x7F22B25,0x7F22B25,0xFE45,,苅嗽,,Null-terminated Shift-JIS
+plain,plain-0x7F24227,0x7F24227,0xFE48,,魚悖,,Null-terminated Shift-JIS
+plain,plain-0x7F34768,0x7F34768,0xFE68,,ァ*陌20鯔,,Null-terminated Shift-JIS
+plain,plain-0x7F4A343,0x7F4A343,0xFE94,,慳鞄w黄,,Null-terminated Shift-JIS
+plain,plain-0x7FA66DB,0x7FA66DB,0xFF4C,,往ゝ8,,Null-terminated Shift-JIS
+plain,plain-0x7FA9C33,0x7FA9C33,0xFF53,,錘怙,,Null-terminated Shift-JIS
+plain,plain-0x7FAA854,0x7FAA854,0xFF55,,黷荘,,Null-terminated Shift-JIS
+plain,plain-0x7FBA5EF,0x7FBA5EF,0xFF74,,牽a苅,,Null-terminated Shift-JIS
+plain,plain-0x7FD90B8,0x7FD90B8,0xFFB2,,"N逗%穀""仮",,Null-terminated Shift-JIS
+plain,plain-0x80037AA,0x80037AA,0x10006,,垰１,,Null-terminated Shift-JIS
+string,msg-0x8009F82,0x8009F82,0x10013,0x10,炎!b埀4!,,Type 0x10 message (arg=0x01)
+plain,plain-0x8010EF5,0x8010EF5,0x10021,,梓K鉛掾,,Null-terminated Shift-JIS
+plain,plain-0x8021771,0x8021771,0x10042,,尻漾,,Null-terminated Shift-JIS

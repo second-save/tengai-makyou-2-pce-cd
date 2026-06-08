@@ -1,0 +1,154 @@
+{
+  "name": "yav",
+  "sector": 736,
+  "size": 262144,
+  "compressed": true,
+  "decompress_method": null,
+  "ivm2h_spec": "/vector+tpseg:6000,580",
+  "segments": [
+    {
+      "id": "data1",
+      "ram_base": 32768,
+      "max_size": 1536,
+      "role": "map_aux"
+    },
+    {
+      "id": "data2",
+      "ram_base": 0,
+      "max_size": 1600,
+      "role": "map_aux"
+    },
+    {
+      "id": "data3",
+      "ram_base": 0,
+      "max_size": 1760,
+      "role": "map_aux"
+    },
+    {
+      "id": "adpcm_a",
+      "ram_base": 0,
+      "max_size": 1984,
+      "role": "adpcm"
+    },
+    {
+      "id": "vector_tpseg",
+      "ram_base": 24576,
+      "max_size": 1408,
+      "role": "tilemap"
+    },
+    {
+      "id": "evt_mst_mes",
+      "ram_base": 256,
+      "max_size": 1409,
+      "role": "script_npc_msg"
+    },
+    {
+      "id": "evt_mst_mes_b",
+      "ram_base": 256,
+      "max_size": 1409,
+      "role": "script_npc_msg"
+    },
+    {
+      "id": "vector2_data1",
+      "ram_base": 24576,
+      "max_size": 1408,
+      "role": "tilemap"
+    },
+    {
+      "id": "adpcm_b",
+      "ram_base": 255,
+      "max_size": 2047,
+      "role": "adpcm"
+    }
+  ],
+  "extracted": {
+    "data1": null,
+    "data2": null,
+    "data3": null,
+    "adpcm_a": null,
+    "vector_tpseg": null,
+    "evt_mst_mes": null,
+    "evt_mst_mes_b": null,
+    "vector2_data1": null,
+    "adpcm_b": null
+  },
+  "decompress_attempts": [
+    {
+      "method": "lzss_okumura_skip0_max0x38e1",
+      "ok": false,
+      "out_size": 0,
+      "note": "too small"
+    },
+    {
+      "method": "lzss_okumura_skip0_max0x10000",
+      "ok": false,
+      "out_size": 0,
+      "note": "too small"
+    },
+    {
+      "method": "lzss_okumura_skip0_max0x100000",
+      "ok": false,
+      "out_size": 0,
+      "note": "too small"
+    },
+    {
+      "method": "lzss_okumura_skip2_max0x38e1",
+      "ok": false,
+      "out_size": 0,
+      "note": "too small"
+    },
+    {
+      "method": "lzss_okumura_skip2_max0x10000",
+      "ok": false,
+      "out_size": 0,
+      "note": "too small"
+    },
+    {
+      "method": "lzss_okumura_skip2_max0x100000",
+      "ok": false,
+      "out_size": 0,
+      "note": "too small"
+    },
+    {
+      "method": "lzss_okumura_skip4_max0x38e1",
+      "ok": false,
+      "out_size": 0,
+      "note": "too small"
+    },
+    {
+      "method": "lzss_okumura_skip4_max0x10000",
+      "ok": false,
+      "out_size": 0,
+      "note": "too small"
+    },
+    {
+      "method": "lzss_okumura_skip4_max0x100000",
+      "ok": false,
+      "out_size": 0,
+      "note": "too small"
+    },
+    {
+      "method": "lzss_okumura_skip8_max0x38e1",
+      "ok": false,
+      "out_size": 0,
+      "note": "too small"
+    },
+    {
+      "method": "lzss_okumura_skip8_max0x10000",
+      "ok": false,
+      "out_size": 0,
+      "note": "too small"
+    },
+    {
+      "method": "lzss_okumura_skip8_max0x100000",
+      "ok": false,
+      "out_size": 0,
+      "note": "too small"
+    }
+  ],
+  "notes": [
+    "Formats testés : LZSS Okumura (entête 0/2/4 o), tailles 0x38e1 / 64K.",
+    "Échec attendu tant que ZPRESS/IVCOM (build) ou la routine $E8 n'est pas reversée.",
+    "Binaires ZPRESS/LZSS absents du CD retail (catalogue dev seulement). Voir tools/hudson_pack.py catalog."
+  ]
+}
