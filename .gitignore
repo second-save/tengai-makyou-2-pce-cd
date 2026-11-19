@@ -1,0 +1,9 @@
+# Game data, never commit
+*.bin
+*.BIN
+*.iso
+*.cue
+!tenmatools/tenma/tenma_iso_build.cue
+Far East of Eden*/
+work/**/*.exe
+__pycache__/
