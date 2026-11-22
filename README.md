@@ -1,121 +1,61 @@
-# Tengai Makyou II (PCE-CD) — Reverse Engineering & Translation
+# Far East of Eden: Tengai Makyou II – Manji Maru (PC Engine Super CD-ROM²) — English Translation v0.9 beta
 
-Projet visant à localiser le texte japonais de **Far East of Eden: Tengai Makyou II: Manji Maru** (PC Engine CD, 1992), l'extraire en CSV et préparer une traduction anglaise.
+An English translation patch for **Tengai Makyou II: Manji Maru** (天外魔境II 卍MARU, Hudson / Red Company, 1992),
+the PC Engine Super CD-ROM² RPG. It was never released in English, until now.
 
-## Contenu du dépôt
+![The opening dialogue typing out in English](docs/dialogue.gif)
 
-| Chemin | Description |
-|--------|-------------|
-| `Far East of Eden - Tengai Makyou II - Manji Maru (Japan)/` | Image disque (piste 2 = données, pistes 1/3+ = audio) |
-| `tenmatools/` | Outils de la traduction fan de **Tengai Makyou III: Ziria** (LIPEMCO!/Supper) |
-| `tools/` | Scripts Python pour TM II |
-| `work/` | Fichiers générés (ISO extraite, etc.) |
-| `script/` | CSV de texte extrait |
+## Screenshots
 
-## Démarrage rapide
+<p>
+<img src="docs/screenshots/01_start_menu.png" width="400" alt="Start menu: New adventure? Pick START! Back to a saved journey? Pick LOAD!">
+<img src="docs/screenshots/02_dialogue.png" width="400" alt="Manjimaru's mother: Sneak out the usual way, through the second floor!">
+<img src="docs/screenshots/03_field_menu.png" width="400" alt="Field menu: Status, Items, Scroll, Gear, Arts">
+<img src="docs/screenshots/05_battle.png" width="400" alt="Battle: Warm Body appeared!">
+<img src="docs/screenshots/06_province.png" width="400" alt="Owari Province banner on the world map">
+<img src="docs/screenshots/08_kabuki_subtitles.png" width="400" alt="Kabuki's entrance, subtitled: You filthy bumpkins!">
+<img src="docs/screenshots/09_name_card.png" width="400" alt="Manjimaru's name card kept in Japanese, captioned Sengoku Manjimaru">
+<img src="docs/screenshots/10_staff_roll.png" width="400" alt="Festival staff roll kept in Japanese, captioned Director: Masuda Shoji">
+</p>
 
-```bash
-# 1. Extraire la piste données (2352 → 2048 octets/secteur)
-python3 tools/extract_iso.py
+## Download
 
-# 2. Extraire le texte japonais en CSV
-python3 tools/extract_text.py
+Get the zip from the [v0.9-beta release](https://github.com/second-save/tengai-makyou-2-pce-cd/releases/tag/v0.9-beta).
+It contains an xdelta patch and a README. The game is not included: patch your own image of the Japanese disc.
 
-# 3. Filtrer les faux positifs
-python3 tools/filter_text.py
+| Track 02 (data) | Size | CRC32 | SHA-1 |
+|---|---|---|---|
+| Japanese (input) | 232,109,472 | `e015c893` | `6098821244834d3cb630339a7028e7188b023f75` |
+| English (output) | 232,109,472 | `afb17a76` | `bfe1b5c84f4f3aba10f8ffd588cf169d01fc5733` |
 
-# 4. Cartographier les secteurs (maps, events, script)
-python3 tools/map_sectors.py
+`Far East of Eden - Tengai Makyou II - Manji Maru (Japan) (Track 02).bin` from the Redump BIN/CUE set. Only the
+data track changes: apply `TM2_EN_track02.xdelta` to it with [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher)
+or `xdelta3 -d -s <track 02> TM2_EN_track02.xdelta <output>`, put the output in place of Track 02 (same file name,
+or edit the `.cue`), and keep the audio tracks as they are. Boot with the Super System Card 3.0.
 
-# 5. Analyser le format YS.DATA (overlays Hudson / HDWRITE)
-python3 tools/ys_data.py find-cdlen   # tailles réelles (cdlen équivalent)
-python3 tools/ys_data.py
-python3 tools/ys_data.py extract yav -o work/yav.bin
+Changed sectors have their Mode 1 EDC/ECC recomputed, so the image also suits real drives and optical-drive
+emulators, not only emulators that ignore error correction.
 
-# 6. Parser overlays carte (segments tilemap / NPC / script)
-python3 tools/overlay_parse.py info yav
-python3 tools/overlay_parse.py parse-event 0x2C9 -o work/event_02c9
-python3 tools/overlay_parse.py split wa1 -o work/wa1_split
-```
+## What's translated
 
-Le CSV brut (`script/tm2_text.csv`, ~34 000 entrées) contient beaucoup de bruit.
-Le CSV filtré (`script/tm2_text_filtered.csv`, ~1 400 entrées) est celui à utiliser pour la traduction.
-Les entrées rejetées sont dans `script/tm2_text_rejected.csv` avec la raison du rejet.
+- All 9,102 strings: story and NPC dialogue, menus, shops, inns, battles, items, spells, arts, monsters and bosses,
+  signs, province banners, the start menu, the file screens and the ending credits
+- English subtitles for the voiced cutscenes (189 lines over 7 scenes); the Japanese voice acting is kept
+- The Japanese drawn as artwork stays as it is, with English captions underneath: the heroes' name cards, Kabuki's
+  splash, the Manto 2 advert and the festival staff roll
+- A variable-width font for the dialogue and menus
 
-Le CSV contient les colonnes :
-`type`, `id`, `offset`, `sector`, `msg_type`, `original`, `translation`, `notes`.
+## Known issues (beta)
 
-## Ce que nous savons (RE initial)
+- In battle, the Guard submenu (Defend / Cover / Dodge) shows a stray kanji in front of "Defend".
+- Some boss names are shortened to fit the game's 14-character name limit (Tenzen, Kuchinawa, Hamaguri...).
+- Kabuki's second name card, in his entrance scene, has no caption.
+- A few screens still need checking in play: two-column shop menus, some battle messages, one sign.
 
-### Structure du disque
+Tested in Mesen 2; not yet tested on real hardware or in Mednafen. Please open an issue for anything that looks
+wrong, with a screenshot or a savestate if you can.
 
-- **Pas de système de fichiers ISO9660** classique : le moteur Hudson adresse le CD par numéros de secteurs codés en dur (comme Ziria).
-- La piste 2 est en **MODE1/2352** ; les données utiles sont les 2048 octets/secteur (offset +16).
-- Secteur `0x800` = 2048 octets (`0x800`), ~98 686 secteurs de données (~192 Mo).
-- Artefacts de développement présents sur le disque (makefiles, `TENGAI2.PRG`, `MN_B01.BIN`, etc.) autour des secteurs `0x6Axx`.
+## This repository
 
-### Encodage du texte
-
-Le jeu appartient à la famille **Tenma/Hudson** et partage des concepts avec Ziria (tenmatools), mais le format est **plus ancien et différent** :
-
-| Préfixe | Usage observé | Exemple |
-|---------|---------------|---------|
-| `0x01` + 4 octets | Nom de zone/entité | `野良犬` |
-| `0x02` | Dialogue/menu court | `嵩木ﾊ oｰﾚk？` |
-| `0x10` + 1 octet | Dialogue avec contrôles | `$0` = saut de ligne, `$n` = nom du personnage |
-| SJIS + `0x00` | Chaînes menu/combat | `卍丸`, `戦闘防御`, `極楽` |
-
-Contrôles `$` (TM II) ↔ opcodes `0xEF–0xFF` (Ziria, voir `tenmatools/tenma/table/`).
-
-Exemple de dialogue décodé :
-```
-\x02r$0は$nうなっている!
-→ ligne 1 + « は[nom]うなっている! »
-```
-
-### Ce qui ne s'applique **pas** tel quel
-
-- **`tenma_scriptgen`** / **`tenma_mapscan`** : conçus pour Ziria (`tenma_02.iso`, secteurs maps `0x1137+`, en-têtes `0xC000–0xE000`). TM II n'utilise pas ce schéma.
-- **`tenma_prep`** : offsets de modules spécifiques à Ziria.
-- Le workflow CSV → `tenma_scriptbuild` → patch ISO reste une **cible** une fois le format TM II entièrement documenté.
-
-### Outils tenmatools utiles plus tard
-
-- `libpce/src/tenma/TenmaMsgDism.*` — désassembleur de messages (base pour un port TM II)
-- `tenma/table/sjis_utf8_tenma_std.tbl` — table de caractères Ziria (référence)
-- `discaster/` — reconstruction d'image CD
-- `wla-dx/` — assembleur HuC6280 pour patches ASM
-
-### Format YS.DATA (overlays Hudson)
-
-Le jeu n'utilise pas de fichiers `YS.DATA.*` sur le disque — c'est un **namespace runtime**
-pour des blocs sectorisés posés par `HDWRITE` au build. Le chargeur vit dans le secteur
-`0x14E` (gabarit `YS.DATA.??`). Le catalogue `adpos_*` a été recouvré depuis les
-artefacts de build (`0x6A00+`) :
-
-```bash
-python3 tools/ys_data.py list
-python3 tools/ys_data.py extract wa1 -o work/wa1.bin
-```
-
-Voir [`docs/YS_DATA.md`](docs/YS_DATA.md), [`docs/CDLEN.md`](docs/CDLEN.md) et [`docs/OVERLAY_FORMAT.md`](docs/OVERLAY_FORMAT.md).
-
-`cdlen.bin` n'est pas présent tel quel dans le ROM — les tailles réelles sont mesurées depuis le padding des slots (`find-cdlen`).
-
-## Prochaines étapes
-
-1. **Cartographier les secteurs** — identifier où sont stockés maps, script events, texte combat/menu (analyse du programme `TENGAI2` / tables de secteurs).
-2. **Affiner l'extracteur** — réduire les faux positifs, parser les blocs maps comme Ziria le fait par région.
-3. **Pointer tables** — repérer les tables de pointeurs vers le texte (critical pour la réinsertion).
-4. **Port des outils C++** — adapter `TenmaMsgDism` pour TM II une fois le format validé.
-5. **Traduction** — remplir la colonne `translation` du CSV, puis développer un `tm2_scriptbuild`.
-
-## Références
-
-- [tenmatools (GitHub)](https://github.com/suppertails66/tenmatools) — traduction Ziria
-- [Redump](http://redump.org/) — vérification du dump (serial HCD1022)
-- [TCRF](https://www.tcrf.net/Tengai_Makyou_II:_Manjimaru_(TurboGrafx-CD)) — contenu unused, character viewer
-
-## Licence
-
-Le jeu appartient à Hudson Soft / Konami / Red Company. Ce dépôt est un projet de recherche et de fan translation ; fournissez votre propre copie légale du jeu.
+The reverse-engineering notes (`docs/`) and the early analysis tools (`tools/`) from the start of the project:
+Hudson pack decompression, sector map, Mesen helpers. No game data is included.
